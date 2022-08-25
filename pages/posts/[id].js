@@ -18,7 +18,7 @@ export async function getStaticPaths() {
   return {
     paths,
     fallback: false,
-  }
+  } 
 }
 
 export default function Post({ postData }) {
