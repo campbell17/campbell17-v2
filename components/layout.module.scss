@@ -1,0 +1,14 @@
+@import '../styles/variables.module.scss';
+
+.container {
+  max-width: 64rem;
+  margin: 3rem auto 6rem;
+  padding: 0 3em;
+}
+.contentGrid {
+  display: grid;
+  grid-gap: $gap6;
+}
+.backToHome {
+  margin: 3rem 0 0;
+}

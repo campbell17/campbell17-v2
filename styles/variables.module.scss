@@ -1,0 +1,78 @@
+$fix-mqs                      : false !default;
+$old-ie                       : false !default;
+
+$break-mini: 400px;
+$break-small: 600px;
+$break-large: 1200px;
+
+$gap0:   4px;
+$gap1:   8px;
+$gap2:   16px;
+$gap3:   24px;
+$gap4:   32px;
+$gap5:   40px;
+$gap6:   48px;
+$gap7:   56px;
+$gap8:   64px;
+$gap9:   72px;
+$gap10:  80px;
+
+$text:        #41403b;
+$textlight:   #817f74;
+$background:  #f6f4f2;
+$border:      #ddd;
+$link:        #08a1e8;
+$linkhover:   #ffcc00;
+
+$display-text: 'Lato', helvetica, arial, sans-serif;
+$body-text: 'Lora', georgia, serif;
+
+:export {
+  fix-mqs: $fix-mqs;
+  old-ie: $old-ie;
+  
+  break-mini: $break-mini; 
+  break-small: $break-small; 
+  break-large: $break-large; 
+  
+  gap0: $gap0;
+  gap1: $gap1;
+  gap2: $gap2;
+  gap3: $gap3;
+  gap4: $gap4;
+  gap5: $gap5;
+  gap6: $gap6;
+  gap7: $gap7;
+  gap8: $gap8;
+  gap9: $gap9;
+  gap10: $gap10;
+  
+  text: $text;
+  textlight: $textlight;
+  background: $background;
+  border: $border;
+  link: $link;
+  linkhover: $linkhover;
+  
+  display-text: $display-text;
+  body-text: $body-text;
+}
+
+@mixin mq($breakpoint, $query: 'max-width', $type: 'screen') { // breakpoint can be a variable
+  // if media queries are not supported
+  @if $fix-mqs {
+    @if $fix-mqs >= $breakpoint { // ...and if the fixed breakpoint is greater than query...
+      @content; // ...output the content the user gave us.
+    }
+  }
+  // Otherwise, output it using a regular media query
+  @else {
+    @media #{$type} and (#{$query}: #{$breakpoint}) { @content; }
+  }
+}
+@mixin radius($radius: $gap1){
+  border-radius: $radius;
+}
+@mixin radius-sm($radius: $gap0){
+  border-radius: $radius;
+}

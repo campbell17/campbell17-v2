@@ -1,0 +1,44 @@
+import Head from 'next/head';
+import Layout, { siteTitle } from '../components/layout';
+import utilStyles from '../styles/utils.module.scss';
+import { getSortedPostsData } from '../lib/posts';
+import Link from 'next/link';
+import Date from '../components/date';
+import Masthead from '../components/masthead';
+
+export async function getStaticProps() {
+  const allPostsData = getSortedPostsData();
+  return {
+    props: {
+      allPostsData,
+    },
+  };
+}
+
+export default function Posts({allPostsData}) {
+  return (
+    <Layout posts>
+      <Head>
+        <title>{siteTitle}</title>
+      </Head>
+      <Masthead 
+        title="Journal" 
+        subtitle="Thoughts on design, art, life, and whatever comes to mind." 
+      />
+      <section style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gridGap: 16 }} className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+        {allPostsData.map(({ id, title, date }) => (
+          title ? <div className={utilStyles.cardShadow} style={{ background: 'rgba(255,255,255,.25)', borderRadius: 8, padding: '8px 16px' }} key={id}>
+            <Link href={`/posts/${id}`}>
+              <a>{title}</a>
+            </Link>
+            <br />
+            <small className="soft">
+              <Date dateString={date} />
+            </small>
+          </div>
+          : null            
+        ))}
+      </section>      
+    </Layout>
+  );
+}
