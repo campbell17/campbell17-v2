@@ -1,6 +1,4 @@
 {
-  "name": "campbell17-v2",
-  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
