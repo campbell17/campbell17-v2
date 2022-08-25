@@ -35,8 +35,20 @@ export default function Home({allPostsData}) {
       </ContentBlock>
       <ContentBlock
         heading="Projects"
-        content="Going on 17 years of design, illustration, and creative direction."
-      />
+        content="My work is a mix of design, illustration, and creative direction. Check out some highlights:"
+        >
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gridGap: 16 }}>
+          <div style={{ position: 'relative', aspectRatio: '1' }}>
+            <Image layout="fill" src="https://campbell17.s3.amazonaws.com/work/square/fulcrum.jpg" />
+          </div>
+          <div style={{ position: 'relative', aspectRatio: '1' }}>
+            <Image layout="fill" src="https://campbell17.s3.amazonaws.com/work/square/divide.jpg" />
+          </div>
+          <div style={{ position: 'relative', aspectRatio: '1' }}>
+            <Image layout="fill" src="https://campbell17.s3.amazonaws.com/work/square/personal-alt.jpg" />
+          </div>
+        </div>
+      </ContentBlock>
       <ContentBlock
         heading="Journal"
         content="Some observations and general meanderings. Here's a few I like:"

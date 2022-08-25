@@ -3,6 +3,7 @@ layout: post
 category: writing
 title: 'The Unsolved Problem'
 date: '2020-05-24'
+draft: true
 ---
 
 There's a pattern of behavior that causes people to try very hard, with earnest intention and intense motivation, and just when they get pretty good at whatever they're trying, they stop improving. The resistance that comes along with the final 20% of improvement is so thick that it is far more comfortable to tread water at 80% (or even 60%) than grab for that next gear and grind their way into excellence.

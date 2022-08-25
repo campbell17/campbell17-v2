@@ -3,6 +3,7 @@ layout: post
 category: writing
 title: "Art Process: The Making of Sirens 1"
 date: '2020-05-24'
+draft: true
 ---
 
 ![Sirens 1 Process cover](/assets/img/posts/sirens-1-cover-d.jpg)

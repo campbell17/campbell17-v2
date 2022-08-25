@@ -1,19 +1,10 @@
 import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout';
-import { getSortedPostsData } from '../lib/posts';
 import Masthead from '../components/masthead';
 import Image from 'next/image';
 
-export async function getStaticProps() {
-  const allPostsData = getSortedPostsData();
-  return {
-    props: {
-      allPostsData,
-    },
-  };
-}
 
-export default function Projects({allPostsData}) {
+export default function Projects() {
   return (
     <Layout projects>
       <Head>

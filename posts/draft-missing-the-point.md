@@ -3,6 +3,7 @@ layout: post
 category: writing
 title: 'Why Is It So Easy to Miss The Point?'
 date: '2020-05-24'
+draft: true
 ---
 
 I had this text exchange with my Mother-in-law today and I want you to pay attention to the initial knee-jerk reply that I didn't end up sending:

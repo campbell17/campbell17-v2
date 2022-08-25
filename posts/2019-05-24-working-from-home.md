@@ -1,10 +1,9 @@
 ---
 title: 'Working from home today. Forever.'
 date: '2020-05-24'
-homepage: true
 ---
 
-<p class="note">This article was originally posted on <a href="https://medium.com/@campbell17/working-from-home-today-forever-cf06e166d4b2">Medium</a></p>
+This article was originally posted on [Medium](https://medium.com/@campbell17/working-from-home-today-forever-cf06e166d4b2)
 
 Sitting here on my couch with a cat crowding my hip (and getting her stray fur on my keyboard), I strain to remember a time when this was not how I spent all my working days. In September, it will be 9 years since I was cold-called into what has become the longest tenured, most rewarding, and most fulfilling career experience of my life. On a warm, late-summer day in 2010, I was clicking away at my computer in a generic office building, daydreaming about being anywhere else. Back before robo-calls made it unwise to answer a call from an unfamiliar number, a ring from my lightly used iPhone 3G prompted me to excuse myself from my desk and sidle over to the break room to see who was on the other end.
 

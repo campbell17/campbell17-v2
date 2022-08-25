@@ -136,6 +136,7 @@ body {
 .wrapper { margin: $gap2; }
 p { 
   line-height: 2.0; text-align: left;  
+  &:last-child { margin-bottom: 0; }
 }
 // .title-block p { text-align: center; }
 blockquote { line-height: 1.4; }

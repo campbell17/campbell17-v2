@@ -3,6 +3,7 @@ layout: post
 category: writing
 title: "Prove Them Right or Prove Them Wrong"
 date: '2021-03-08'
+homepage: true
 ---
 
 ![Calvin & Hobbes single panel comic. Calvin says, now I need to make some enemies. Hobbes responds, I'll be one.](/assets/img/posts/calvin-enemies.jpg)
