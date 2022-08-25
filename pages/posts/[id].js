@@ -10,7 +10,7 @@ export async function getStaticProps({ params }) {
     props: {
       postData,
     },
-  };
+  }
 }
 
 export async function getStaticPaths() {
@@ -18,7 +18,7 @@ export async function getStaticPaths() {
   return {
     paths,
     fallback: false,
-  };
+  }
 }
 
 export default function Post({ postData }) {
@@ -35,5 +35,6 @@ export default function Post({ postData }) {
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
       </article>
     </Layout>
-  );
+  )
 }
+
