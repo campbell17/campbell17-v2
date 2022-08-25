@@ -17,6 +17,7 @@
     "remark-html": "^15.0.1"
   },
   "devDependencies": {
+    "eslint": "^8.22.0",
     "sass": "^1.54.4"
   }
 }
