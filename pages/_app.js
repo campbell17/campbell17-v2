@@ -1,7 +1,7 @@
 import '../styles/global.scss';
 import Router from 'next/router';
 import NProgress from 'nprogress'; //nprogress module
-import '../styles/nprogress.scss'; //styles of nprogress
+import '../styles/nprogress.css'; //styles of nprogress
 
 //Route Events. 
 Router.events.on('routeChangeStart', () => NProgress.start()); 
