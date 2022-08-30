@@ -571,35 +571,36 @@ nav { font-family: $display-text; }
   }
 }
 .tile-container {
-  .tile-overlay {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    transition: .25s ease-out;
-    background-color: rgba(246,244,242,.95);    
-  }
-  .tile-title {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin: 0;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    color: $text;
-    text-transform: uppercase;
-    font-family: $display-text;
-    text-shadow: none;
-    transition: .25s ease;
-  }
   &:hover {
     .tile-overlay { opacity: 1; }
   }
 }
+.tile-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .25s ease-out;
+  background-color: rgba(246,244,242,.95);    
+}
+.tile-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: 0;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: $text;
+  text-transform: uppercase;
+  font-family: $display-text;
+  text-shadow: none;
+  transition: .25s ease;
+}
+
 .gallery-container a {
   cursor: zoom-in;
 }
@@ -645,3 +646,11 @@ footer {
   .copy p { font-size: 11px; margin-top: $gap4; }
   span { padding: 0 7px; }
 }
+
+
+/* ----- `Gallery Component
+----------------------------------------------------------------------------------------------------*/
+.gallery-item img:hover { transition: all ease-in-out 200ms; transform: scale(1.1); overflow: hidden; opacity: .1; filter: blur(2px); }
+.gallery-image { z-index: 1; }
+.transitioning { transition: all ease-in-out 200ms; filter: blur(40px) grayscale(100%); transform: scale(1.1); }
+.transitioned	{ transition: all ease-in-out 200ms; filter: blur(0px) grayscale(0); transform: scale(1);  }
