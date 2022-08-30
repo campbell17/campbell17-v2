@@ -42,7 +42,7 @@ function BlurImage(index) {
           }
           onLoadingComplete={() => setLoading(false)}
         />
-        <h5 style={{ position: "absolute", width: "100%", height: "100%", top: "calc(100% - .5em)", zIndex: 0 }} class="tile-title">{index.linkTitle}</h5>
+        <h5 style={{ position: "absolute", width: "100%", height: "100%", top: "calc(50% - 2em)", textAlign: "center", zIndex: 0 }} className={ isLoading ? 'tile-title transitioning' : 'tile-title transitioned'}>{index.linkTitle}</h5>
       </div>
     </a>
   )

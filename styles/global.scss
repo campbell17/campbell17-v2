@@ -588,17 +588,10 @@ nav { font-family: $display-text; }
   background-color: rgba(246,244,242,.95);    
 }
 .tile-title {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin: 0;
-  transform: translate(-50%, -50%);
-  text-align: center;
   color: $text;
   text-transform: uppercase;
   font-family: $display-text;
   text-shadow: none;
-  transition: .25s ease;
 }
 
 .gallery-container a {
