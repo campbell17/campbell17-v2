@@ -1,7 +1,10 @@
 import Image from 'next/image';
-import { useState } from 'react'
+import Link from 'next/link';
+import { useState } from 'react';
+import { useRouter } from 'next/router';
 
 export default function Gallery() {
+  
   const images = [
     { link: "/projects/fulcrum", linkTitle: "Fulcrum", category: "art", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/square/fulcrum.jpg", alt: "", title: "" },
     { link: "/projects/fulcrum-blog", linkTitle: "Fulcrum Blog", category: "art", subcategory: "fulcrum blog", src: "https://campbell17.s3.amazonaws.com/work/square/fulcrum-blog.gif", alt: "", title: "" },
@@ -24,26 +27,29 @@ export default function Gallery() {
 
 function BlurImage(index) {
   const [isLoading, setLoading] = useState(true)
-  
+  const router = useRouter()
+
   return (
-    <a href={index.link} className="gallery-item">
-      <div style={{ background: '#fff', aspectRatio: '1', overflow: 'hidden', borderRadius: 8, position: "relative" }}>
-        <Image
-          alt={index.alt}
-          src={index.src}
-          layout='responsive'
-          width={100}
-          height={100}
-          objectFit="cover"
-          className={
-            isLoading
-              ? 'gallery-image transitioning'
-              : 'gallery-image transitioned'
-          }
-          onLoadingComplete={() => setLoading(false)}
-        />
-        <h5 style={{ position: "absolute", width: "100%", height: "100%", top: "calc(50% - 2em)", textAlign: "center", zIndex: 0 }} className={ isLoading ? 'tile-title transitioning' : 'tile-title transitioned'}>{index.linkTitle}</h5>
-      </div>
-    </a>
+    <Link href={index.link}>
+      <a className="gallery-item">
+        <div style={{ background: '#fff', aspectRatio: '1', overflow: 'hidden', borderRadius: 8, position: "relative" }}>
+          <Image
+            alt={index.alt}
+            src={index.src}
+            layout='responsive'
+            width={100}
+            height={100}
+            objectFit="cover"
+            className={
+              isLoading
+                ? 'gallery-image transitioning'
+                : 'gallery-image transitioned'
+            }
+            onLoadingComplete={() => setLoading(false)}
+          />
+          <h5 style={{ position: "absolute", width: "100%", height: "100%", top: "calc(50% - 2em)", textAlign: "center", zIndex: 0 }} className={ isLoading ? 'tile-title transitioning' : 'tile-title transitioned'}>{index.linkTitle}</h5>
+        </div>
+      </a>
+    </Link>
   )
 }

@@ -6,7 +6,7 @@ import Gallery from '../../components/gallery';
 
 export default function Fulcrum() {
   return (
-    <Layout projects>
+    <Layout fulcrum>
       <Head>
         <title>{siteTitle}</title>
       </Head>
