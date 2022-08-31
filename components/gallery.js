@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { useState } from 'react';
-import { useRouter } from 'next/router';
 
 export default function Gallery() {
   
@@ -27,7 +26,6 @@ export default function Gallery() {
 
 function BlurImage(index) {
   const [isLoading, setLoading] = useState(true)
-  const router = useRouter()
 
   return (
     <Link href={index.link}>

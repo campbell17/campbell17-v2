@@ -27,15 +27,16 @@ export default function Posts({allPostsData}) {
       />
       <section style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gridGap: 16 }} className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         {allPostsData.map(({ id, title, date, draft }) => (
-          draft != true && title ? <div className={utilStyles.cardShadow} style={{ background: 'rgba(255,255,255,.25)', borderRadius: 8, padding: '8px 16px' }} key={id}>
-            <Link href={`/posts/${id}`}>
-              <a>{title}</a>
-            </Link>
-            <br />
-            <small className="soft">
-              <Date dateString={date} />
-            </small>
-          </div>
+          draft != true && title ? 
+          <Link href={`/posts/${id}`}>
+            <a className={utilStyles.cardShadow} style={{ background: 'rgba(255,255,255,.25)', borderRadius: 8, padding: '8px 16px' }} key={id}>
+              {title}
+              <br />
+              <small className="soft">
+                <Date dateString={date} />
+              </small>
+            </a>
+          </Link>
           : null            
         ))}
       </section>      
