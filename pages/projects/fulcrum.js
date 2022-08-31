@@ -12,12 +12,19 @@ export default function Fulcrum() {
       </Head>
       <Masthead         
         title="Fulcrum" 
-        subtitle="Fulcrum was created in 2011 to scratch an itch that surfaced from our parent company, Spatial Networks. Its value to a wider market presented itself almost immediately and I was asked to design the logo, marketing website, and the look and feel of the product." 
-      >
-        <p>Since then, I've lead the design on every product feature, brand refresh, marketing website, slide deck, trade show tchotchke, all-hands t-shirt, and any other creative need that's bubbled up. In 2020, I moved over to Product Design full time after Fulcrum was acquired and the organization changed hands.</p>
-        <p>Below are a handful of examples of some of my work from my time here:</p>
-      </Masthead>
-      
+        subtitle="A better way to collect data and manage your field inspections." 
+      />
+
+      <ContentBlock
+        heading="Overview"
+        content="Fulcrum was created in 2011 to scratch an itch that surfaced from our parent company, Spatial Networks. Its value to a wider market presented itself almost immediately and I was asked to design the logo, marketing website, and the look and feel of the product."
+      />
+      <ContentBlock
+        content="Since then, I've lead the design on every product feature, brand refresh, marketing website, slide deck, trade show tchotchke, all-hands t-shirt, and any other creative need that's bubbled up. In 2020, I moved over to Product Design full time after Fulcrum was acquired and the organization changed hands."
+      />
+      <ContentBlock
+        content="Since then, I've lead the design on every product feature, brand refresh, marketing website, slide deck, trade show tchotchke, all-hands t-shirt, and any other creative need that's bubbled up. In 2020, I moved over to Product Design full time after Fulcrum was acquired and the organization changed hands."
+      />
       <Gallery />
     </Layout>
   );

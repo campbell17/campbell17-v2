@@ -18,7 +18,7 @@ export default function Layout({ children, home }) {
           <meta name="twitter:card" content="summary_large_image" />
         </Head>
         <Menu />
-        <main className={styles.contentGrid}>{children}</main>
+        <main className={styles.pageGrid}>{children}</main>
         {!home && (
           <div className={styles.backToHome}>
             <Link href="/">

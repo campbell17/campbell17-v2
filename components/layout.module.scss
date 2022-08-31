@@ -5,9 +5,13 @@
   margin: 3rem auto 6rem;
   padding: 0 3em;
 }
-.contentGrid {
+.pageGrid {
   display: grid;
-  grid-gap: $gap8;
+  grid-gap: $gap6;
+}
+.innerContentGrid {
+  display: grid;
+  grid-gap: $gap2;
 }
 .backToHome {
   margin: 3rem 0 0;
