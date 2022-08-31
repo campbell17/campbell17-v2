@@ -136,7 +136,7 @@ body {
 .wrapper { margin: $gap2; }
 p { 
   line-height: 2.0; text-align: left;  
-  &:last-child { margin-bottom: 0; }
+  &:last-of-type:not(:only-of-type) { margin-bottom: 0; }
 }
 // .title-block p { text-align: center; }
 blockquote { line-height: 1.4; }
@@ -386,9 +386,6 @@ nav { font-family: $display-text; }
   align-items: center;
   margin-bottom: $gap6;
  
-  @include mq($break-small){
-    align-items: flex-start;
-  }
   .main-nav {
     display: flex;
     align-items: center;  
@@ -409,6 +406,7 @@ nav { font-family: $display-text; }
   }
 }
 .logo {
+  min-width: 60px;
   &.inner { 
     @include radius-sm;
     a:hover .nav-link { border-bottom: 4px solid $linkhover; }
@@ -420,39 +418,6 @@ nav { font-family: $display-text; }
   @include mq($break-small){
     align-items: flex-start;
   }
-}
-.hp-portrait { 
-  max-width: 240px; 
-  margin-right: $gap4; 
-  @include mq($break-small){
-    margin: 0;
-  }
-  @include mq($break-large){
-    display: none;
-  }
-  @include mq($break-small){
-    display: block;
-  }
-}
-.tweener-container {
-  @include radius;
-  display: inline-block;
-  height: 80px;
-  margin-right: $gap2;
-  overflow: hidden;
-  width: 80px;
-
-  @include mq($break-large, min-width){
-    display: none;
-  }
-  @include mq($break-small){
-    display: none;
-  }
-}
-.tweener {
-  max-width: 120px;
-  margin-left: -18px;
-  margin-top: -10px;
 }
 
 /* ----- `Main Content
@@ -570,50 +535,13 @@ nav { font-family: $display-text; }
     }
   }
 }
-.tile-container {
-  &:hover {
-    .tile-overlay { opacity: 1; }
-  }
-}
-.tile-overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .25s ease-out;
-  background-color: rgba(246,244,242,.95);    
-}
+
 .tile-title {
   color: $text;
   text-transform: uppercase;
   font-family: $display-text;
   text-shadow: none;
 }
-
-.gallery-container a {
-  cursor: zoom-in;
-}
-
-/* Writing */
-.writing {
-  .content .post {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    .soft, .title { margin: 0; }
-    .soft { order: 1; margin-right: $gap2; }
-    @include mq($break-small){
-      flex-direction: column;
-      align-items: flex-start;
-      .soft { margin-bottom: $gap3; }
-    }
-  }
-}
-
 
 /* ----- `Footer
 ----------------------------------------------------------------------------------------------------*/
