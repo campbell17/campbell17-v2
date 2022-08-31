@@ -3,11 +3,11 @@ layout: post
 category: writing
 title: "Laundry Gratitude"
 description: "We tend to take for granted the small things that keep everything afloat..."
-img: '/assets/img/posts/laundry.jpg'
+img: 'https://campbell17.s3.amazonaws.com/posts/laundry.jpg'
 date: '2021-03-29'
 ---
 
-![Macro photo of a metal hanger](/assets/img/posts/laundry.jpg)
+![Macro photo of a metal hanger](https://campbell17.s3.amazonaws.com/posts/laundry.jpg)
 
 The clothes are already on the hangers. They're laid out thoughtfully and neatly on the bed. I look down at the stack of shirts. I look over at the closet - their final destination. I cast my gaze more broadly over the space, estimating the distance, in feet, between where they are and where they _could_ be. Three feet.
 

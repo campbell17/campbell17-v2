@@ -5,7 +5,7 @@ title: "Don't Eat Those Berries"
 date: '2021-01-28'
 ---
 
-<img class="container-bg on-white" style="width: 100%; height: auto;" src="/assets/img/posts/berry.jpg" alt="Graphic illustration of 4 strawberries and one rotten berry" />
+<img class="container-bg on-white" style="width: 100%; height: auto;" src="https://campbell17.s3.amazonaws.com/posts/berry.jpg" alt="Graphic illustration of 4 strawberries and one rotten berry" />
 
 I've recently gone HAM on signing up for newsletters and I came across this gem from [Jack](https://twitter.com/jackbutcher) Butcher's [Visualize Value](https://visualizevalue.substack.com/):
 

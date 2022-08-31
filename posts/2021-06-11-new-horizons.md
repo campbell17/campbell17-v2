@@ -3,11 +3,11 @@ layout: post
 category: writing
 title: "New, Yet Familiar Horizons"
 description: "It's time for a change."
-img: '/assets/img/posts/new-horizons.jpg'
+img: 'https://campbell17.s3.amazonaws.com/posts/new-horizons.jpg'
 date: '2021-06-11'
 ---
 
-![a family of Canada geese on a pond](/assets/img/posts/new-horizons.jpg)
+![a family of Canada geese on a pond](https://campbell17.s3.amazonaws.com/posts/new-horizons.jpg)
 
 When this year began, I set aside four simple anchors as a guide amongst the meanderings of the day-to-day. Three of those (reading, writing, and drawing more) are rooted in activities of daily practice, so their chance for success is already pretty high. The fourth, however, is something that requires far more attention, planning, stress, and cost: closing the book on my time in Florida and moving back to Pennsylvania.
 

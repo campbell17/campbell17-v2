@@ -14,7 +14,7 @@ In a recent [CSS Tricks newsletter](https://css-tricks.com/newsletter/217-small-
 
 I was taken aback at how closely this mirrors what I've been doing on Fulcrum for the past few months in our UI Audits. I did the first one back in March and I've been tending to it weekly ever since. 
 
-<img alt="a looping animation of productivity software scrolling down with numerous checked boxes" src="/assets/img/posts/ui-audits.gif" />
+![a looping animation of productivity software scrolling down with numerous checked boxes](https://campbell17.s3.amazonaws.com/posts/ui-audits.gif)
 
 I didn't initially set out to make this a regular practice, but that's exactly what it grew into organically. And since these are small changes that usually don't take longer than a few hours per week (if that), the payoff of constant improvement and momentum is well worth the modest cost in time.
 

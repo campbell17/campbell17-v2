@@ -6,7 +6,7 @@ date: '2021-03-08'
 homepage: true
 ---
 
-![Calvin & Hobbes single panel comic. Calvin says, now I need to make some enemies. Hobbes responds, I'll be one.](/assets/img/posts/calvin-enemies.jpg)
+![Calvin & Hobbes single panel comic. Calvin says, now I need to make some enemies. Hobbes responds, I'll be one.](https://campbell17.s3.amazonaws.com/posts/calvin-enemies.jpg)
 
 Think of all the nice things people have said about you that you consider as you frame your sense of self. Now replace all those good things with bad things. How would that change your perspective about yourself and your ability to live up to those things? 
 

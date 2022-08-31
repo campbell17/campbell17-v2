@@ -5,7 +5,7 @@ title: "Reading Pace: 91.25 Books Per Year"
 date: '2021-01-07'
 ---
 
-![Macro photograph of the edge of a hardbound book](/assets/img/posts/first-book-2021.jpg)
+![Macro photograph of the edge of a hardbound book](https://campbell17.s3.amazonaws.com/posts/first-book-2021.jpg)
 
 <p class="caption">First book, in the books.</p>
 

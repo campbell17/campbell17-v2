@@ -5,7 +5,7 @@ title: 'A New Chapter in Doing Nothing'
 date: '2021-01-04'
 ---
 
-![A dark wavy line with the troughs filled in red](/assets/img/posts/chapter-rest.png)
+![A dark wavy line with the troughs filled in red](https://campbell17.s3.amazonaws.com/posts/chapter-rest.png)
 
 It's somehow appropriate that the post immediately following one about making progress falls an entire month to the day of not making any. Half of that time, however, was by design. As the year came to an end I took off two full weeks, covering the Christmas and New Year holidays. During this time I afforded myself the opportunity to do as little as possible and I took full advantage. I got a cold halfway through my fortnight of loafing which drove the lack of action into another gear. There's something valuable about the zone of intensity in my early-morning routine, and my lack of productivity shared some of those qualities. Let's call it _aggressive_ leisure. With that in mind, I've devised a year-long plan for 2021 that I hope will facilitate a nice balance between progress and rest. It's a concept I eluded to in my previous post about the cyclical nature of these things, and how the structure of my day could likely be scoped out to larger stretches of time. 
 

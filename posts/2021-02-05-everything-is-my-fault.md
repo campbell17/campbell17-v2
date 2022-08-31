@@ -5,7 +5,7 @@ title: "Everything is My Fault"
 date: '2021-02-05'
 ---
 
-![Macro photograph of the Hell Yeah or No book cover](/assets/img/posts/hellyeah.jpg)
+![Macro photograph of the Hell Yeah or No book cover](https://campbell17.s3.amazonaws.com/posts/hellyeah.jpg)
 
 On the heels of reading my first two "normal" books of the year, I spent the last week chewing through a small yet juicy group of books about artistic / personal progress. I'm two-thirds of the way through the fifth in this group and I just read a page that shined a spotlight on something I've been making an effort to do over the last number of years. The book is ["Hell Yeah or No"](https://sive.rs/n) by [Derek Sivers](https://sive.rs/now). The essay is short enough to paste in its entirety, so read it below. This is such a powerful concept because it goes against every human instinct, but is one of the most liberating and constructive things you could ever do for yourself. 
 

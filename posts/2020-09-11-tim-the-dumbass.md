@@ -17,6 +17,6 @@ One of the colors we replaced is the reddest red there is: #ff0000. Formerly "Fu
 
 Does anyone want to guess what the new hex value for our red is?
 
-![screenshot of a typo in some code](/assets/img/posts/dumbass.jpg)
+![screenshot of a typo in some code](https://campbell17.s3.amazonaws.com/posts/dumbass.jpg)
 
 There's a moral here somewhere, I know it. Maybe I'll find it tomorrow in another file.

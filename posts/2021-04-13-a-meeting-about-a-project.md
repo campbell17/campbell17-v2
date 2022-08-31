@@ -3,11 +3,11 @@ layout: post
 category: writing
 title: "A Meeting About a Project"
 description: "Guys, before we move on I'd like to address an elephant in the room..."
-img: '/assets/img/posts/meeting.jpg'
+img: 'https://campbell17.s3.amazonaws.com/posts/meeting.jpg'
 date: '2021-04-13'
 ---
 
-![abstract illustration of Google calendar](/assets/img/posts/meeting.jpg)
+![abstract illustration of Google calendar](https://campbell17.s3.amazonaws.com/posts/meeting.jpg)
 
 > _Inspired by [Ryan Singer's](https://world.hey.com/rjs/) post, [Some solution vs. no solution](https://world.hey.com/rjs/10-some-solution-vs-no-solution-1d0b05d0)_
 

@@ -6,7 +6,7 @@ date: '2020-05-24'
 draft: true
 ---
 
-![Sirens 1 Process cover](/assets/img/posts/sirens-1-cover-d.jpg)
+![Sirens 1 Process cover](https://campbell17.s3.amazonaws.com/posts/sirens-1-cover-d.jpg)
 
 For the first time since college, I'm making art that goes beyond a simple hour-long sketch. As I settle into my [new routine](/post/new-morning-routine/), the potential for larger ideas begins to emerge amongst these fun, but mostly one-off daily drawings. First up is a series of portraits for 2021 entitled "Sirens".
 
@@ -14,7 +14,7 @@ As an addendum to the Series itself, I'm documenting what I learn along the way 
 
 ### The Tools
 
-![Sirens 1 Tools photo](/assets/img/posts/sirens-1-tools.jpg)
+![Sirens 1 Tools photo](https://campbell17.s3.amazonaws.com/posts/sirens-1-tools.jpg)
 
 This is less of a how-to and more of a general documentation of what I'm learning as I progress, but for the purposes of being thorough, let's go over some tools & materials.
 
@@ -26,7 +26,7 @@ I use gessoed illustration board for the acrylic studies and X-PressIt 8x10 blen
 
 #### Graphite
 
-![Sirens 1 Graphite photo](/assets/img/posts/sirens-1-graphite.jpg)
+![Sirens 1 Graphite photo](https://campbell17.s3.amazonaws.com/posts/sirens-1-graphite.jpg)
 
 I've bounced around between standard wood pencils, .5mm mechanical pencils, and others, but I always seem to return to the classic red Koh-I-Noor Technigraph 5611 lead holders. I love how weighty they are and I recently got a [desk-mounted sharpener](https://ebay.to/2Z9gawb) which lets me keep one hand free. (That sharpener was pretty hard to track down, so I linked to the same ebay listing where I got mine)
 

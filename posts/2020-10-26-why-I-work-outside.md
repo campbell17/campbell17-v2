@@ -6,7 +6,7 @@ subtitle: "Embellished for dramatic effect. I love my family. (Ok, are they gone
 date: '2020-10-26'
 ---
 
-![The blurry edge of a laptop in the foreground obscuring bare feet on a lawn chair](/assets/img/posts/working-outside.jpg)
+![The blurry edge of a laptop in the foreground obscuring bare feet on a lawn chair](https://campbell17.s3.amazonaws.com/posts/working-outside.jpg)
 
 <p class="caption">Me. Outside.</p>
 

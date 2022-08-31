@@ -18,7 +18,7 @@ I had this text exchange with my Mother-in-law today and I want you to pay atten
 
 My mother-in-law has these games in her possession because my brother-in-law and I lent them to our father-in-law to quell some of the boredom when he was fighting cancer in the hospital 7 years ago.
 
-![games](/assets/img/posts/naina-1.jpg)
+![games](https://campbell17.s3.amazonaws.com/posts/naina-1.jpg)
 
 <p class="caption">The games in question 🧐</p>
 
@@ -34,4 +34,4 @@ This reflex is so deeply ingrained that I still have to wrestle out of its grasp
 
 Which brings me back to Naina. I'm grateful that I didn't send that clumsy reply. In the grand scheme of things it wouldn't have been that bad, but I'll take any small win I can get. Fighting against the numerous insanities of human psychology is an uphill climb. For reference, below is the revised reply. It isn't Shakespeare, but hopefully it irons out at least one wrinkle from her day.
 
-<img class="container-bg on-white" src="/assets/img/posts/naina-2.jpg" />
+<img class="container-bg on-white" src="https://campbell17.s3.amazonaws.com/posts/naina-2.jpg" />

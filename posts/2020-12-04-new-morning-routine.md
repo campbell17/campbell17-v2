@@ -6,7 +6,7 @@ subtitle: "Tales & observations from a recovering time waster"
 date: '2020-12-04'
 ---
 
-![A dark wavy line with the peaks filled in green](/assets/img/posts/chapter-progress.png)
+![A dark wavy line with the peaks filled in green](https://campbell17.s3.amazonaws.com/posts/chapter-progress.png)
 
 When I used to read social media posts from the Rise-and-grind™ glitterati, the half of my brain that didn't scoff and chortle was deeply curious and a little envious. How did they have the discipline to not only rise so early but have any remaining mental capacity to subsequently grind? Beyond the pretenders, hustle-signalers, and full-on poseurs, I knew there had to be some merit to the idea, but I never had a strong enough compulsion to give it a try until recently. This essay explains the winding back and forth from nightly screen dependency to early-rising productivity. I'll go over the tradeoffs between these two states, how they affect my sleep, feelings of self-worth, productivity, fitness, and how it enhances my outlook on life. 
 
