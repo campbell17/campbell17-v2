@@ -214,21 +214,20 @@ a span {
 ----------------------------------------------------------------------------------------------------*/
 p, .vid-container { margin: 0 0 $gap3; }
 h1 { margin-bottom: $gap1; }
-.subcap { 
-  margin-bottom: 0;
-  & + * {  
-    font-size: .75rem;
-    text-transform: uppercase;
-    font-weight: 400;
-    letter-spacing: 2px;
-    text-align: center;    
-  }
+.overline { 
+  margin-bottom: 0;  
+  font-size: .75rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 2px;
 }
+
 .page-title { margin-bottom: 0; }
 blockquote {
   margin-inline-start: 0;
   padding-left: $gap5;
   border-left: 2px solid $text;  
+  p:only-child { margin-bottom: 0; }
 }
 .break-top {  
   border-top: 1px solid $border; 
@@ -564,7 +563,7 @@ footer {
 
 /* ----- `Gallery Component
 ----------------------------------------------------------------------------------------------------*/
-.gallery-item img:hover { transition: all ease-in-out 200ms; transform: scale(1.1); overflow: hidden; opacity: .1; filter: blur(2px); }
+.blurOnHover img:hover { transition: all ease-in-out 200ms; transform: scale(1.1); overflow: hidden; opacity: .1; filter: blur(2px); }
 .gallery-image { z-index: 1; }
 .transitioning { transition: all ease-in-out 200ms; filter: blur(40px) grayscale(100%); transform: scale(1.1); }
 .transitioned	{ transition: all ease-in-out 200ms; filter: blur(0px) grayscale(0); transform: scale(1);  }
