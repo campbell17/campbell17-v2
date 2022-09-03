@@ -17,6 +17,7 @@ $old-ie                       : false !default;
 
 $break-mini: 400px;
 $break-small: 600px;
+$break-medium: 800px;
 $break-large: 1200px;
 
 $gap0:   4px;
@@ -428,20 +429,12 @@ nav { font-family: $display-text; }
 
 /* Work / Art */
 
-.item-container {
+.grid-container {
   display: grid;
-  margin: $gap2 auto $gap8;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto;
   gap: $gap2;
-  max-width: 1440px;
-  &.centered .item { justify-self: center; }
-  .work & { 
-    border-radius: $gap1;
-    overflow: hidden;
-  }
-  &.tight { gap: $gap0; }
-  &.sharp .item, &.sharp .item img { @include radius-sm; }
+
   &.single {
     max-width: 1080px;
     grid-template-columns: 1fr;
@@ -464,7 +457,7 @@ nav { font-family: $display-text; }
       grid-template-columns: 1fr 1fr;
       grid-template-rows: 1fr;
     }
-    @include mq($break-small){
+    @include mq($break-medium){
       grid-template-columns: 1fr;
       grid-template-rows: 1fr;
     }
@@ -481,16 +474,7 @@ nav { font-family: $display-text; }
       grid-template-rows: 1fr;
     }
   }
-  &.wide { max-width: 1440px; }
 
-  .art & {
-    @include mq($break-small, min-width){
-      grid-template-columns: 1fr 1fr 1fr;
-    }
-    @include mq($break-large, min-width){
-      grid-template-columns: 1fr 1fr 1fr 1fr;
-    }
-  }
   @include mq($break-large){
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
@@ -499,35 +483,7 @@ nav { font-family: $display-text; }
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
   }
-  
-  .item {
-    @include radius;
-    overflow: hidden;
-    transition: all .1s ease-out;
-    margin: 0; 
-    &:hover a img { transform: scale(1.05); }
-    &.tall { grid-row-end: span 2; }
-    a { position: relative; display: inline-block; }
-    img { height: auto; transition: all .1s ease-out; transform: scale(1); }
-    .details {
-      position: absolute;
-      bottom: 0;
-      width: 100%;
-      height: 40px;
-      background: rgba(0,0,0,.3);
-      font-size: .5rem;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      text-shadow: none;
-      color: #fff;
-      text-align: center;  
-    }
-  }
 }
-
 .tile-title {
   color: $text;
   text-transform: uppercase;
@@ -565,5 +521,5 @@ footer {
 ----------------------------------------------------------------------------------------------------*/
 .blurOnHover img:hover { transition: all ease-in-out 200ms; transform: scale(1.1); overflow: hidden; opacity: .1; filter: blur(2px); }
 .gallery-image { z-index: 1; }
-.transitioning { transition: all ease-in-out 200ms; filter: blur(40px) grayscale(100%); transform: scale(1.1); }
+.transitioning { background: #fff; transition: all ease-in-out 200ms; filter: blur(40px) grayscale(100%); transform: scale(1.1); }
 .transitioned	{ transition: all ease-in-out 200ms; filter: blur(0px) grayscale(0); transform: scale(1);  }

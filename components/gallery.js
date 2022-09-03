@@ -15,22 +15,41 @@ export default function Gallery(props) {
     { link: "/projects/personal", linkTitle: "Personal", category: "art", subcategory: "drawing", src: "https://campbell17.s3.amazonaws.com/work/square/personal-alt.jpg", alt: "", title: "" },
   ]  
   const fulcrumImages = [
-    { link: "/projects/allinspections", linkTitle: "Allinspections", category: "work", subcategory: "allinspections", src: "https://campbell17.s3.amazonaws.com/work/square/allinspections.jpg", alt: "", title: "" },
-    { link: "/projects/divide", linkTitle: "Divide", category: "work", subcategory: "divide", src: "https://campbell17.s3.amazonaws.com/work/square/divide.jpg", alt: "", title: "" },
-    { link: "/projects/personal", linkTitle: "Personal", category: "art", subcategory: "drawing", src: "https://campbell17.s3.amazonaws.com/work/square/personal-alt.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-homescreen.png", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-tasks.png", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-issues.png", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-future.png", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-2.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-guides.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-mini-1-wide.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-mini-2-wide.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-mini-3-wide.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-mini-4-wide.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-mini-5-wide.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-mini-6-wide.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-mini-7-wide.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-mini-8-wide.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-8.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-9.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-10.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-11.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-12.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-sticker-3-wide.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-sticker-2-wide.jpg", alt: "", title: "" },
+    { category: "work", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/fulcrum/fulcrum-sticker-1-wide.jpg", alt: "", title: "" },
   ]
 
   return (  
     <div>
       {indexGallery &&
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gridGap: 16 }}>
+        <div className="grid-container">
           {indexImages.map((index) => (
             <BlurImage key={index.src} src={index.src} link={index.link} linkTitle={index.linkTitle}  />      
           ))}
         </div>
       }
       {fulcrumGallery &&
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gridGap: 16 }}>
+        <div className="grid-container double">
           {fulcrumImages.map((index) => (
             <ImageUnlinked key={index.src} src={index.src} />      
           ))}
@@ -46,7 +65,7 @@ function BlurImage(index) {
   return (
     <Link href={index.link}>
       <a className="blurOnHover">
-        <div style={{ background: '#fff', aspectRatio: '1', overflow: 'hidden', borderRadius: 8, position: "relative" }}>
+        <div style={{ aspectRatio: '1', overflow: 'hidden', borderRadius: 8, position: "relative" }}>
           <Image
             alt={index.alt}
             src={index.src}
@@ -73,13 +92,13 @@ function ImageUnlinked(index) {
 
   return (
     <a>
-      <div style={{ background: '#fff', aspectRatio: '1', overflow: 'hidden', borderRadius: 8, position: "relative" }}>
+      <div style={{ overflow: 'hidden', borderRadius: 8, position: "relative" }}>
         <Image
           alt={index.alt}
           src={index.src}
           layout='responsive'
-          width={100}
-          height={100}
+          width={144}
+          height={90}
           objectFit="cover"
           className={
             isLoading
@@ -88,7 +107,6 @@ function ImageUnlinked(index) {
           }
           onLoadingComplete={() => setLoading(false)}
         />
-        <h5 style={{ position: "absolute", width: "100%", height: "100%", top: "calc(50% - 2em)", textAlign: "center", zIndex: 0 }} className={ isLoading ? 'tile-title transitioning' : 'tile-title transitioned'}>{index.linkTitle}</h5>
       </div>
     </a>
   )
