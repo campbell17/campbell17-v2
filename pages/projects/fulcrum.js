@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Layout, { siteTitle } from '../../components/layout';
+import Link from 'next/link';
 import Masthead from '../../components/masthead';
 import ContentBlock from '../../components/contentBlock';
 import Gallery from '../../components/gallery';
@@ -12,7 +13,7 @@ export default function Fulcrum() {
       </Head>
       <Masthead         
         title="Fulcrum" 
-        subtitle="A better way to collect data and manage your field inspections." 
+        subtitle="The better way to collect data and manage your field inspections." 
       />
 
       <ContentBlock
@@ -26,6 +27,9 @@ export default function Fulcrum() {
         content="I'm currently writing a full case study and condensing 12+ years into a cohesive thread is just as hard as it sounds. In the meantime here are some examples of a few things I've designed during my tenure:"
       />
       <Gallery fulcrumImages />
+      <div className="flex flex-a-start flex-j-start">
+        <Link href="/projects"><a className="cta">&larr; See all Projects</a></Link>      
+      </div>
     </Layout>
   );
 }

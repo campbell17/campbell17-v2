@@ -19,13 +19,6 @@ export default function Layout({ children, home }) {
         </Head>
         <Menu />
         <main className={styles.pageGrid}>{children}</main>
-        {!home && (
-          <div className={styles.backToHome}>
-            <Link href="/">
-              <a>← Back to home</a>
-            </Link>
-          </div>
-        )}
       </div>
       <Footer />
     </>

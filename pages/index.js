@@ -49,6 +49,10 @@ export default function Home({allPostsData}) {
           </div>
         </div>
       </ContentBlock>
+      <div className="flex flex-a-start flex-j-start">
+        <Link href="/projects"><a className="cta">All Projects &rarr;</a></Link>      
+      </div>
+
       <ContentBlock
         heading="Journal"
         content="Some observations and general meanderings. Here's a few I like:"
@@ -70,6 +74,9 @@ export default function Home({allPostsData}) {
           </ul>
         </section>      
       </ContentBlock>
-    </Layout>
+      <div className="flex flex-a-start flex-j-start">
+        <Link href="/posts"><a className="cta">All Posts &rarr;</a></Link>      
+      </div>
+   </Layout>
   );
 }
