@@ -13,7 +13,7 @@ export default function Projects() {
         title="Projects" 
         subtitle="Below are examples of my work. I create software interfaces, video game UI, websites, design systems, icon sets, brands, and anything else I can get my hands on." 
       />
-      <Gallery indexImages />
+      <Gallery projectsImages />
     </Layout>
   );
 }
