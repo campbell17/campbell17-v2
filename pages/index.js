@@ -7,6 +7,7 @@ import Image from 'next/image';
 import Date from '../components/date';
 import Masthead from '../components/masthead';
 import ContentBlock from '../components/contentBlock';
+import Gallery from '../components/gallery';
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
@@ -37,17 +38,7 @@ export default function Home({allPostsData}) {
         heading="Projects"
         content="My work is a mix of design, illustration, and creative direction. Check out some highlights:"
         >
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gridGap: 16 }}>
-          <div style={{ position: 'relative', aspectRatio: '1' }}>
-            <Image layout="fill" src="https://campbell17.s3.amazonaws.com/work/square/fulcrum.jpg" />
-          </div>
-          <div style={{ position: 'relative', aspectRatio: '1' }}>
-            <Image layout="fill" src="https://campbell17.s3.amazonaws.com/work/square/divide.jpg" />
-          </div>
-          <div style={{ position: 'relative', aspectRatio: '1' }}>
-            <Image layout="fill" src="https://campbell17.s3.amazonaws.com/work/square/personal-alt.jpg" />
-          </div>
-        </div>
+        <Gallery homeImages />
       </ContentBlock>
       <div className="flex flex-a-start flex-j-start">
         <Link href="/projects"><a className="cta">All Projects &rarr;</a></Link>      
