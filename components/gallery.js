@@ -10,7 +10,6 @@ export default function Gallery(props) {
     { link: "/projects/fulcrum", linkTitle: "Fulcrum", category: "art", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/square/fulcrum.jpg", alt: "", title: "" },
     { link: "/projects/fulcrum-blog", linkTitle: "Fulcrum Blog", category: "art", subcategory: "fulcrum blog", src: "https://campbell17.s3.amazonaws.com/work/square/fulcrum-blog.gif", alt: "", title: "" },
     { link: "/projects/spatial-networks", linkTitle: "Spatial Networks, Inc", category: "art", subcategory: "spatial networks", src: "https://campbell17.s3.amazonaws.com/work/square/sni.jpg", alt: "", title: "" },
-    { link: "/projects/allinspections", linkTitle: "Allinspections", category: "work", subcategory: "allinspections", src: "https://campbell17.s3.amazonaws.com/work/square/allinspections.jpg", alt: "", title: "" },
     { link: "/projects/divide", linkTitle: "Divide", category: "work", subcategory: "divide", src: "https://campbell17.s3.amazonaws.com/work/square/divide.jpg", alt: "", title: "" },
     { link: "/projects/personal", linkTitle: "Personal", category: "art", subcategory: "drawing", src: "https://campbell17.s3.amazonaws.com/work/square/personal-alt.jpg", alt: "", title: "" },
   ]
@@ -42,7 +41,7 @@ export default function Gallery(props) {
   return (  
     <div>
       {indexGallery &&
-        <div className="grid-container">
+        <div className="grid-container double">
           {indexImages.map((index) => (
             <BlurImage key={index.src} src={index.src} link={index.link} linkTitle={index.linkTitle}  />      
           ))}
