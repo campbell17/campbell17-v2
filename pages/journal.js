@@ -19,7 +19,7 @@ export default function Journal({allPostsData}) {
   return (
     <Layout journal>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Journal of Tim Campbell</title>
       </Head>
       <Masthead 
         title="Journal" 

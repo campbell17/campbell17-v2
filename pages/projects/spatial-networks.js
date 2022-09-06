@@ -9,7 +9,7 @@ export default function SpatialNetworks() {
   return (
     <Layout spatial-networks>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Spatial Networks</title>
       </Head>
       <Masthead         
         title="Spatial Networks, Inc" 

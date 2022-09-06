@@ -7,7 +7,7 @@ export default function Projects() {
   return (
     <Layout projects>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Projects by Tim Campbell</title>
       </Head>
       <Masthead 
         title="Projects" 

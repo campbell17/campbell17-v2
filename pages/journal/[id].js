@@ -26,7 +26,7 @@ export default function Journal({ postData }) {
   return (
     <Layout>
       <Head>
-        <title>{postData.title}</title>
+        <title>{postData.title} by Tim Campbell</title>
       </Head>
       <article className="post-content">
         <p class="overline">

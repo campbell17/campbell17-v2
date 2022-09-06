@@ -8,7 +8,7 @@ export default function Personal() {
   return (
     <Layout personal>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Personal Work</title>
       </Head>
       <Masthead         
         title="Personal Work" 

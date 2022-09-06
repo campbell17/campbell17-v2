@@ -9,7 +9,7 @@ export default function Divide() {
   return (
     <Layout divide>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Divide Game</title>
       </Head>
       <Masthead         
         title="Divide" 

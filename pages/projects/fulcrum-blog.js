@@ -9,7 +9,7 @@ export default function FulcrumBlog() {
   return (
     <Layout fulcrum-blog>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Fulcrum Blog</title>
       </Head>
       <Masthead         
         title="Fulcrum Blog" 

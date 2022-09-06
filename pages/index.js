@@ -21,7 +21,7 @@ export default function Home({allPostsData}) {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>About Tim Campbell</title>
       </Head>
       <Masthead 
         title="Hi, I'm Tim."
