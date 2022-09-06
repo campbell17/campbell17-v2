@@ -16,7 +16,7 @@ export const Menu = () => {
         <div className="nav">
           <div className="logo inner">
             <Link href="/">
-              <a className="flex flex-a-center" >
+              <a>
                 <Image src="/images/logo-sm.png" width={60} height={60} alt="Site logo" />
               </a>
             </Link>
