@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Layout, { siteTitle } from '../components/layout';
+import Layout from '../components/layout';
 import utilStyles from '../styles/utils.module.scss';
 import { getSortedPostsData } from '../lib/posts';
 import Link from 'next/link';
@@ -21,7 +21,7 @@ export default function Home({allPostsData}) {
   return (
     <Layout home>
       <Head>
-        <title>About Tim Campbell</title>
+        <title>Tim Campbell</title>
       </Head>
       <Masthead 
         title="Hi, I'm Tim."
