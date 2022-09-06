@@ -7,7 +7,7 @@ export default function Footer() {
       <div className={styles.container}>
         <div className="content title-block">
           <h2 className="page-title">Get in touch</h2>
-          <p className="soft">Wanna chat? Hit me up:</p>
+          <p>Wanna chat? Hit me up:</p>
         </div>
         <div className="content">
           <div className="flex flex-a-start flex-j-start">

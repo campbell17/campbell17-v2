@@ -8,9 +8,9 @@ export default function Gallery(props) {
   const fulcrumGallery = props.fulcrumImages;
 
   const homeImages = [
-    { link: "/projects/fulcrum", linkTitle: "Fulcrum", category: "art", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/square/fulcrum.jpg", alt: "", title: "" },
-    { link: "/projects/divide", linkTitle: "Divide", category: "work", subcategory: "divide", src: "https://campbell17.s3.amazonaws.com/work/square/divide.jpg", alt: "", title: "" },
-    { link: "/projects/personal", linkTitle: "Personal", category: "art", subcategory: "drawing", src: "https://campbell17.s3.amazonaws.com/work/square/personal-alt.jpg", alt: "", title: "" },
+    { link: "/projects/fulcrum", linkTitle: "Fulcrum", category: "art", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/square/fulcrum.jpg", alt: "Fulcrum icon, a red triangle enclosed in a red circle", title: "" },
+    { link: "/projects/divide", linkTitle: "Divide", category: "work", subcategory: "divide", src: "https://campbell17.s3.amazonaws.com/work/square/divide.jpg", alt: "Illustration of blurry person on a bridge overlooking a city with a lone skyscraper", title: "" },
+    { link: "/projects/personal", linkTitle: "Personal", category: "art", subcategory: "drawing", src: "https://campbell17.s3.amazonaws.com/work/square/personal-alt.jpg", alt: "Drawing of a grimacing Emma Watson with an expressionless emoji thought bubble", title: "" },
   ]
   const projectsImages = [
     { link: "/projects/fulcrum", linkTitle: "Fulcrum", category: "art", subcategory: "fulcrum", src: "https://campbell17.s3.amazonaws.com/work/square/fulcrum.jpg", alt: "", title: "" },
@@ -49,21 +49,21 @@ export default function Gallery(props) {
       {homeGallery &&
         <div className="grid-container">
           {homeImages.map((index) => (
-            <BlurImage key={index.src} src={index.src} link={index.link} linkTitle={index.linkTitle}  />      
+            <BlurImage key={index.src} src={index.src} link={index.link} linkTitle={index.linkTitle} alt={index.alt}  />      
           ))}
         </div>
       }
       {indexGallery &&
         <div className="grid-container double">
           {projectsImages.map((index) => (
-            <BlurImage key={index.src} src={index.src} link={index.link} linkTitle={index.linkTitle}  />      
+            <BlurImage key={index.src} src={index.src} link={index.link} linkTitle={index.linkTitle} alt={index.alt}  />      
           ))}
         </div>
       }
       {fulcrumGallery &&
         <div className="grid-container double">
           {fulcrumImages.map((index) => (
-            <ImageUnlinked key={index.src} src={index.src} />      
+            <ImageUnlinked key={index.src} src={index.src} alt={index.alt} />      
           ))}
         </div>
       }

@@ -17,7 +17,7 @@ export const Menu = () => {
           <div className="logo inner">
             <Link href="/">
               <a>
-                <Image src="/images/logo-sm.png" width={60} height={60} alt="Site logo" />
+                <Image src="/images/logo-sm.png" width={200} height={200} alt="Site logo" />
               </a>
             </Link>
           </div>        
