@@ -22,7 +22,7 @@ export async function getStaticPaths() {
   } 
 }
 
-export default function Post({ postData }) {
+export default function Journal({ postData }) {
   return (
     <Layout>
       <Head>

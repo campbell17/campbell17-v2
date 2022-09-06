@@ -26,7 +26,7 @@ export const Menu = () => {
             <span className="border-color">/</span>
             <Link href="/projects"><a className={router.pathname.includes("/projects") ? "nav-link active" : "nav-link"}>projects</a></Link>
             <span className="border-color">/</span>
-            <Link href="/posts"><a className={router.pathname.includes("/posts") ? "nav-link active" : "nav-link"}>journal</a></Link>
+            <Link href="/journal"><a className={router.pathname.includes("/journal") ? "nav-link active" : "nav-link"}>journal</a></Link>
           </nav>
         </div>
     </header>
