@@ -65,7 +65,7 @@ export default function Home({allPostsData}) {
         </section>      
       </ContentBlock>
       <div className="flex flex-a-start flex-j-start">
-        <Link href="/posts"><a className="cta">All Posts &rarr;</a></Link>      
+        <Link href="/posts"><a className="cta">All Entries &rarr;</a></Link>      
       </div>
    </Layout>
   );
