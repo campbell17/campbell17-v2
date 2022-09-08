@@ -29,7 +29,7 @@ export default function Journal({ postData }) {
         <title>{postData.title} by Tim Campbell</title>
       </Head>
       <article className="post-content">
-        <p class="overline">
+        <p className="overline">
           <Date dateString={postData.date} />
         </p>
         <Masthead         
