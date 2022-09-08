@@ -25,7 +25,7 @@ export default function Journal({allPostsData}) {
         title="Journal" 
         subtitle="Thoughts on design, art, life, and whatever comes to mind." 
       />
-      <section style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gridGap: 16 }} className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+      <section className="grid-container">
         {allPostsData.map(({ id, title, date, draft }) => (
           draft != true && title ? 
           <Link href={`/journal/${id}`} key={id}>

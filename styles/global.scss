@@ -391,6 +391,7 @@ nav { font-family: $display-text; }
   display: flex;
   align-items: center;
   margin-bottom: $gap6;
+
  
   .main-nav {
     display: flex;
@@ -400,7 +401,6 @@ nav { font-family: $display-text; }
   nav {     
     margin-left: $gap4;
     display: flex;
-    list-style: none;
     justify-self: flex-end;
   
     & > * { 
@@ -410,14 +410,51 @@ nav { font-family: $display-text; }
       
     }
   }
+  @include mq($break-small){
+    nav { 
+      flex-direction: column; 
+      & > * { margin-left: 0; }
+      .nav-break { display: none; }
+      .nav-link {
+        &:hover { background: transparent; border-color: $background; box-shadow: none; 
+          &:before {
+            content: ">";
+            display: block;
+            width: $gap2;
+            height: $gap2;
+            position: absolute;
+            left: -$gap0;
+          }        
+        }
+        &.active { background: transparent; border-color: $background; position: relative; box-shadow: none;
+          &:before {
+            content: ">";
+            display: block;
+            width: $gap2;
+            height: $gap2;
+            position: absolute;
+            left: -$gap0;
+          }
+        }
+      }
+    }
+  }
 }
 .logo {
-  min-width: 60px;
-  max-width: 60px;
+  min-width: $gap8;
+  width: $gap8;
+  height: $gap8;
+
   &.inner { 
     @include radius-sm;
     a:hover .nav-link { border-bottom: 4px solid $linkhover; }
-    img { @include radius-sm; height: 60px; width: 60px; z-index: 1; }
+    img { @include radius-sm; }
+  }
+
+  @include mq($break-small){
+    min-width: $gap10;
+    width: $gap10;
+    height: $gap10;  
   }
 }
 .hp-bio {
