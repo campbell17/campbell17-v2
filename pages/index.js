@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import Layout from '../components/layout';
-import utilStyles from '../styles/utils.module.scss';
 import { getSortedPostsData } from '../lib/posts';
 import Link from 'next/link';
 import Date from '../components/date';
@@ -47,15 +46,15 @@ export default function Home({allPostsData}) {
         heading="Journal"
         content="Some observations and general meanderings. Here's a few I like:"
       >
-        <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-          <ul className={utilStyles.list}>
+        <section>
+          <ul className="no-style">
             {allPostsData.map(({ id, date, title, homepage }) => (
-              homepage ? <li className={utilStyles.listItem} key={id}>
+              homepage ? <li key={id}>
                 <Link href={`/journal/${id}`}>
                   <a>{title}</a>
                 </Link>
                 <br />
-                <small className={utilStyles.lightText}>
+                <small>
                   <Date dateString={date} />
                 </small>
               </li>      

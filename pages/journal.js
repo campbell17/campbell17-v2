@@ -1,6 +1,5 @@
 import Head from 'next/head';
-import Layout, { siteTitle } from '../components/layout';
-import utilStyles from '../styles/utils.module.scss';
+import Layout from '../components/layout';
 import { getSortedPostsData } from '../lib/posts';
 import Link from 'next/link';
 import Date from '../components/date';
@@ -29,7 +28,7 @@ export default function Journal({allPostsData}) {
         {allPostsData.map(({ id, title, date, draft }) => (
           draft != true && title ? 
           <Link href={`/journal/${id}`} key={id}>
-            <a className={utilStyles.cardShadow} style={{ background: 'rgba(255,255,255,.25)', borderRadius: 8, padding: '8px 16px' }}>
+            <a className="cardShadow" style={{ background: 'rgba(255,255,255,.25)', borderRadius: 8, padding: '8px 16px' }}>
               {title}
               <br />
               <small className="soft">

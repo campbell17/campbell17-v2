@@ -3,7 +3,7 @@
 
 Styling for campbell17.com
 Author: Tim Campbell
-Latest Changes: 08.22.22
+Latest Changes: 09.09.22
 
 *************************************************
 */
@@ -77,8 +77,9 @@ Base Styles --------------------------------------------------------------------
 header, footer, section, aside, nav { display:block; min-height:0px; zoom:1; }
 div { min-height:0px; zoom:1;}
 
-ul { padding: 0; list-style: disc; margin-left: $gap5; color: $textlight; }
-.no-style { list-style: none; }
+ul { list-style: disc; margin-left: $gap5; color: $textlight; }
+li { margin: 0 0 1.25rem; }
+.no-style { list-style: none; margin: 0; padding: 0; }
 .absolute-centered {
   position: absolute;
   top: 50%;
@@ -137,12 +138,10 @@ body {
   margin: 0;
   text-shadow: 0 1px 0 #fff;
 }
-.wrapper { margin: $gap2; }
 p { 
   line-height: 2.0; text-align: left;  
   &:last-of-type:not(:only-of-type) { margin-bottom: 0; }
 }
-// .title-block p { text-align: center; }
 blockquote { line-height: 1.4; }
 .back-to-top {  
   position: fixed;
@@ -167,7 +166,6 @@ blockquote { line-height: 1.4; }
     display: none;
   }
 }
-.small-text { font-size: $gap2; }
 
 /* ----- `Headings
 ----------------------------------------------------------------------------------------------------*/
@@ -278,7 +276,22 @@ blockquote {
     line-height: 1.4;
   }  
 }
-
+.title {
+  font-size: 3em;
+  margin-top: $gap3;
+  display: flex;
+  align-items: center;
+  @include mq($break-small){
+    font-size: 2.5em;
+  }  
+}
+.cardShadow {
+  transition: all ease-in-out 100ms;
+  box-shadow: 1px 1px 1px $border;
+  // border-right: 1px solid $border;
+  // border-bottom: 1px solid $border;
+  &:hover { box-shadow: -1px -1px 1px $border; }
+}
 .soft { color: $textlight; }
 .writing .post .soft { line-height: 1.4; }
 .border-color { color: $border; }
