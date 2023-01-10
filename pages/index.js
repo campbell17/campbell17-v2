@@ -24,7 +24,7 @@ export default function Home({allPostsData}) {
       </Head>
       <Masthead 
         title="Hi, I'm Tim."
-        subtitle="I'm a software designer living in the Keystone State. I'm shaping new feature strategy and design at Fulcrum, focusing on the quality and continued evolution of the UI/UX." 
+        subtitle="I'm a software designer living in Pennsylvania. I'm shaping new feature strategy and design at Fulcrum, focusing on the quality and continued evolution of the UI/UX." 
       />
       <ContentBlock
         heading="My Approach"
