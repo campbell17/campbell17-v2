@@ -3,7 +3,6 @@ layout: post
 category: writing
 title: "It's Not The Tool. It's You."
 date: '2020-09-16'
-homepage: true
 ---
 
 It was during an "earnest discussion of ideas" with my wife today that a certain aspect of human nature came sharply into focus. If anyone ever tells you they would love to do [_insert activity_] if they only had [_tool only tangentially related to that activity that happens to cost money_], you can take solace in the fact that nothing resembling that activity will be getting done with or without that tool. It's not her fault. I'm absolutely guilty of the same behavior, as we all are to varying degrees. This is a stall tactic that we employ and every time it crosses my path I'm reminded of my favorite essay on the matter: [Efficiency Is An Excuse To Not Do The Actual Work](https://www.trevormckendrick.com/essays/efficiency-is-an-excuse-to-not-do-the-actual-work) by Trevor McKendrick.
