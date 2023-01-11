@@ -16,8 +16,12 @@ export default function Footer() {
             <Link href="https://www.twitter.com/timcampbell17"><a className="cta">Twitter</a></Link>
           </div>
         </div>  
+        <div className="content" style={{ padding: "2em 0" }}>
+          <p>...or subscribe to get humorous and pithy short stories piped to your inbox:</p>
+          <iframe src="https://campbellseventeen.substack.com/embed" width="100%" height="220" style={{ border: "1px solid #ddd", backgroundColor: 'white', frameborder: 0, scrolling: "no" }}></iframe>
+        </div>
         <div className="content title-block copy">
-          <p>&copy; Tim Campbell 2003-2022 
+          <p>&copy; Tim Campbell 2003-2023 
             <span>&bull;</span>
             email: timcampbell at hey dot com
           </p>  
