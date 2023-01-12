@@ -30,7 +30,7 @@ export default function Home({allPostsData}) {
         heading="My Approach"
         content="As a generalist, I like learning new things, growing in different areas, gaining new perspective, and expanding my capacity to understand."
       >
-        <p>This trait couples well with my undying faith in the 80/20 rule - cutting to the bone of a problem and getting it shipped beats trying to make an already pretty thing prettier.</p>
+        <p>This trait couples well with my faith in the 80/20 rule - cutting to the bone of a problem and getting it shipped beats trying to make an already pretty thing prettier.</p>
       </ContentBlock>
       <ContentBlock
         heading="Projects"
