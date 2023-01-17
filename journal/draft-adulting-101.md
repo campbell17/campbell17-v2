@@ -18,9 +18,13 @@ And because they're not _just_ fake, they're also completely disingenuous. These
 
 Let me tell you something...
 
-Being an adult is so fucking awesome that I take offense to the mere thought of a meme besmirching its good name. The adulting meme in insidious because it makes it fashionable to be emotionally incompetent. Look at this garbage: (show pictures of basic bitch aprons and tchotckes from Crate & Barrel with slogans about adulting)
+Being an adult is so fucking awesome that I take offense to the mere thought of a meme besmirching its good name. And the memes are insidious because they make it fashionable to be emotionally incompetent. Look at this nonsense: (show pictures of basic bitch mugs and or tchotckes)
 
+On the surface they seem harmless, but what are they really saying? Reading between the lines reveals that there's something intrinsically wrong with adulthood. 
 
+For next time: (keep on the above sentence for a bit, talk about the different levels of freedom childhood vs, adulthood, maybe show the C&H strip where BW mentions how he can't understand people who think of childhood as an idyllic time.)
+
+For every post? : (do I put a word limit on these? Most of the newsletters I've unsubscribed to have been too long to keep up with. Is this worth thinking about?)
 
 
 
