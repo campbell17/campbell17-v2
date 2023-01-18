@@ -20,11 +20,10 @@ Let me tell you something...
 
 Being an adult is so fucking awesome that I take offense to the mere thought of a meme besmirching its good name. And the memes are insidious because they make it fashionable to be emotionally incompetent. Look at this nonsense: (show pictures of basic bitch mugs and or tchotckes)
 
-On the surface they seem harmless, but what are they really saying? Reading between the lines reveals that there's something intrinsically wrong with adulthood. 
+On the surface the message seems harmless but if you look at enough of these, a theme emerges: "I'm too weak minded to get through a single day without whining."
 
 For next time: (keep on the above sentence for a bit, talk about the different levels of freedom childhood vs, adulthood, maybe show the C&H strip where BW mentions how he can't understand people who think of childhood as an idyllic time.)
 
-For every post? : (do I put a word limit on these? Most of the newsletters I've unsubscribed to have been too long to keep up with. Is this worth thinking about?)
 
 
 
@@ -33,3 +32,5 @@ It's ok to take your time becoming an independent person, but only with the unde
 
 *** What's the surprise? Do I put the fact that I couldn't "Adult" until I was like 30 later in the piece so that's the surprise?
 Like so?: A good portion of my childhood, adolescence, and young adulthood was dedicated to _aggressively_ ignoring my responsibilities so I could stay in my walled garden. So if anyone should have sympathy for those who "just can't do adulting today", it's me.
+
+Question about every post: (do I put a word limit on these? Most of the newsletters I've unsubscribed to have been too long to keep up with. Is this worth thinking about?)
