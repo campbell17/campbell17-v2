@@ -3,7 +3,6 @@ layout: post
 category: writing
 title: "Adulting 101"
 date: '2023-01-20'
-draft: true
 ---
 
 I hate the word "adulting". Why? Why do I hate this word? Well, where do I usually see it? Social media. In what context? Memes. Memes about not wanting to do the things one must do. Memes about feeling too overwhelmed to undertake the basic responsibilities of life. Memes about "stuff" being "so hard" that "I can't even deal". The memes always portray being an adult in some harsh and negative light.
@@ -21,6 +20,8 @@ Let me tell you something...
 Being an adult is so fucking awesome that I take offense to the mere thought of a meme besmirching its good name. And the memes are insidious because they make it fashionable to be emotionally incompetent. 
 
 Look at this nonsense:
+
+![Google search results of Adulting mugs](https://campbell17.s3.amazonaws.com/posts/mugs.jpg)
 
 On the surface, the message seems harmless but if you look at enough of these, a theme emerges: "I'm too weak-minded to get through a single day without complaining." 
 
@@ -59,3 +60,5 @@ The problem isn't that there are too many responsibilities. The problem is that 
 There is no greater energizing force than having something interesting to work on. Even one cool project that takes a bit of effort makes me instantly forget to go on the internet and complain about life. Burning through your list of errands should be like breathing; automatic and matter-of-fact. Because on the other side of your responsibilities is all the kickass stuff you planned out for yourself.
 
 As a competent and independent adult human being in the internet age, you are free to pursue any life-enriching skill, hobby, practice, vocation, or interest you can imagine. Let's pick one and see what happens.
+
+![Calvin & Hobbes Sunday Strip](https://campbell17.s3.amazonaws.com/posts/calvin-childhood-idyllic.jpg)
