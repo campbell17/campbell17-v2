@@ -15,7 +15,9 @@ Occasionally, I get a little overzealous when I transfer the beans from the tabl
 There are more dignified ways to grind coffee beans.
 
 
+For next time - Add a third? "When all is said and done, I get to have one(1) cup of coffee. That's the max...There are more scalable ways to grind coffee beans" Massage that section, and maybe the scalable word can lead into the point of the story, sometimes doing things that don't scale. 
 
+Maybe delete this?:
 Sure, one of the reasons I do this is because this old-timey hand crank burr grinder is thirty-five dollars and the least expensive electric counterpart is three times that. 
 
 
