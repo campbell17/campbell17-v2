@@ -20,9 +20,21 @@ There are more scalable ways to grind coffee beans.
 
 More _scalable_.
 
+Take a moment to visualize that word. When you hear the word "scalable", what comes to mind?
 
+What comes to my mind are things like factories and assembly lines and fast food restaurants. Billion dollar industry things.
 
-For next time (maybe? Not sure where this is going quite yet...) - When I hear the word scalable, it brings to mind utopian fantasies about creative efficiency. "If I set everything up correctly, the next time will produce double the thing in a fraction of the time!"
+Scalability is the measure of whether or not a perceived experience can be maintained as you add volume. For example, it takes about five minutes to make one cup of coffee for me - one person - every morning. 
+
+Sounds reasonable. 
+
+However, if I owned the MGM Grand hotel and my 9,992 guests all wanted a cup of coffee, it would take 832 hours and 40 minutes before the last person in line got theirs.
+
+For the curious, that's 34 days, 8 hours, and 40 minutes. That better be _some_ coffee.
+
+Clearly, my artisinal methods of highly-sophisticated drip coffee production are not scalable.
+
+For next time (maybe? Still not sure where this is going quite yet...) - "So how _would_ we scale my coffee production?" - talk about what changes you'd have to make to accommodate that many guests and how many times in the effort to predict and prepare for scale, we either ruin the things we're trying to make or never make it because we take too much time locking ourselves up trying to figure out how best to scale it... clean all this up, but that's the gist.
 
 
 What is the surprise of this story?
