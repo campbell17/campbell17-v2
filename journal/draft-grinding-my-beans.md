@@ -6,7 +6,7 @@ date: '2023-01-23'
 draft: true
 ---
 
-Last year I bought a hand-operated single-serving ceramic conical burr grinder. Every morning I grind 2 tablespoons of coffee beans by spinning a long handle around an aluminum cylinder for 90 seconds. I look ridiculous doing it. It feels longer than 90 seconds. I think it's giving me tendonitis.
+Last year I bought a hand-operated single-serving ceramic conical burr grinder. Every morning I grind two tablespoons of coffee beans by spinning a long handle around an aluminum cylinder for ninety seconds. I look ridiculous doing it. It feels longer than ninety seconds. I think it's giving me tendonitis.
 
 There are more efficient ways to grind coffee beans.
 
