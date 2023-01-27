@@ -14,7 +14,7 @@ Occasionally, I get a little overzealous when I transfer the beans from the tabl
 
 There are more dignified ways to grind coffee beans.
 
-I pour the water add the sweetener and when the gurgling arrests after a minute or two, I get to enjoy _one_ cup of coffee.
+I pour the water, add the sweetener, and when the gurgling arrests after a minute or two I get to enjoy _one_ cup of coffee.
 
 There are more scalable ways to grind coffee beans.
 
@@ -22,7 +22,7 @@ More _scalable_.
 
 Take a moment to visualize that word. When you hear the word "scalable", what comes to mind?
 
-What comes to my mind are things like factories and assembly lines and fast food restaurants. Billion dollar industry things.
+What comes to my mind are things like factories and assembly lines and fast food restaurants. Billion-dollar industry things.
 
 Scalability is the measure of whether or not a perceived experience can be maintained as you add volume. For example, it takes about five minutes to make one cup of coffee for me - one person - every morning. 
 
@@ -30,17 +30,17 @@ Sounds reasonable.
 
 However, if I owned the MGM Grand hotel and my 9,992 guests all wanted a cup of coffee, it would take 832 hours and 40 minutes before the last person in line got theirs. (For the curious, that's 34 days, 8 hours, and 40 minutes. That better be _some_ coffee.)
 
-Clearly, my artisinal methods of highly-sophisticated drip coffee production are not scalable.
+Clearly, my artisanal methods of highly-sophisticated drip coffee production are not scalable.
 
 So what should I do to fix this? Well, for the beans I'll buy enough to fill a giant barrel, eliminating many trips to the shop. A commercial-grade high-capacity grinder will take care of my tendonitis and grind enough beans to put in the 20-gallon automatic coffee urn.
 
 Image of the insane urn. Caption: Brews a gallon every two minutes. What a beast.
 
-One tiny problem: there's nothing to fix. I'm not the owner of the MGM Grand, sorry to say, and I make coffee for someone else _maybe_ 5 times a year. That's 1.3% of the time. Yet when I was shopping for a single serving coffee grinder last year, I spent an unreasonable amount of time worrying about whether or not it was enough. It took me months of putting it on the back burner until I finally relented and asked my wife to get it for my birthday. It costs $30. I've lost that much in the couch, and here I am desperate not to commit the cardinal sin of underestimating my bean grinding capacity needs.
+One tiny problem: there's nothing to fix. I'm not the owner of the MGM Grand, sorry to say, and I make coffee for someone else _maybe_ 5 times a year. That's 1.3% of the time. Yet when I was shopping for a single-serving coffee grinder last year, I spent an unreasonable amount of time worrying about whether or not it was enough. It took me months of putting it on the back burner until I finally relented and asked my wife to get it for my birthday. It costs $30. I've lost that much in the couch, and here I am desperate not to commit the cardinal sin of underestimating my bean-grinding capacity needs.
 
 This is where scalability falls apart. When optimization degenerates into "FUD". Fear, Uncertainty, and Doubt. It turns an honest discussion about potential risk into 4D chess-level bike-shedding.
 
-Humans are a future-oriented species which is why we're able to save money for retirement, skip dessert, and go jogging even though our lifestyles have evolved so chasing our dinner down on foot is optional (at least for most of the world). But that future-orientation is often a stifling force, leading to FUD and preventing us from getting out of our own way. For me this is especially true when it comes to creativity.
+Humans are a future-oriented species which is why we're able to save money for retirement, skip dessert, and go jogging even though our lifestyles have evolved so chasing our dinner down on foot is optional (at least for most of the world). But that instinct is often a stifling force, leading to FUD and preventing us from getting out of our own way. For me, this is especially true when it comes to creativity.
 
 When I was a kid, I drew for fun. I drew cartoons of my friends, the athletes on my baseball cards, and characters from movies. I drew planes, guns, animals, and houses. I loved drawing, so I drew. Today, every drawing is a goddamn negotiation. 
 
@@ -74,7 +74,7 @@ See all that? That's all shipped work. Not stuff he's thinking about doing, or s
 
 If I want my timeline to look like that next year (and I do), I can't be wasting energy dicking around with FUD. I need to decide **today** what I'm shipping this month and get to work.
 
-And this approach is already bearing fruit. When one of my kids was younger, he was at the doctor a lot. Every time we checked out of the office, he got a sticker. Sometimes he peeled off the backing and slapped the sticker on his chest, but most of the time he wanted to hand me the sticker as soon as we got in the car for safe keeping. I eventually realized I had dozens of doctor's office stickers in my center console and I thought it'd be cool to make a poster. That simple idea has been floating around in my head for YEARS. This year, I decided to make it a line item on my creative IMDB. Boom. Shipped.
+And this approach is already bearing fruit. When one of my kids was younger, he was at the doctor's a lot. Every time we checked out of the office, he got a sticker. Sometimes he peeled off the backing and slapped the sticker on his chest, but most of the time he wanted to hand me the sticker as soon as we got in the car for safe-keeping. I eventually realized I had dozens of doctor's office stickers in my center console and I thought it'd be cool to make a poster. That simple idea has been floating around in my head for YEARS. This year, I decided to make it a line item on my creative IMDB. Boom. Shipped.
 
 Image of the new poster. Caption: Humble and done > groundbreaking and in my head
 
