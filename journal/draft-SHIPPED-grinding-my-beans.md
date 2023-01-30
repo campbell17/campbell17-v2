@@ -2,7 +2,7 @@
 layout: post
 category: writing
 title: "Grinding My Beans"
-date: '2023-01-23'
+date: '2023-01-27'
 draft: true
 ---
 
