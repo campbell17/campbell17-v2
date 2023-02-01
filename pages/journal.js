@@ -25,7 +25,7 @@ export default function Journal({allPostsData}) {
         subtitle="Thoughts on design, art, life, and whatever comes to mind." 
       />
       <div className="content" style={{ padding: "0 0 2em" }}>
-        <p>Update: I use Substack for publishing now, so Journal updates here will be less frequent, if at all. If you want to read newer essays (and put some wind in my writing sails), consider subscribing below:</p>
+        <p>Update: I use Substack for publishing now, so Journal updates here will be less frequent, if at all. If you want to read newer essays (and put some wind in my writing sails), consider subscribing:</p>
         <iframe src="https://campbellseventeen.substack.com/embed" width="100%" height="220" style={{ border: "1px solid #ddd", backgroundColor: 'white', frameborder: 0, scrolling: "no" }}></iframe>
       </div>      
       <section className="grid-container">
