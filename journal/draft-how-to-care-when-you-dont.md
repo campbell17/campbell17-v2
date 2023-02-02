@@ -33,6 +33,8 @@ Your own personal wraith born out of dodged responsibilities and underutilized p
 
 And that's just the individual cost. We could populate an armada with the amount of people downstream whose lives would benefit just a little if we could only get our act together. And that's the key puzzle piece I could never quite find in the box: there are people _other than myself_ that I'm cheating out of a successful outcome.
 
+You hear stories about sports legends who have to learn at some point that dogging it even for one moment during the game is unforgivable when fans paid money to come see them. (note: find quotes from all three below to put here about learning that)
+
 The concept that other people are trying their best eluded me... note: I'm trying to get across that it never dawned on me that my immaturity/unprofessionalism affects others. "Hell, I didn't even know I was unprofessional yet." - something about that?
 
 for next time: (still) more about "shirk your responsibilities at your peril". Gretszky, Jordan, Dimaggio - people pay to come see you, you can't afford to underperform.
