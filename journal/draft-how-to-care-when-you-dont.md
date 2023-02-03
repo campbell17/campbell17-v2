@@ -38,6 +38,7 @@ The throughline is clear. You're not the only one in the arena. (note: final sen
 
 for next time: Find a way to button up what it means to be a professional. Maybe about how long it took you to understand? Maybe something about Cartman learning that other people matter? Maybe not... Tie in the sports references with the final sentence.
 
+also: differentiate between stretching your comfort zone, doing sokething you shouldnt he doing, and accepting the challenge and halfassing it. this last one is whay the essay is about. 
 
 
 Original opening: 
