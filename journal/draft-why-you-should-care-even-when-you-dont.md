@@ -30,17 +30,16 @@ And that's just the individual cost. We could populate an armada with the amount
 
 There's a story of a young apprentice working at ILM(2) who was asked to take a few cans of spraypaint outside where 90 model pieces were waiting for coats of paint. After some time, she came back in and said to her supervisor, "I'm done, is there anything else to do?". Astonished by her speed, the supervisor replied, "You're done? Really? That's' amazing, that was like forty minutes!". She replied, "No, no, no, I've only finished a third of them, but it's sooo boring I don't want to do any more...is there anything else I can do?". With great enthusiasm, the supervisor retorts, "Yeah, yeah, yeah, you can go home."
 
-No one forced that apprentice to join ILM. In fact, many thousands of people would give anything to bake in the California sun painting 90 model pieces just to say they worked there. Whatever her motivations, her head wasn't screwed on properly that day and she paid for it.
+No one forced that apprentice to join ILM. In fact, many thousands of people would give anything to bake in the California sun painting 90 model pieces just to say they worked there. Whatever her motivations, her head wasn't screwed on properly that day and she met her end.
 
-
-
-(note: final sentence?)
-The throughline is clear. You're not the only one in the arena. And if you're reading this, there's a 99.9% chance you are not a generational talent. Neither am I. But we can match generational talents in one critical way: by giving maximum effort.
-
+You're not the only one in the arena. Give the fans what they paid for.
 
 (1)Coasting, as it pertains to this context, is only applicable when you've voluntarily accepted the challenge in the first place. In general, unless you're actively trying to get out of your comfort zone, if someone asks you to do something you don't want to do, you _have to_ say no. There are countless exceptions to this, of course, but if all standard responsibilities are met and the request is truly optional, you owe it to yourself to decline. The moment you say yes to something, you implicitly accept all tasks, responsibilities, and roles associated with it. And it becomes your _job_ to tackle each one to the best of your ability.
 
 (2) Industrial Light & Magic, the award-winning visual effects company founded by George Lucas.
+
+
+
 
 
 for next time: Find a way to button up what it means to be a professional. Maybe about how long it took you to understand? Maybe something about Cartman learning that other people matter? Maybe not... Tie in the sports references with the final sentence.
