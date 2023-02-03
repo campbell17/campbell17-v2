@@ -8,7 +8,7 @@ draft: true
 
 A scenario: We're watching two actors film a scene together. The professional, who is also directing the scene, enters stage right. He approaches the amateur and delivers his line perfectly, take after take. Take after take after take. Why are they doing so many takes if his delivery is perfect? Because the amateur delivers his line poorly, take after take. But not for the reason you might think.
 
-In a brief conversation between takes, the professional discovers that the amateur struggles not because he doesn't have any skill or talent, but because he doesn't really like acting. He was hand-picked for this tiny role and agreed to participate, but figured going through the motions would suffice and he could quickly get back his comfy, non-acting lifestyle. And the professional's reply?
+In a brief conversation between takes, the professional discovers that the amateur struggles not because he doesn't have any skill or talent but because he doesn't really like acting. He was hand-picked for this tiny role and agreed to participate, but figured going through the motions would suffice and he could quickly get back his comfy, non-acting lifestyle. And the professional's reply?
 
 "Look...look maybe you don't like acting. That's not my business. But try and respect other people's work. We're gonna move on and then we'll come back and shoot your scene. And why don't you take a walk...and try to find it in yourself to give a shit."
 
@@ -18,23 +18,23 @@ _Try to find it in yourself to give a shit._
 
 I think about this phrase at least a dozen times a year. This phrase is the antidote to the immature contrarian in me. It teaches me how to grow up. It stands at the threshold between innocence and experience. Between amateur and professional. Between child and adult. This phrase answers the question, "how am I supposed to do that?".
 
-Witnessing Broderick's character make that desperate recommendation catalyzed a paradigm shift to my reality. For decades up to that point, I thought I didn't have to do anything I didn't want to do. Even as a young adult a few years into my career, I thought I had my role all figured out. I thought I could call all the shots and if circumstances forced me, I could just coast until it was over and move on.
+Witnessing Broderick's character make that desperate recommendation catalyzed a paradigm shift to my reality. For decades up to that point, I thought I didn't have to do anything I didn't want to do. Even as a young adult years into my career, I thought I had my role all figured out. I could call all the shots. If circumstances forced me, I could coast until it was over and move on.
 
 But there's a problem with coasting. Coasting(1) is costly.
 
 Maybe not right away. Certainly not consciously. But if you make a habit of it, something emerges.
 
-Your own personal wraith born out of dodged responsibilities and underutilized potential begins to shadow you, growing in power and presence each time you fail to do the right thing. With every missed opportunity to do your best, the wraith acquires another merit badge at your expense, ultimately gaining all the power and leaving you with nothing but anxiety and regret.
+Your own personal demon born out of dodged responsibilities and underutilized potential begins to shadow you, growing in power and presence each time you fail to do the right thing. With every missed opportunity to do your best, the wraith acquires another merit badge at your expense, ultimately gaining all the power and leaving you with nothing but anxiety and regret.
 
-And that's just the individual cost. We could populate an armada with the amount of people downstream whose lives would benefit just a little if we could only get our act together.
+And that's just the individual cost. We could populate an armada with the number of people downstream whose lives would benefit a little if we could only get our act together.
 
-There's a story of a young apprentice working at ILM(2) who was asked to take a few cans of spraypaint outside where 90 model pieces were waiting for coats of paint. After some time, she came back in and said to her supervisor, "I'm done, is there anything else to do?". Astonished by her speed, the supervisor replied, "You're done? Really? That's' amazing, that was like forty minutes!". She replied, "No, no, no, I've only finished a third of them, but it's sooo boring I don't want to do any more...is there anything else I can do?". With great enthusiasm, the supervisor retorts, "Yeah, yeah, yeah, you can go home."
+There's a story of a young apprentice working at ILM(2) who had to take a few cans of spraypaint outside where 90 model pieces were waiting for coats of paint. After some time, she returned and said to her supervisor, "I'm done, is there anything else to do?". Astonished by her speed, the supervisor replied, "You're done? Really? That's' amazing, that was like forty minutes!". She replied, "No, no, no, I've only finished a third of them, but it's sooo boring I don't want to do any more...is there anything else I can do?". With great enthusiasm, the supervisor retorts, "Yeah, yeah, yeah, you can go home."
 
-No one forced that apprentice to join ILM. In fact, many thousands of people would give anything to bake in the California sun painting 90 model pieces just to say they worked there. Whatever her motivations, her head wasn't screwed on properly that day and she met her end.
+No one forced that apprentice to join ILM. In fact, many thousands of people would give anything to bake in the California sun painting 90 model pieces to say they worked there. Whatever the motivations, her head wasn't screwed on properly that day and she met her end.
 
-You're not the only one in the arena. Give the fans what they paid for.
+You're not the only one in the arena. Give the fans what they paid to see.
 
-(1)Coasting, as it pertains to this context, is only applicable when you've voluntarily accepted the challenge in the first place. In general, unless you're actively trying to get out of your comfort zone, if someone asks you to do something you don't want to do, you _have to_ say no. There are countless exceptions to this, of course, but if all standard responsibilities are met and the request is truly optional, you owe it to yourself to decline. The moment you say yes to something, you implicitly accept all tasks, responsibilities, and roles associated with it. And it becomes your _job_ to tackle each one to the best of your ability.
+(1)Coasting, as it pertains to this context, is only applicable when you've voluntarily accepted the challenge in the first place. Generally speaking, unless you're actively trying to get out of your comfort zone, if someone asks you to do something you don't want to do, you _have to_ say no. There are countless exceptions to this, of course, but if you meet all standard responsibilities and the request is truly optional, you owe it to yourself to decline. The moment you say yes to something, you implicitly accept all tasks, responsibilities, and roles it includes. And it becomes your _job_ to tackle each one to the best of your ability.
 
 (2) Industrial Light & Magic, the award-winning visual effects company founded by George Lucas.
 
