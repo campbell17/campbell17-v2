@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing
-title: "How to Care When You Don't"
+title: "Why You Should Care Even When You Don't"
 date: '2023-01-30'
 draft: true
 ---
@@ -16,25 +16,32 @@ This exact scenario played out between Matthew Broderick and Louis C.K. in an ep
 
 _Try to find it in yourself to give a shit._
 
-I think about this phrase at least a dozen times a year. This phrase is the antidote to the immature contrarian in me. It teaches me how to grow up. It stands confident and forthright at the threshold between innocence and experience. Between amateur and professional. Between child and adult. This phrase holds the answer to so many existential questions.
+I think about this phrase at least a dozen times a year. This phrase is the antidote to the immature contrarian in me. It teaches me how to grow up. It stands at the threshold between innocence and experience. Between amateur and professional. Between child and adult. This phrase answers the question, "how am I supposed to do that?".
 
-Witnessing Broderick's character make that desperate recommendation catalyzed a paradigm shift to my reality. For decades up to that point, I thought I didn't have to do anything I didn't want to do. Even as a young adult a few years into my career, I thought I had my role all figured out. I thought I could call all the shots. And if circumstances forced me, I could just coast until it was over and move on.
+Witnessing Broderick's character make that desperate recommendation catalyzed a paradigm shift to my reality. For decades up to that point, I thought I didn't have to do anything I didn't want to do. Even as a young adult a few years into my career, I thought I had my role all figured out. I thought I could call all the shots and if circumstances forced me, I could just coast until it was over and move on.
 
-But there's a problem with coasting. Coasting is costly.
+But there's a problem with coasting. Coasting(1) is costly.
 
 Maybe not right away. Certainly not consciously. But if you make a habit of it, something emerges.
 
 Your own personal wraith born out of dodged responsibilities and underutilized potential begins to shadow you, growing in power and presence each time you fail to do the right thing. With every missed opportunity to do your best, the wraith acquires another merit badge at your expense, ultimately gaining all the power and leaving you with nothing but anxiety and regret.
 
-And that's just the individual cost. We could populate an armada with the amount of people downstream whose lives would benefit just a little if we could only get our act together. You see this sentiment play out all the time in professional sports, especially among generational talents.
+And that's just the individual cost. We could populate an armada with the amount of people downstream whose lives would benefit just a little if we could only get our act together.
 
-"I played my best everyday. You never know when someone may be seeing you play for the first time.” -Joe DiMaggio
+There's a story of a young apprentice working at ILM(2) who was asked to take a few cans of spraypaint outside where 90 model pieces were waiting for coats of paint. After some time, she came back in and said to her supervisor, "I'm done, is there anything else to do?". Astonished by her speed, the supervisor replied, "You're done? Really? That's' amazing, that was like forty minutes!". She replied, "No, no, no, I've only finished a third of them, but it's sooo boring I don't want to do any more...is there anything else I can do?". With great enthusiasm, the supervisor retorts, "Yeah, yeah, yeah, you can go home."
 
-"If you sit down to watch me for three hours, I have an obligation to give you my best. All the time." -Michael Jordan
+No one forced that apprentice to join ILM. In fact, many thousands of people would give anything to bake in the California sun painting 90 model pieces just to say they worked there. Whatever her motivations, her head wasn't screwed on properly that day and she paid for it.
 
-"Every time you play, people want to see what all the fuss is about, and you can't afford not to be ready to play the best you can play, each and every night." -Walter Gretzky to a young Wayne Gretzky
 
-The throughline is clear. You're not the only one in the arena. (note: final sentence?)
+
+(note: final sentence?)
+The throughline is clear. You're not the only one in the arena. And if you're reading this, there's a 99.9% chance you are not a generational talent. Neither am I. But we can match generational talents in one critical way: by giving maximum effort.
+
+
+(1)Coasting, as it pertains to this context, is only applicable when you've voluntarily accepted the challenge in the first place. In general, unless you're actively trying to get out of your comfort zone, if someone asks you to do something you don't want to do, you _have to_ say no. There are countless exceptions to this, of course, but if all standard responsibilities are met and the request is truly optional, you owe it to yourself to decline. The moment you say yes to something, you implicitly accept all tasks, responsibilities, and roles associated with it. And it becomes your _job_ to tackle each one to the best of your ability.
+
+(2) Industrial Light & Magic, the award-winning visual effects company founded by George Lucas.
+
 
 for next time: Find a way to button up what it means to be a professional. Maybe about how long it took you to understand? Maybe something about Cartman learning that other people matter? Maybe not... Tie in the sports references with the final sentence.
 
@@ -63,3 +70,12 @@ Look...look maybe you don't like acting. That's not my business. But try and res
 
 
 The concept that other people are trying their best eluded me... note: I'm trying to get across that it never dawned on me that my immaturity/unprofessionalism affects others. "Hell, I didn't even know I was unprofessional yet." - something about that?
+
+
+For professional athletes, it's not dozens, but thousands (millions if you count TV viewership). Especially among generational talents.
+
+"I played my best everyday. You never know when someone may be seeing you play for the first time.” -Joe DiMaggio
+
+"If you sit down to watch me for three hours, I have an obligation to give you my best. All the time." -Michael Jordan
+
+"Every time you play, people want to see what all the fuss is about, and you can't afford not to be ready to play the best you can play, each and every night." -Walter Gretzky to a young Wayne Gretzky
