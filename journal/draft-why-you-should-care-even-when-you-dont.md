@@ -1,7 +1,8 @@
 ---
 layout: post
 category: writing
-title: "Why You Should Care Even When You Don't"
+title: "Making an effort"
+subtitle: "Why You Should Care Even When You Don't"
 date: '2023-01-30'
 draft: true
 ---
@@ -12,7 +13,7 @@ In a brief conversation between takes, the professional discovers that the amate
 
 "Look...look maybe you don't like acting. That's not my business. But try and respect other people's work. We're gonna move on and then we'll come back and shoot your scene. And why don't you take a walk...and try to find it in yourself to give a shit."
 
-This exact scenario played out between Matthew Broderick and Louis C.K. in an episode of "Louie" from 2010. 
+This scenario played out between Matthew Broderick and Louis C.K. in an episode of "Louie" from 2010. 
 
 _Try to find it in yourself to give a shit._
 
