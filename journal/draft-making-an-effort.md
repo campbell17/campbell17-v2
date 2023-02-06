@@ -3,7 +3,7 @@ layout: post
 category: writing
 title: "Making an effort"
 subtitle: "Why You Should Care Even When You Don't"
-date: '2023-01-30'
+date: '2023-02-03'
 draft: true
 ---
 
