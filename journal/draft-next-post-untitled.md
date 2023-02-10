@@ -1,8 +1,8 @@
 ---
 layout: post
 category: writing
-title: "Untitled"
-date: '2023-02-06'
+title: "Inverse Attention Span"
+date: '2023-02-10'
 draft: true
 ---
 
