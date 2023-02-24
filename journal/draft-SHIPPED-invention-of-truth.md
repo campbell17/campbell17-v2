@@ -1,8 +1,8 @@
 ---
 layout: post
 category: writing
-title: "Untitled"
-date: '2023-02-20'
+title: "The Invention of Truth"
+date: '2023-02-24'
 draft: true
 ---
 
