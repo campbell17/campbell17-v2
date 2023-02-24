@@ -26,23 +26,3 @@ At the time, this all seemed a simple matter of practicality. One less thing to 
 Since then, I've leaned heavily on my memory of that moment. Life is a constant barrage of curveballs and it's always tempting to adopt the perspective that things are "happening to me". Ironically, there's a sense of safety in false victimhood, where one can direct blame for their miserable situation outward. But while hoisting accountability up on my shoulders is burdensome and often painful, it's the only reliable way to move the needle and avoid leaving things completely to chance. I feel grateful that I discovered this option when I was young and the stakes were low. It's helped me acknowledge when I'm hitting a kiddie pool-sized rock bottom so I can look for ways to alter my behavior before things get too deep and irreparable. And the best part is you only have to do it once before it's a part of your self-improvement arsenal. "There's nothing to stop you doing it again."
 
 [1] In (very) layman's terms, compound interest allows exponential growth of wealth over long periods by investing modest amounts consistently. **Consistency** and **time** are the critical pieces. Google it and poke around for a more by-the-book description.
-
-
-
-
-Notes for next time: talk about how throughout the years, many times I've felt stuck and that "life was happening to me" again, but at some point the switch flips and I come back online, realizing oh yeah it's my turn to change my behavior. Maybe cite some examples like not wanting to be shy any more or being grateful for the apartment on Green st when I was depressed. Something about having these realizations regularly can keep your rock bottom shallow, preventing you from going too deeply down the spiral. Picking up the old notes here - "you don't have to be face down in the ditch to make these choices." Then wrap with the power of doing this ONE time. It's the same as breaking your principles - As Clayton said: do it ONCE, and there's nothing to stop you doing it again.
-
-older notes: Talk about other things that philosophy works with, but don't belabor it. Return to the idea of staking a claim in your own life, then immediately putting those choices behind you as you start down the new path. "This is the new way now. I can't give a shit about how things used to be." Maybe quip about how there are only two modes of being? - acting like you give a shit, and "can't giving a shit". Wrap up by talking about giving credence and conscious acknowledgement to those times when you hit a mini-rock bottom. You don't have to be face down in a ditch to make those choices, excellent forcing function though that may be. Maybe a note about how only one of these decisions in your life can show you you're capable of literally anything. It's not like discovering cold fusion or splitting the atom. It's more like tying your shoes for the first time. If you did it once, you can do it again.
-
-
-Possible title: "The Invention of Truth"
-
-
-
-This might be redundant: As with any story based on memory, the particulars have faded with time, but the moral of that decision has survived decades of erosion and continues to shape me.
-
-Notes for next time: Change title - too much saturation of 100% rule. Do I even write this? Maybe the 100% rule is just a footnote instead of the main idea. Gonna change the title now so I don't have to look at it any more.
-
-More notes: Is this about honesty? Is this just a humble brag that you had the fortitude to make a life change at such a young age? What's the surprise of this story? No one wants a flawless hero, so talking about how great you are at telling the truth is uncompelling.
-
-
