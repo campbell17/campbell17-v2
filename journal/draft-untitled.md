@@ -1,8 +1,8 @@
 ---
 layout: post
 category: writing
-title: "Untitled"
-date: '2023-03-06'
+title: "Remember the Compliments, Forget the Insults"
+date: '2023-03-10'
 draft: true
 ---
 
@@ -21,20 +21,3 @@ This tiny remark has had such a lasting impact because it misaligned so severely
 It's wild to consider how one sentence spoken in passing could matter this much me. It lives on as a god-tier example of cherry-picking data. This _one_ person this _one_ time said I was good; ergo, I am good. I could easily use it nefariously as a counterpoint to all manner of amoral activity, but instead I keep it in my back pocket as a reminder. A reminder that things are rarely what they seem. A reminder the that I'm never as bad as I think, nor as good. And a reminder that I can do things my own way without worrying about how others would do them. My assumptions about others are never accurate, anyway, so it would be a shame to bend to the will of a non-existent reality in the hopes of living up to it.
 
 [1] Garra rufa. Yes, I googled "fish that eat dead skin". Buyer beware, apparently.
-
-
-
-
-Notes for next time: NOTE: Be careful about diminishing the other person while propping yourself up
-
-It blew my mind, but maybe I don't have to say that explicitly. I couldn't believe someone thought my life was interesting, let alone FULL.
-
-- Story teaser
-- Intro to my perception of people
-- Intro to my perception of me
-- Surprise to hear that someone thought my life was full - this is incongruous to how I view myself (figure out me's vs. myselfs for this)
-- Realization that in order to pay me such a compliment, there must be high contrast between my experiences and that of the compliment giver
-- Something about how such a tiny remark has such wide and lasting impact due to it's misalignment with the image of self
-- "Oh, she just doesn't realize I'm a lazy piece of shit yet. Once she got to know me, she wouldn't think my life was so full."
-- But maybe I shouldn't take the experiences I've had for granted as much as I do. Not everyone is as lucky or has the freedoms and opportunities I have
-
