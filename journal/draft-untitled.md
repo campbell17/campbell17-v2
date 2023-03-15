@@ -17,6 +17,7 @@ Notes for next time:
 When did I first discover this love? 
 Why didn't I see it sooner? 
 What did I do instead of loving these people before? 
+Does it work retroactively? Can I think of people who I disliked before who I now love?
 How has social media uncovered more lovable (and decidedly unlovable) clowns?
 Who made me judge and jury?
    Was it the understanding that the world needs more of them?
