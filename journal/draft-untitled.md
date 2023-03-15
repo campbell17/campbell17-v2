@@ -10,10 +10,16 @@ Something occurred to me today. I love quite a few clowns. Not the nightmarish, 
 
 What constitutes a lovable clown, exactly? There are only three line-in-the-sand requirements. First, you need a reasonably big personality. You can't be a clown if you're too shy to speak and consistently blend in with the floral wallpaper in the dining room. Next you need to exude positive energy. That cynical clown you know isn't a clown at all. He's just a prick. The final, and perhaps most defining trait, is the eye roll-generator. This is the tragic character flaw without which our clown would be just another outstanding person. And who needs more of them hanging around, making us all look bad?
 
-I first discovered that I could love a clown while observing a coworker years ago. He was perennially upbeat, but like a chipper dog as opposed to an optimist. He always had the air of someone who didn't really understand what was going on, but was still happy to be there. At first I didn't know what to make of him.
+I first discovered that I could love a clown while observing a coworker years ago. He was perennially upbeat, but like a chipper dog as opposed to an optimist. He always had the air of someone who didn't really understand what was going on, but was still happy to be there. At first I didn't know what to make of him, but eventually he became a part of the scenery. Note: I don't know where to go with this so I'm moving on.
+
+What came before love? Close-mindedness. Disdain. Writing them off. "This person acts in a way I don't approve, so I must disassosiate myself from them now and forever." This is the wrong way to be. I recently stumbled across a journal entry while I was looking through an old sketchbook. That in itself is bizarre because I never kept a journal, but for some reason I decided after a really bad day to write down my thoughts for, I dunno, posterity? Anway, what I read was shocking. I thought I remembered the contents of that writing, but I clearly blocked some stuff out. I was ranting about one of my roommates getting drunk, how I hated people who drank, and _all this shit I had no idea I had a problem with back then_! I've talked about how frail our memory is before, but jesus. Note: pull it out and get into some more details if relevant. I've tried a few times to trace time forward from that moment to figure out when I softened my stance, but it's tough sledding trying to pick through that rubble. If I had to wager a guess, I probably changed my tune when I reached legal drinking age. Maybe all that animosity bubbled out of my being a arrow-straight rule follower..
 
 
 Notes for next time:
+Push more on the change between closed and open-mindedness, talk about how I'm lucky I made some of those mental changes before the internet age, I dunno...
+
+
+
 When did I first discover this love? 
 Why didn't I see it sooner? 
 What did I do instead of loving these people before? 
