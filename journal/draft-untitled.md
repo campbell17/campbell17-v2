@@ -10,6 +10,8 @@ Something occurred to me today. I love quite a few clowns. Not the nightmarish, 
 
 What constitutes a lovable clown, exactly? There are only three line-in-the-sand requirements. First, you need a reasonably big personality. You can't be a clown if you're too shy to speak and consistently blend in with the floral wallpaper in the dining room. Next you need to exude positive energy. That cynical clown you know isn't a clown at all. He's just a prick. The final, and perhaps most defining trait, is the eye roll-generator. This is the tragic character flaw without which our clown would be just another outstanding person. And who needs more of them hanging around, making us all look bad?
 
+I first discovered that I could love a clown while observing a coworker years ago. He was perennially upbeat, but like a chipper dog as opposed to an optimist. He always had the air of someone who didn't really understand what was going on, but was still happy to be there. At first I didn't know what to make of him.
+
 
 Notes for next time:
 When did I first discover this love? 
