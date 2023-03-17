@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing
-title: "Don't be Waybe"
+title: "Don't be Wayne"
 date: '2023-03-17'
 draft: true
 ---
