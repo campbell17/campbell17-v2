@@ -10,6 +10,8 @@ draft: true
 
 - No matter how I approach something, I end up being a poser.
 - talking all the time about doing instead of actually doing
+- Talking to anyone who will listen about our projects. Acting like we don't want to talk about it but DESPERATELY wanting to talk about it.
+- Talking ALMOST feels like doing, and it's close enough to trick my brain into thinking I'm doing.
 - taking forever on everything
 - everything seems bigger than it is
 - always starting, starting, starting, never getting past the first level
