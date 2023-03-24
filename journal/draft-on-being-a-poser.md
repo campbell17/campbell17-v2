@@ -20,11 +20,38 @@ The familiar death spiral of a creative ambition is caused by an unreliable rout
 
 But then the comparison train rolls into the station.
 
-"But James Jean ships new paintings every week. He ships paintings and makes prints with novel mixed media techniques. He ships paintings, makes prints, and commissions sculptures based on his paintings. He ships paintings, makes prints, commissions sculptures, and still has time for commercial work." Comparison to others is the easiest and most effective method of sabotage available. It's in the handbook they give to memebers of the CIA. Members of the poser CIA. My brain is a member of the poser CIA. To circumvent this sabotage, I must return my gaze to focus only on the extent of _my_ capability. What can I finish? Not what do I wish I could finish? Not what are others finishing? What can _I_ finish? That is good enough. That has to be good enough. Because if that isn't good enough, I'll look for ways to expand it. And if I'm spending time looking for ways to expand it, that's time spent not finishing.
+"But James Jean ships new paintings every week. He ships new paintings and makes prints with novel mixed media techniques. He ships new paintings, makes prints, and commissions sculptures based on his paintings. He ships new paintings, makes prints, commissions sculptures, and still has time for commercial work." Comparison to others is the easiest and most effective method of sabotage available. It's in the handbook they give to memebers of the CIA. Members of the poser CIA. My brain is a member of the poser CIA. 
 
-The clock just struck 6:30am. In thirty minutes, my writing time is up and my art project time begins. Somehow, I've let ambition creep back into my routine, I don't know what I'm supposed to be working on. I'll have to stop what I'm doing, look at my list, and remember which project is in progress. That is a red flag. After perusing the list and recalling my priorities, I remember why I couldn't remember. I'm stuck. I can't get past the first stage of sketches. And because progress has stopped, I've been syphoning my art time into my writing time to catch up for lack of writing production. This is bad for my writing and bad for my art. I can't do art if I steal its time away, and I adding time to my writing block removes the urgency necessary to crystalize my thoughts effectively. I can let my mind wander because I have more time than usual. A wandering mind usually leads me back into counterproductive comparisons. 
+I recall a well-meaning quote from Adam Savage regarding self doubt and how misaligned our perceptions are of how _other_ people perceive us. "Only YOU know how lazy you are." This essentially means give yourself a break. Others will never see the comparison between your ambition and your output because it only exists in the mind of the individual. Case in point, I often believe I'm a poser. But compared to what? That's the rub. When I play the comparison game, I only weigh myself against inflated assumptions. I will always be a poser compared to my industrious but non-existent other self. And compared to other artists, writers, and designers who are world famous for their fantastic work. I assume they all accomplished way more by much younger ages. And they ship more often. And they work harder. They love it more, want it more, and do it more. I bet they're drawing, shooting, painting, writing, shipping as we speak. While I sleep. While I eat. While I watch TV. While I play with my kids. Every moment I'm not creating, they are.
 
-I recall a well-meaning quote from Adam Savage regarding self doubt and how misaligned our perceptions are of how _other_ people perceive us. "Only YOU know how lazy you are." This essentially means give yourself a break. Others will never see the comparison between your ambition and your output because it only exists in the mind of the individual. Case in point, I believe I am incredibly lazy. But compared to what? Compared to my industrious but non-existent other self. Compared to other artists. Compared to other writers. Compared to other designers. They all have better work. They all accomplished way more by much younger ages. They all ship more often. They all work harder. They all want it more. They all do it more. I bet they're drawing, shooting, painting, writing, shipping as we speak. While I sleep. While I eat. While I watch TV. While I play with my kids. Every moment I'm not creating, they are. 
+Yes. _They_ are. But in all these unfair comparisons, I never consider the waterline. These famous creators at the upper echelon of their field are the tip of the output iceberg. Below the surface lurks an unwashed mass of humanity that are somehow even less productive than I am. So I must return my gaze to focus only on the extent of _my_ capability. What can I finish? Not what do I wish I could finish? Not what are others finishing? What can _I_ finish? That is good enough. That has to be good enough. Because if that isn't good enough, I'll look for ways to expand it. And if I'm spending time looking for ways to expand it, that's time spent not finishing.
+
+The clock just struck 6:30am. In thirty minutes, my writing time is up and my art project time begins. Even though I have time set aside every day for this, I don't remember what I'm supposed to be working on. That is a red flag. I pull up my project list and as I review my priorities, I remember why I couldn't remember. I'm stuck. I can't get past the first stage of sketches. And because progress has slowed, I've started syphoning my art time into my writing time to catch up for lack of writing production. This is bad for my writing and bad for my art. I can't make art if I steal its time away, and adding extra time to my writing block removes the built-in urgency I utilize to crystalize my thoughts effectively; without that, I can let my mind wander because I have more time than usual. And a wandering mind usually leads me back into counterproductive comparisons and defeatist lines of existential inquiry.
+
+"Why do I keep trying?" 
+"Why not abandon this part of my life and throw away all these unused art supplies?" 
+"Why not lower my expectations?" 
+"Why keep fighting to improve?"
+
+This year I want to write more. This year I want to draw more. This year I want to finally make a painting that I think is good. 
+
+"Why?"
+
+Look at the imposter syndrome it puts me though. Look at the early mornings and dissapointments. Look at the shame, anxiety, and insecurity of being a poser. The pain of having ideas without acting on them. The Sisyphean efforts to get out of my own way and push through the creative wall.
+
+There are two answers. One is echoed by every creative person who ever amounted to anything. Every prolific writer, artist, musician, and designer will all tell you the same thing: **do not** stop. One of my favorite creators, Van Neistat, summarizes this when (talking about his routine and the war against burnout) <-- link: https://youtu.be/B9RSWg9OXj8. 
+
+| One of the Masterclass writers - or maybe several of them - have hammered home that the routine _is_ the job. Routine over everything.
+
+The second answer to the question of why is as follows:
+
+| The elderly man is tired and battered from the tribulations of his latest work.
+| He picks up his quill, dabs the edge of the inkwell, and begins again.
+| "Why do you do this?" asks the boy.
+| "Because," the man replies, "the mental pain I endure when I work is a mere fraction of the spiritual pain I endure when I don't."
+
+
+
 
 - No matter how I approach something, I end up being a poser.
 - talking all the time about doing instead of actually doing
@@ -81,4 +108,4 @@ He picks up his quill, dabs the edge of the inkwell, and begins again.
 
 Notes for next time: Write it all out and see how it reads.
 
-Notes for next time: complete writing it all out. The surprise/ending is: you do not stop. Do NOT stop. For every 10 unrealistically unfair comparisons I make, there are 100,000 people doing fuck-all with their life compared to me.
+Notes for next time: complete writing it all out. The surprise/ending is: you do not stop. Do NOT stop. For every 10 superstars I unrealistically comparise myself against, there are 100,000 people doing fuck-all with their life compared to me.
