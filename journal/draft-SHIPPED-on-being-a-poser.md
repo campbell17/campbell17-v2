@@ -2,7 +2,7 @@
 layout: post
 category: writing
 title: "On Being a Poser"
-date: '2023-03-20'
+date: '2023-03-24'
 draft: true
 ---
 
