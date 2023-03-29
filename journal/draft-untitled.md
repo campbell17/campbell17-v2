@@ -6,7 +6,7 @@ date: '2023-03-28'
 draft: true
 ---
 
-- There's a pattern of behavior that causes me to try very hard, with earnest intention and intense motivation, and just when I get pretty good at whatever I'm trying, I stop improving. The resistance that comes along with the final 10-20% of improvement is so thick that it is far more comfortable to tread water than grab for that next gear and grind my way into excellence.
+- There's a pattern of behavior that causes me to try very hard, with focused intention and intense motivation, and just when I get pretty good at whatever I'm trying, I stop trying to improve. The resistance that comes along with the final 10-20% of improvement is so thick that it is far more comfortable to tread water than grab for the next gear and continue the pursuit of excellence.
 - I'm a huge proponent of "good enough". My entire life is so saturated with _good enough_, I'm considering commissioning a half-finished statue with no upper body adorned with "This'll Do" on the placard. - There are varying standards for what constitutes a passable level of aptitude. For instance, I wouldn't want my heart surgeon to subscribe to my "good enough" lifestyle, but it's plenty for a golfing buddy.
 - But there's something painful to admit about this stuff: I don't think I've ever hit even 80% (athletics don't count any more since I'm physiologically/physically limited. In my youth, athletics counted since I never once strength trained, so I have no idea what my limits were.)
 - I'm very familiar with the feeling of quitting while I'm ahead. Too familiar. Run just fast enough to avoid being the slowest bear attack victim.
@@ -23,9 +23,15 @@ draft: true
 - The other side of the comfort coin, though, is coasting. We've already been over the damage coasting can do (this might be worded incorrectly, but relate it to the earlier essay), and when the hunger to improve wilts, the things I found great meaning in before are rendered unfulfilling. What's worse, subsequent lack of effort will cause the quality of output to fall below what I'm capable of. 
 - Setting up a system to reset the finish line periodically.
 - Share the link to AvE's learning curve aside? https://youtu.be/E7RgtMGL7CA?t=659
-- 
+- At some point, improvement stops. This is something I can usually only identify retroactively by looking at the quality of what I'm doing today and comparing it to past quality. 
+- Depending on my ambitions, stopping is not only ok, it's absolutely necessary. In fact, I don't even identify a spot on the learning curve for most things I do. I like to fix things with my car and around the house, but these are considered as-needed. I'm not actively pursuing home renovation or automotive repair as vocations, so when something goes wrong or breaks, that's the only time I care to learn about it. And I only care to learn about it enough to fix it and then I don't think about it ever again, I hope. 
+- But I've noticed adopting this pattern sometimes with the things I am actively trying to improve, and that doesn't work. There isn't a magic formula for getting better at something, but there is one mortally important rule: do the thing. 
+- I'm lucky because I was born with the ability to pick new skills up quickly, but there's a downside. I've had to work harder to teach myself how to work hard. This is definitely a "must be nice"
+situation, but the reality closely resembles the tortoise and the hare. While I speed up the slope of the learning curve initially, I reach my mental limit for how hard I'm capable of working sooner than all the tortoises who didn't have it so easy at the start. It takes a little longer, but soon they'll display incredible skill while I'm still stuck on the fringes of beginner's luck.
+- The guilt associated with stopping varies depending on the expectations I put on the skill itself and how it factors into my life. I'm a decent golfer. I played a bit when I was really young, but when I picked it back up in college I was dreadfully bad. I enjoyed playing but didn't want to be embarrassed every time I played with my buddies, so I started practicing obsessively. I skilled up until I could consistently hold my own against my friends. And stop losing golf balls in the woods. Them shits ain't free. It took a long time, but the dedicated consistent effort resulted in real improvement. This is where the positive aspects of comparison come into the fold. When I was in college, I only had two friends I played golf with. One had aspirations of being a teaching pro, so his level was all but untouchable. However, the other was decent, but not lights-out. So that was my bar. I had to practice enough to consistently beat that friend so I wouldn't _always_ finish last. My motivation to move up the learning curve was in direct comparison to my friends' skill levels.
 
-Notes for tomorrow: When is it ok to stop? Is it ok to stop? How my placement on the curn relates to specific goals.
+Notes for tonight/tomorrow: Is this piece about the learning curve, or is it about surrounding yourself with superstars so you always have something to chase? Hmmm...
+Explore the above question, put some paragraphs together.
 
 
 Cut from "Dangerous Territory" essay:
