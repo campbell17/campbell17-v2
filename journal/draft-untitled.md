@@ -6,9 +6,19 @@ date: '2023-03-28'
 draft: true
 ---
 
-I'm a huge proponent of good enough. At age six when told to clean my room: shove every last thing under the bed. Good enough. At age sixteen when taking a geometry test: B minus. Good enough. Last month when cutting a baseboard to install in the kitchen: "I can fill in that unsightly gap with some caulk." Good enough. My life is so steeped in the philosophy of _good enough_, I'm considering commissioning a half-finished replica of Michelangelo's David with a placard that reads "This'll Do".
+I'm a huge proponent of good enough. At age six when told to clean my room: shove every last thing under the bed. Good enough. At age sixteen when taking a geometry test: B minus. Good enough. Last month when cutting a baseboard to install in the kitchen: "I can fill in that unsightly gap with some caulk." Good enough. My life is so steeped in the philosophy of _good enough_, I'm considering commissioning a legs-only replica of Michelangelo's David with a placard that reads "This'll Do".
+
+This isn't to say excellence has no place in this world or in my life. I wouldn't want my heart surgeon subscribing to my "good enough" lifestyle, nor would I want to watch the Olympics if all the runners were doubled over halfway through the race because they were out of shape. But those are anomalous examples. 
 
 Note: look to strike a juxtaposition between good enough, excellent (Van's Details video), and the simplicity of "not doing" at all.
+
+- Lifelong pursuit vs. ad-hoc fix
+- Pushing the boundaries to raise the level
+- When no one is watching vs. meeting external criteria
+- Comparing the outcome to the original goal
+- Comparing the outcome to the short term goal in service of the original goal
+- Comparing the outcome to the ideal (measuring against what's already out in the world)
+- The shallow envy of simplicity: Wondering what it's like to go through life with simple ambitions and a low self-improvement libido. 
 
 
 - There's a pattern of behavior that causes me to try very hard, with focused intention and intense motivation, and just when I get pretty good at whatever I'm trying, I stop trying to improve. The resistance that comes along with the final 10-20% of improvement is so thick that it is far more comfortable to tread water than grab for the next gear and continue the pursuit of excellence.
