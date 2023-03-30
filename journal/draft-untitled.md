@@ -1,10 +1,15 @@
 ---
 layout: post
 category: writing
-title: "Untitled"
+title: "Good Enough"
 date: '2023-03-28'
 draft: true
 ---
+
+I'm a huge proponent of good enough. At age six when told to clean my room: shove every last thing under the bed. Good enough. At age sixteen when taking a geometry test: B minus. Good enough. Last month when cutting a baseboard to install in the kitchen: "I can fill in that unsightly gap with some caulk." Good enough. My life is so steeped in the philosophy of _good enough_, I'm considering commissioning a half-finished replica of Michelangelo's David with a placard that reads "This'll Do".
+
+Note: look to strike a juxtaposition between good enough, excellent (Van's Details video), and the simplicity of "not doing" at all.
+
 
 - There's a pattern of behavior that causes me to try very hard, with focused intention and intense motivation, and just when I get pretty good at whatever I'm trying, I stop trying to improve. The resistance that comes along with the final 10-20% of improvement is so thick that it is far more comfortable to tread water than grab for the next gear and continue the pursuit of excellence.
 - I'm a huge proponent of "good enough". My entire life is so saturated with _good enough_, I'm considering commissioning a half-finished statue with no upper body adorned with "This'll Do" on the placard. - There are varying standards for what constitutes a passable level of aptitude. For instance, I wouldn't want my heart surgeon to subscribe to my "good enough" lifestyle, but it's plenty for a golfing buddy.
@@ -29,8 +34,9 @@ draft: true
 - I'm lucky because I was born with the ability to pick new skills up quickly, but there's a downside. I've had to work harder to teach myself how to work hard. This is definitely a "must be nice"
 situation, but the reality closely resembles the tortoise and the hare. While I speed up the slope of the learning curve initially, I reach my mental limit for how hard I'm capable of working sooner than all the tortoises who didn't have it so easy at the start. It takes a little longer, but soon they'll display incredible skill while I'm still stuck on the fringes of beginner's luck.
 - The guilt associated with stopping varies depending on the expectations I put on the skill itself and how it factors into my life. I'm a decent golfer. I played a bit when I was really young, but when I picked it back up in college I was dreadfully bad. I enjoyed playing but didn't want to be embarrassed every time I played with my buddies, so I started practicing obsessively. I skilled up until I could consistently hold my own against my friends. And stop losing golf balls in the woods. Them shits ain't free. It took a long time, but the dedicated consistent effort resulted in real improvement. This is where the positive aspects of comparison come into the fold. When I was in college, I only had two friends I played golf with. One had aspirations of being a teaching pro, so his level was all but untouchable. However, the other was decent, but not lights-out. So that was my bar. I had to practice enough to consistently beat that friend so I wouldn't _always_ finish last. My motivation to move up the learning curve was in direct comparison to my friends' skill levels.
+- 
 
-Notes for tonight/tomorrow: Is this piece about the learning curve, or is it about surrounding yourself with superstars so you always have something to chase? Hmmm...
+Notes for tonight/tomorrow: Is this piece about the learning curve, or is it about surrounding yourself with superstars so you always have something to chase? Hmmm... Or is it about something else?
 Explore the above question, put some paragraphs together.
 
 
