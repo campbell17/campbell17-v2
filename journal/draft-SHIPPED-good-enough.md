@@ -2,7 +2,7 @@
 layout: post
 category: writing
 title: "Three Cheers for Two Words: Good Enough"
-subtitle: ""
+subtitle: "An incomplete exploration."
 date: '2023-03-28'
 draft: true
 ---
