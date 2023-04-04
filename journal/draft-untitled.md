@@ -6,9 +6,14 @@ date: '2023-04-03'
 draft: true
 ---
 
-- This happened this morning. 
-- I don't know who to thank, but I felt nothing. I unplugged the optical cable, the AC plug, and the only HDMI cable that wasn't ripped out by the fall.
-- I slid the TV to the side and rested it gently against the couch. Damage unknown. But the fix is already happening in my mind.
+- Like 96% of the American population, I have a TV in my house. Normally, a TV is arranged so the screen faces into the room, pointed toward comfortable seating to maximize its potential to entertain and delight. The other day, however, I rounded the corner to the living room and saw this.
+
+- I waited patiently for the flood of emotions to overwhelm me. The shock of an undermined expectation - I did not expect to see the TV I mounted 2 years ago slumped pathetically on the floor like it was black-out drunk. The anger, both inward and projected, that I'd be euthanizing my morning plans to deal with this. The worry that I let my family down by taking shortcuts when I first mounted it.
+
+- But nothing happened. I paused and waited for an extra moment for a rise in blood pressure that never came.
+
+- I unplugged the three remaining cables and slid the TV to the side, resting it gently against the couch. Damage unknown. But the fix is already happening in my mind.
+
 - Maybe I felt nothing because I expected this was a possibility when I took a shortcut installing the mount.
 - Funny thing about taking shortcuts, there's always time to do it right the second time.
 - So I got to fixing it.
@@ -21,7 +26,9 @@ draft: true
 - Pre drilling needed. 2 benefits: 1, give the lag bolts a path into the stud so they don't wander. 2, test the "stud" to make sure it's really a stud. 
 - 1st bolt doesn't go all the way in. Something harder than wood is preventing it from going all the way in, but it does go in about 2 inches out of the 4.
 - Gotta go to Ace. Need 6 bolts.
-- 
+
+- END in MIND: Emotion is a choice. Practicing choices makes them habits. Drilling in until you find something you could do differently puts the choice in your control. 
+- Ants choices are based on survival. While mine may not be life or death, they keep me from falling apart when all I needed to do was spend $3 on some more bolts.
 
 Notes for next time: Add more buts and therefores, read below and try to meet the criteria wherever possible.
 
