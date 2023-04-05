@@ -6,11 +6,21 @@ date: '2023-04-03'
 draft: true
 ---
 
-- Like 96% of the American population, I have a TV in my house. Normally, a TV is arranged so the screen faces into the room, pointed toward comfortable seating to maximize its potential to entertain and delight. The other day, however, I rounded the corner to the living room and saw this.
+Like 96% of the American population, I have a TV in my house. Normally, a TV is arranged so the screen faces into the room, pointed toward comfortable seating to maximize its potential to entertain and delight. The other day, however, I walked into the living room and saw this.
 
-- I waited patiently for the flood of emotions to overwhelm me. The shock of an undermined expectation - I did not expect to see the TV I mounted 2 years ago slumped pathetically on the floor like it was black-out drunk. The anger, both inward and projected, that I'd be euthanizing my morning plans to deal with this. The worry that I let my family down by taking shortcuts when I first mounted it.
+I waited patiently for the flood of emotions to overwhelm me. The shock of undermined expectations, seeing the TV not in the spot I mounted it 2 years ago, but instead slumped pathetically on the floor like it was black-out drunk. The anger that I'd be euthanizing my morning plans to deal with this. The regret that I knowingly took a shortcut when I first mounted it.
 
-- But nothing happened. I paused and waited for an extra moment for a rise in blood pressure that never came.
+But nothing happened. I paused and waited for an extra moment for a rise in blood pressure that never came. I can think of only three explanations for this:
+
+1. It was _so_ unexpected, my brain had no choice but to skip the grief and begin assessing how to fix the problem.
+2. The trauma of the event happened while I was out of the room. I didn't hear any loud noises and everyone else was out of the house at school or running errands. When I arrived on scene, the dust had already settled, leaving me to summon my inner CSI agent. 
+3. I am an ant.
+
+I mean, I can't rule that last one out, right? Look at the facts: I'm a team player. I have a powerful mandible. And apparently when someone kicks over my hill, or in this case my TV falls on the floor, I immediately set to fixing it without shedding a single tear over what just happened. Sorry, it's ironclad. I'm an ant.
+
+One thing ants don't waste time on is examining _why_ their hill got kicked over by a careless step, and again we're in alignment. Although in my case, it was my own carelessness that led to the fall, so I didn't _need_ to ask why because I already knew.
+
+Back in the spring of the year of our lord, 2021, my family was getting ready to relocate. NOTES FOR NEXT TIME: talk about finding the house, seeing that the TV was too big for the opening, and picking out the mount that would allow it to suspend in front of the opening. Then talk about the discovery of the panel blocking it's proper mounting technique. Then talk about the lack of a tool to modify the panel. Then talk about the decision to utilize good-enough economics amidst the 1000 other things that still had to get done in a newly moved-into house. and so on...
 
 - I unplugged the three remaining cables and slid the TV to the side, resting it gently against the couch. Damage unknown. But the fix is already happening in my mind.
 
@@ -27,7 +37,7 @@ draft: true
 - 1st bolt doesn't go all the way in. Something harder than wood is preventing it from going all the way in, but it does go in about 2 inches out of the 4.
 - Gotta go to Ace. Need 6 bolts.
 
-- END in MIND: Emotion is a choice. Practicing choices makes them habits. Drilling in until you find something you could do differently puts the choice in your control. 
+- END in MIND: Emotion is a choice. Practicing choices makes them habits. Emotional control and mental toughness go hand in hand. You can't have one without the other. And drilling in until you find something you could do differently next time puts you in the driver's seat. 
 - Ants choices are based on survival. While mine may not be life or death, they keep me from falling apart when all I needed to do was spend $3 on some more bolts.
 
 Notes for next time: Add more buts and therefores, read below and try to meet the criteria wherever possible.
