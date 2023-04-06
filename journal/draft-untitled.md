@@ -6,9 +6,9 @@ date: '2023-04-03'
 draft: true
 ---
 
-Like 96% of the American population, I have a TV in my house. Normally, a TV is arranged so the screen faces into the room, pointed toward comfortable seating to maximize its potential to entertain and delight. The other day, however, I walked into the living room and saw this.
+Like 96% of the American population, I have a television in my house. Normally, a TV is arranged so the screen faces into the room, pointed toward comfortable seating to maximize its potential to entertain and delight. The other day, however, I walked into the living room and saw this.
 
-I waited patiently for the flood of emotions to overwhelm me. The shock of undermined expectations, seeing the TV not in the spot I mounted it 2 years ago, but instead slumped pathetically on the floor like it was black-out drunk. The anger that I'd be euthanizing my morning plans to deal with this. The regret that I knowingly took a shortcut when I first mounted it.
+I waited patiently for the flood of emotions to overwhelm me. The shock of undermined expectations, seeing the TV slumped pathetically on the floor like it was black-out drunk instead of hanging on the wall-mount I installed 2 years ago. The anger that I'd be euthanizing my morning plans to deal with this. The regret that I knowingly took a shortcut when I installed the mount.
 
 But nothing happened. I paused and waited for an extra moment for a rise in blood pressure that never came. I can think of only three explanations for this:
 
@@ -18,9 +18,15 @@ But nothing happened. I paused and waited for an extra moment for a rise in bloo
 
 I mean, I can't rule that last one out, right? Look at the facts: I'm a team player. I have a powerful mandible. And apparently when someone kicks over my hill, or in this case my TV falls on the floor, I immediately set to fixing it without shedding a single tear over what just happened. Sorry, it's ironclad. I'm an ant.
 
-One thing ants don't waste time on is examining _why_ their hill got kicked over by a careless step, and again we're in alignment. Although in my case, it was my own carelessness that led to the fall, so I didn't _need_ to ask why because I already knew.
+One thing ants don't waste time on is examining _why_ their hill got kicked over, and again we're in alignment. Although in my case, it was my own carelessness that led to the fall, so I didn't _need_ to ask why because I already knew. For when we toured this house before buying it in the summer of 2021, I noticed the opening for the television in the built-in shelves would not accommodate our way-too-girthy-because-we-got-a-great-deal-on-black-friday flat screen. No problem. "I'll just buy a wall-mount," I told my wife, "so the TV extends past the opening, hovering amongst the outer shelves." But the day to install the mount arrived and I discovered a vertical piece of wood at the back of the opening against the wall, preventing me from centering the mount and utilizing the studs as the anchor points for the bolts.
 
-Back in the spring of the year of our lord, 2021, my family was getting ready to relocate. NOTES FOR NEXT TIME: talk about finding the house, seeing that the TV was too big for the opening, and picking out the mount that would allow it to suspend in front of the opening. Then talk about the discovery of the panel blocking it's proper mounting technique. Then talk about the lack of a tool to modify the panel. Then talk about the decision to utilize good-enough economics amidst the 1000 other things that still had to get done in a newly moved-into house. and so on...
+At this point, a wiser man would cut a slot in the vertical piece and slide the mount through, removing all risk from the job by doing it properly. But I was in an empty house with hundreds of boxes to unpack and no earthly way to achieve that. So I spit in the face of good judgement, measured out the mounting spot, kissed the lag bolts up to God, and screwed them into the quarter-inch wood paneling I foolishly thought could hold it.
+
+NOTES: talk briefly about proper mounting, juxtaposed against my short-sighted decision, bringing the story back to me standing there staring at a tv on my floor.
+
+Flash back to the spring of the year of our lord, 2021, and my family was staging for relocation. 
+
+NOTES FOR NEXT TIME: talk about finding the house, seeing that the TV was too big for the opening, and picking out the mount that would allow it to suspend in front of the opening. Then talk about the discovery of the panel blocking it's proper mounting technique. Then talk about the lack of a tool to modify the panel. Then talk about the decision to utilize good-enough economics amidst the 1000 other things that still had to get done in a newly moved-into house. and so on...
 
 - I unplugged the three remaining cables and slid the TV to the side, resting it gently against the couch. Damage unknown. But the fix is already happening in my mind.
 
