@@ -23,7 +23,7 @@ Therefore...
 - I had to cut that shit out. 
 But I liked to speed...
 Therefore I continued speeding.
-But I got caught. an 89 in a 45.
+But I got caught. a 70 in a 50 according to my driving record, but I think the officer was generous.
 Therefore...
 The cop asked me what possible explanation I could have for going that fast.
 I gave him a single word, posed as a question: "immaturity?"
@@ -38,8 +38,23 @@ But his job was to keep me from doing this again.
 Therefore, 
 what better way than offering the 8 hour court-appointed online driving course to avoid getting points on my license.
 - Short explainer of how that works for anyone unfamiliar.
+- I was already familiar.
 - Go over the section responsible for changing my perspective on emotional driving.
 - It was like a light bulb went on. I don't have to be any certain way toward the other drivers. 
 - Just Move Over. This was the mantra.
+- Getting less agitated wasn't the only thing that happened.
+- I stopped speeding.
+- In the 15 years since
+- Thinking other drivers are even thinking about you is self-centered and egotistical.
 
-Notes for next time: continue outline until the surprise is revealed and you have clear direction on the ending. Look over the previous essay for the structure notes.
+Notes for next time: Write it out.
+
+Global Notes:
+
+- Start with the end in mind: What do you want the outcome of your story to be?
+- Lead with action
+- “But, therefore”
+- Before your story’s climax, pause to force your audience to lean in. Add more sensory details, and layer on the drama.
+- The entire story should be designed to amplify one moment. (Van Neistat in "Details" is simply swapping the logo on the grill of his Toyota, but the video is utterly gripping because of the structured buildup)
+- Do you, but be consistent.
+
