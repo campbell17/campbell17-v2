@@ -8,6 +8,8 @@ draft: true
 
 Essay goes here
 
+DO NOT "ACT". THIS IS NOT LINKEDIN.
+
 Global Notes:
 
 - Start with the end in mind: What do you want the outcome of your story to be?
