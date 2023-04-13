@@ -7,6 +7,16 @@ date: '2023-04-10'
 draft: true
 ---
 
+Losing control of our emotions while driving is one of the dumbest things we do as a species. We're cocooned in a coffin of glass, plastic, leather, and steel, rumbling ahead at speeds god didn't intend, and at a time when our judgement should be at its sharpest, we often allow emotion to yank us out of the drivers seat and fully take the helm. And sometimes we don't just allow it, we rapaciously seek it out. Have you ever been in the car with someone who has something shitty to say about every other car on the road? Their preoccupation with everything outside of their control leaves little cognitive room to deal with the job of piloting their vessel properly. As I get older, the concept of caring about other drivers' behavior gets increasingly foreign. Which is an improvement, considering I was one of the worst transgressors of emotional driving for more than a decade.
+
+I once rear-ended someone at a stop light because I got right up his ass after he cut me off. It wasn't even a conscious decision. Getting right up people's asses was just what I did. When he got out of his car to check his bumper, I held my hands out, palms up, as if it was his fault. I stayed in my car which was the only redeeming decision of the transaction, since further escalation was highly probable if I got out. I was convinced he caused the whole incident. Such was the depth of my delusion.
+
+Years before, when I was still in high school, I followed someone home after they yelled "moron!" while passing me as I waited to turn into a gas station. I needed gas. Hence the waiting. But I didn't need gas so desperately that I couldn't turn off my blinker, get right up this guy's ass, and tail him all the way to his house, stopping at the end of his driveway to glare as he pulled into the garage. And oh, by the way, he had kids in the car with him. These are the actions of an unhinged psychopath.
+
+And my driving fury wasn't only triggered by people outside the car. I was once leaving a convenience store with a girlfriend and we got into an argument. I don't recall what it was about, but at some point I felt compelled to aggressively wrench the steering wheel to induce a sudden U-turn and head back to the store. When I looked over, my girlfriend had completely squished the donut she was eating because her fist involuntarily clenched in terror when I rage-turned. Rear-ending someone is one thing, but ruining a perfectly good vanilla frosted donut is where I drew the line. I obviously had a problem.
+
+Notes: transition into speeding, then the ticket, then the changeEvent, and so on
+
 - Story about being in the car with someone who was preoccupied with all the other drivers
 - This is completely foreign to me now, and seeing a grown ass adult get angry at other cars is gross
 - But that wasn't always the case
@@ -16,14 +26,14 @@ draft: true
 - Story about getting cutoff on the way back from the airport recently and feeling nothing - this will be part of the juxtaposition between old vs. new ways of dealing with the same events
 - What's the difference? When did I change?
 - In conjunction with my rage, I was also reckless. A speeder.
-- This used to be simple single guy shit.
+- This used to be simple single guy shit. (as I write these stories out, seems eh' s'deeper)
 But...
 - Then I had kids. A wife. A family.
 Therefore...
 - I had to cut that shit out. 
 But I liked to speed...
 Therefore I continued speeding.
-But I got caught. a 70 in a 50 according to my driving record, but I think the officer was generous.
+But I got caught. 89 in a 45.
 Therefore...
 The cop asked me what possible explanation I could have for going that fast.
 I gave him a single word, posed as a question: "immaturity?"
