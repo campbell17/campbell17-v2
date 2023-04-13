@@ -15,6 +15,10 @@ Years before, when I was still in high school, I followed someone home after the
 
 And my driving fury wasn't only triggered by people outside the car. I was once leaving a convenience store with a girlfriend and we got into an argument. I don't recall what it was about, but at some point I felt compelled to aggressively wrench the steering wheel to induce a sudden U-turn and head back to the store. When I looked over, my girlfriend had completely squished the donut she was eating because her fist involuntarily clenched in terror when I rage-turned. Rear-ending someone is one thing, but ruining a perfectly good vanilla frosted donut is where I drew the line. I obviously had a problem.
 
+And if I wasn't raging at other cars or people daintily holding food, I was probably speeding. Speeding goes hand in hand with unbridled emotional driving because the part of your brain responsible for rationality (small though it may be) takes a smoke break during both activities. But while emotional driving gets you in trouble with your fellow commuters, speeding usually involves police. I enjoyed speeding in my youth and got pulled over a few times, but it wasn't too egregious. Until one day I wanted to drag race away from a stoplight. Oh there was no other car, I was just being a fucking idiot. By the time I saw the lights in my rearview mirror, he had me going 89 in a 45. This one was new territory. "What possible explanation do you have for going that fast?", posed the officer. I could only muster one word, posed meekly as a question: "Immaturity?" He wryly acknowledged my succinct honesty and got back in the squad car to write up the citation.
+
+I'd never been to court before. Many speeders were in attendance, as I came to realize this must be an epidemic of sorts.
+
 Notes: transition into speeding, then the ticket, then the changeEvent, and so on
 
 - Story about being in the car with someone who was preoccupied with all the other drivers
