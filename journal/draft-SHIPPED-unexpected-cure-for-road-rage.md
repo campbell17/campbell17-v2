@@ -3,7 +3,7 @@ layout: post
 category: writing
 title: "An Unexpected Cure for Road Rage"
 subtitle: "Shout-out to all my peeps at the Orange County Courthouse"
-date: '2023-04-10'
+date: '2023-04-14'
 draft: true
 ---
 
@@ -29,7 +29,7 @@ When I tried it out for the first time, it worked better than I expected. I was 
 
 A few weeks ago, I was leaving the airport to head home after dropping someone off. There are two lanes that curl around toward the main highway and there was a car to my left and slightly ahead so my front bumper was aligned with their rear. Suddenly, a third car came racing up behind, got right on the other car's ass so we were essentially door-to-door, and after only a moment, pulled violently into my lane (with me still in it). Acting purely on instinct, I yanked my car into the shoulder and hit the brakes to avoid the collision, then pulled back into my lane as that car raced away. The old me wouldn't be writing this story. The old me would be dead in a heap of metal on the side of I-95 outside the Philadelphia airport because I chased down a lunatic and rammed him off the road. The "just move over" me? He just moved over.
 
-I think we all tend to imagine other people giving us more thought than they do. It's a byproduct of our ego and is a natural part of the human experience. When I was younger, I thought everyone on the road was in competition with me, trying to thwart my efforts to get where I was going. Taking that driving course made me understand how selfish and egotistical that mode of thinking is. When we're just walking around day-to-day, the stakes of this egotism are pretty low. They might lead to some stress, anxiety, or in severe cases paranoia, but that's usually the worst of it. On the road, however, failing to control your ego and emotions has real consequences.
+I think we all tend to imagine other people giving us more thought than they do. It's a byproduct of our ego and is a natural part of the human experience. When I was younger, I thought everyone on the road was in competition with me, trying to thwart my efforts to get where I was going. Taking that driving course made me understand how selfish and egotistical that mode of thinking is. When we're just walking around day-to-day, the stakes of this egotism are pretty low. They might lead to some stress, anxiety, or in severe cases paranoia, but that's usually the worst of it. On the road, however, failing to control your ego and emotions has real consequences. 
 
 Notes: transition into speeding, then the ticket, then the changeEvent, and so on
 
