@@ -6,7 +6,17 @@ date: '2023-04-17'
 draft: true
 ---
 
-Essay goes here
+Well shit. I didn't pick a topic AND I didn't write an outline.
+
+Maybe this one: Expectations.
+
+- Sebastian came out and was 15 feet away from my car. Didn't see me.
+- Our expectations have a strangle hold on our emotions.
+- When the expected misaligns with reality, chemicals flood your brain. Which ones? Hell if I know. But chaos is happening in there.
+- Especially tough on children, but adult children don't fare much better.
+
+Notes: continue outline, find more personal examples, find the outcome, find the surprise.
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
