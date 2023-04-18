@@ -14,8 +14,17 @@ Maybe this one: Expectations.
 - Our expectations have a strangle hold on our emotions.
 - When the expected misaligns with reality, chemicals flood your brain. Which ones? Hell if I know. But chaos is happening in there.
 - Especially tough on children, but adult children don't fare much better.
+- Look at the scale of expectations: Low, Realistic, High
+- Low == almost anything qualifies as passing. Easy to feel positive about the outcome.
+- Realistic == playing the odds, unlike low, failsafes are needed to redirect/correct "underperformance"
+- High == nothing likely to be good enough. Useful if working towards something in my control, harmful if relying on others to meet criteria
+- Entitlement plays a part if others' actions are required
+- Get really good at calibrating expectations for the desired outcome
+- Recent example: Dinner at Catherines: never been, chosen by people who don't pinch pennies, reason for going = celebration of a new job. Expectations: enjoy some killer food, good conversation with friends, gonna be pricey. Reality: Anxiety showed up a bit, but sitting outside helped settle it and good conversation cured it. Food = met, friends = 1 unexpected addition, added to the experience so outcome was positive, price = cost more than even anticipated. Ferrari in the parking lot. Oops. ouch. But tempered by the special occasion. Overall: outcome was highly positive.
 
-Notes: continue outline, find more personal examples, find the outcome, find the surprise.
+- Should I architect the whole essay around the dinner? Maybe set up 1 pretend set of expecations that went unmet (leading to a miserable evening) and juxtapose it against the actual expectations that led to a pleasant one? Same dinner, same people, same place. but different emotional outcome?
+
+Notes: work on structure, tie in idea of blind spots?
 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
