@@ -6,6 +6,18 @@ date: '2023-04-17'
 draft: true
 ---
 
+My 10 year-old walked out the front door of the elementary school, descended the steps, walked straight toward my car until he was 15 feet away, then stopped. He had a lost look in his eye as he scanned the car line, looking for his ride home. I rolled down the passenger window and called his name, snapping him out of search mode.
+
+"I thought Mom was picking me up," he explained.
+
+It's incredible to see the power our expectations have over us. My son was staring at my bright red car for a good ten seconds as he approached and still didn't see it. Why? Simple. Instead of a red hatchback, he expected a silver SUV. This event played out painlessly. He got in the car after I called him, told me why he didn't see me, then got buckled as we pulled away. But think about all the times our unmet expectations lead to emotional strife. When the chain of events for an upcoming situation don't align with what we predicted, our brains flood with the same chemicals as our ancestors when they encountered a snake in the grass. In that moment, the order of the status quo is trampled by the chaos of a new reality.
+
+In some sense, these events are part and parcel of the very act of Being. Every day we wake up and set expectations for our actions, however small. If I expect to make a bagel for breakfast, there's a chance my daughter ate the last one without me knowing and now my expectation of experiencing dietary deliciousness to start my day is destroyed. But some of these minor inconveniences are so common, they barely register in our brains. Depending on my disposition, I may not even express an emotional reaction at all. I'll just have eggs instead. It all depends on the height of the bar.
+
+Let's visualize expectation as a physical bar we have to step over. The lower the expectation, the lower the bar, the easier it is to meet the criteria, i.e. get over the bar. In our breakfast example, my first and primary criteria was to _have it_. That's the lowest I could set the bar. When I narrowed that down to having a bagel, the bar got raised but only slightly. The main criteria is still so low, that substituting eggs maintained the expectation of having breakfast at all, so my emotions remained unimpacted. But what if we were also out of eggs. And cereal. And my wife ate the last waffle. And I forgot to pick up more coffee yesterday. Now, the rage and sadness begin to well up inside me, and I write "childish tantrum" on the breakfast menu, because apparently that's what I'll be having this morning. Notice, however, I didn't raise the bar at all. The expectation I set was still quite low, but a perfect storm of unfortunate events conspired to unsettle the very ground on which I stood, causing my low bar to become suddenly unattainable.
+
+Notes: keep going on low v. medium v. high. You just talked about how even low expectations can get undermined. What about when the stakes are higher and how does that relate to how we react and what we're able to achieve? Continue to follow the outline, it's working so far.
+
 Well shit. I didn't pick a topic AND I didn't write an outline.
 
 Maybe this one: Expectations.
@@ -24,7 +36,7 @@ Maybe this one: Expectations.
 
 - Should I architect the whole essay around the dinner? Maybe set up 1 pretend set of expecations that went unmet (leading to a miserable evening) and juxtapose it against the actual expectations that led to a pleasant one? Same dinner, same people, same place. but different emotional outcome?
 
-Notes: work on structure, tie in idea of blind spots?
+
 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
