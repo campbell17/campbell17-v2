@@ -5,7 +5,6 @@ title: "New, Yet Familiar Horizons"
 description: "It's time for a change."
 img: 'https://campbell17.s3.amazonaws.com/posts/new-horizons.jpg'
 date: '2021-06-11'
-homepage: true
 ---
 
 ![a family of Canada geese on a pond](https://campbell17.s3.amazonaws.com/posts/new-horizons.jpg)

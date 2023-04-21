@@ -3,6 +3,7 @@ layout: post
 category: writing
 title: "Adulting 101"
 date: '2023-01-20'
+homepage: true
 ---
 
 I hate the word "adulting". Why? Why do I hate this word? Well, where do I usually see it? Social media. In what context? Memes. Memes about not wanting to do the things one must do. Memes about feeling too overwhelmed to undertake the basic responsibilities of life. Memes about "stuff" being "so hard" that "I can't even deal". The memes always portray being an adult in some harsh and negative light.
