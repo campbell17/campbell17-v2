@@ -13,6 +13,7 @@ draft: true
 - The love for the game got rekindled when he started playing, and it kills me that he gets to have fun and my time is over.
 - I help out at practice sometimes and it's fun, but it probably looks sad from the outside, like someone trying to rekindle something
 - When does he get to play how he wants? When does encouragement turn into manipulation to fulfill vicariousness?
+- Last night they suffered their first loss of the season. Why did I feel just as sad afterwards, and even a little longer than he?
 
 Notes for next time: this is gonna be weird. Try to find the ending and/or surprise first before moving on with the outline.
 
