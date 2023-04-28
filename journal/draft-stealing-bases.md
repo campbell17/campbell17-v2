@@ -2,7 +2,7 @@
 layout: post
 category: writing
 title: "Stealing Bases"
-subtitle: "Sometimes I do the right things for the wrong reason."
+subtitle: "Sometimes I do the right things for the wrong reasons."
 date: '2023-04-24'
 draft: true
 ---
