@@ -6,7 +6,21 @@ date: '2023-05-01'
 draft: true
 ---
 
-Essay goes here
+Remember that time in middle school I went to 7-11 with a friend before school started, bought non-alcoholic beer, and whipped it out during lunch to have with my PB&J?
+
+- Sneaking away from the school premises in the first place
+- Back then, students weren't hawked like they are now
+- Oh btw, they sold it to us
+- stashing it in our bags
+- the big reveal
+- our larger-than-life, yet friendly lunch aide simply confiscated them with an amused look - not chastising in any way
+- oh btw, we didn't get in trouble
+- I still had one in my backpack and drank some on the bus on the way home. 
+- oh btw, it was gross
+- There's something about the practice of acting older than your age. Try to describe that something.
+
+Notes for next time: Would be good in a story form, similar to the rock throwing essay?
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
