@@ -6,13 +6,13 @@ date: '2023-05-01'
 draft: true
 ---
 
-I don't know what compelled us to do it. Maybe we wanted to pretend to be older. Or maybe curiosity got the better of us and we just wanted to see what would happen. Either way, we thought it would be hilarious. At 13 years old, nearly everything was hilarious. We look at each other and nod. Then, as naturally as we can, we approach the convenience store cashier, reach over the glass counter, and place our two bottles of beer.
+I don't know what compelled us to do it. Maybe we wanted to pretend to be older. Or maybe curiosity got the better of us and we just wanted to see what would happen. Either way, we thought it would be hilarious. At 13 years old, nearly everything was hilarious. We look at each other and nod. Then, as naturally as we can, we approach the convenience store cashier, reach over the glass, and place our two bottles of beer on the counter.
 
-We were certain a teacher would see us sneaking away from the building before school started and yell at us to come back. But they didn't. So we kept walking up the hill toward the Cash & Carry convenience store, which sounds more like a euphemism for armed robbery than a place to buy donuts and fill up with gas. Once we decided to buy non-alcoholic beer instead of Mountain Dew to wash down our PB&J lunches, we were certain the checkout clerk would yell at us for being idiots and make us put it back. But he didn't. So we paid for our faux beer - one O'Doul's and one Miller Sharp's to be exact - and we made the short walk back to the school, stashing the bounty in our backpacks along the way.
+We were certain a teacher would see us sneaking away from the building before school started and yell at us to come back. But they didn't. So we kept walking up the hill toward the Cash & Carry convenience store, which sounds more like a euphemism for armed robbery than a place to buy donuts and fill up with gas. Once we decided to buy non-alcoholic beer instead of Mountain Dew to wash down our PB&J lunches, we were certain the checkout clerk would yell at us for being idiots and make us put it back. But he didn't. So we pay for our faux beer - one O'Doul's and one Miller Sharp's to be exact - and we make the short walk back to the school, stashing the bounty in our backpacks along the way. But do we actually have the guts to crack a beer during lunch?
 
-Now we faced a question. Do we actually have the guts to whip out a bottle of beer to wash down our lunches in the middle school cafeteria?
+The tricky part, so we thought, was acquiring the beverages. But even _making it_ to lunch is under serious threat. Concentrating during our morning classes is out of the question. All I keep doing is picturing the looks on my classmates' faces when I simulate Miller time over a peanut butter & jelly with the crusts cut off. 
 
-Notes for next time: Continue the but/therefore train. Examine the risk/reward for a joke.
+Notes for next time: Continue the but/therefore train. Examine the risk/reward for a joke. That last line is pretty good. See if we can keep up that vibe.
 
 
 - Sneaking away from the school premises in the first place
