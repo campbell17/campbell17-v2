@@ -15,6 +15,7 @@ export default function Groups() {
     <Layout fulcrum>
       <Head>
         <title>Case Study</title>
+        <meta name="robots" content="noindex,nofollow" />
       </Head>
       <Masthead         
         title="Case Study" 

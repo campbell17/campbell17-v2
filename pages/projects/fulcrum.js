@@ -31,7 +31,7 @@ export default function Fulcrum() {
         heading="The Work"
         content="Here are some examples of a few things I've designed during my tenure:"
       />
-      <Link href="/projects/fulcrum/groups">
+      {/* <Link href="/projects/fulcrum/groups">
         <a className="blurOnHover">
           <div style={{ overflow: 'hidden', borderRadius: 8, position: "relative" }}>
             <Image
@@ -51,7 +51,7 @@ export default function Fulcrum() {
             <h3 style={{ position: "absolute", width: "100%", height: "100%", top: "calc(50% - 1.6em)", textAlign: "center", zIndex: 0 }} className={ isLoading ? 'h5 tile-title transitioning' : 'h5 tile-title transitioned'}>Groups Case Study</h3>
           </div>
         </a>
-      </Link>
+      </Link> */}
       <Gallery fulcrumImages />
       <div className="flex flex-a-start flex-j-start">
         <Link href="/projects"><a className="cta">&larr; See all Projects</a></Link>      
