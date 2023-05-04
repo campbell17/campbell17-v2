@@ -10,9 +10,19 @@ I don't know what compelled us to do it. Maybe we wanted to pretend to be older.
 
 We were certain a teacher would see us sneaking away from the building before school started and yell at us to come back. But they didn't. So we kept walking up the hill toward the Cash & Carry convenience store, which sounds more like a euphemism for armed robbery than a place to buy donuts and fill up with gas. Once we decided to buy non-alcoholic beer instead of Mountain Dew to wash down our PB&J lunches, we were certain the checkout clerk would yell at us for being idiots and make us put it back. But he didn't. So we pay for our faux beer - one O'Doul's and one Miller Sharp's to be exact - and we make the short walk back to the school, stashing the bounty in our backpacks along the way. But do we actually have the guts to crack a beer during lunch?
 
-The tricky part, so we thought, was acquiring the beverages. But even _making it_ to lunch is under serious threat. Concentrating during our morning classes is out of the question. All I keep doing is picturing the looks on my classmates' faces when I simulate Miller time over a peanut butter & jelly with the crusts cut off. 
+The tricky part, so we thought, was acquiring the beverages. But even _making it_ to lunch is under serious threat. Concentrating during our morning classes is out of the question. All I keep doing is picturing the looks on our classmates' faces when we simulate Miller Time™ over a peanut butter & jelly with the crusts cut off. Meanwhile, it occurs to me I don't even know what this stuff tastes like. To pull this off it has to look as matter-of-fact as possible like it's any other Tuesday. What if it's so harsh I can't keep it down? I start to get nervous. Not because I realize this is a bad idea, which - to any objective observer - it clearly is, but because I'm worried about the joke not landing. Priorities, you know?
 
-Notes for next time: Continue the but/therefore train. Examine the risk/reward for a joke. That last line is pretty good. See if we can keep up that vibe.
+For the next hour, my imagination bounces back and forth between nightmares of getting expelled and phantasies of being the authors of the greatest middle school lunch prank ever pulled. I periodically sneak a glance at my partner-in-crime, wondering if he's experiencing the same emotional roller coaster. He seems too calm. He looks like he's actually paying attention to the teacher. Wait, he's not going to back out, is he? I don't mind sharing the glory because if it all goes sideways we can share the blame, but if he screws me and chickens out...
+
+"Let's see...how about you, Tim? You've been pretty quiet."
+
+My eyes suddenly focus on the chalkboard as everyone else's eyes focus on me. In a classic stall tactic, I look down at my textbook which probably isn't even opened to the correct page. I'm so busted, and because I didn't hear a word the teacher said, I can't even take one of my patented wildly-wrong-yet-humorous guesses. I take the classroom equivalent of the "walk of shame", and concede the truth. 
+
+"Sorry, I wasn't paying attention."
+
+Even though I wasn't a big fan of school, I hated disappointing my teacher. She was strict, yet kind, and she had the sort of sense of humor that didn't belong in a catholic school. 
+
+Notes for next time: I guess we're talking about my teacher for a minute. After that, and maybe a bit about her humor being able to appreciate my joke, transition to the moment of truth, and finish.
 
 
 - Sneaking away from the school premises in the first place
