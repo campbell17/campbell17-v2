@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing
-title: "Title Goes Here"
+title: "Shame is So Underrated"
 date: '2023-05-08'
 draft: true
 ---
