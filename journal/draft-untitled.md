@@ -14,7 +14,13 @@ _For everyone else, I have a small favor to ask. Leave a comment after this essa
 
 _Now on to this week's essay._
 
-Essay goes here
+
+Let's have some fun.
+
+I punched my best friend in the face as hard as I could. In the nose, to be exact. He let out an ungodly yelp and rushed to the bathroom so he didn't get blood all over his bedroom. This was a highly unfortunate turn of events when you consider I was actually aiming for his older brother's ribcage.
+
+There's a moment during childhood rough-housing when it goes from innocent fun to way over the line, and the gradient between those states is nil. It's like when you pet a dog a bit too hard for a bit too long and he snaps like a venus fly trap, though at least with the dog you might get a growl of warning. However, this haymaker, and my subsequent premature departure from my friend's house, represents the worst case of instant rage I ever experienced. I was 9 or 10, and nothing has come close since.
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
