@@ -27,6 +27,17 @@ Using the force.
 - I've been working on website changes for months. If it had to be done next week, you bet your ass I'd be making some desk-clearing-level decisions to speed things up. I'm FORCED to do so by the deadline, hence forcing function. Without that deadline, I'm free to aimlessly dabble around in different mental modes, looking for cool stuff to add and getting easily distracted.
 - This newsletter is living proof that it works. In week 3, I decided I publish Friday morning. *Every* Friday morning. Is this arbitrary? Of course it is. But the details of the deadline are immaterial compared to the outcome it provokes.
 
+<!-- - One problem I'm having lately is the inability to stack parallel activities
+- I can manage one essay per week, but everything else is scattershot
+- The longer deadlines of the other activities seem to be keeping me from completing them
+- I'm designing a tattoo for my daughter who recently turned 18. (not sure if I want to keep this in) If she had the appointment set for next week, I would drop everything and grind to get it done. But she doesn't She says "whenever you have time", which is about as good as saying "don't ever work on this".
+- But that's what I mean about concurrent. To push one thing across the line, everything else has to pause. 
+- I've tried to section...I'm just realizing I'm talking about process, which is boring. Abandoning this thread -->
+
+- Do I ever get to stop making progress? That depends. When I stopped drawing for 7 years, I didn't particularly miss it, but I had many other things to do that warranted my undivided attention. Once those things ran their course, the free time I inherited yearned to be filled with something worthwhile.
+- But I don't believe this is true for everyone. 
+-  
+
 Notes for next time: finish the outline, get started writing.
 
 
