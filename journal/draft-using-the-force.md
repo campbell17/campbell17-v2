@@ -14,6 +14,18 @@ _For everyone else, I have a small favor to ask. Leave a comment after this essa
 
 _Now on to this week's essay._
 
+- Sometimes things work best by "force"
+    - how reframing the circumstances adds forcing functions to reach desired outcomes
+        - example: choosing to write a newsletter every day necessarily opens up the topic pool since there's no more time to be picky
+
+*****************
+
+
+NOTE: HEY - THIS IS JUST PARKINSON'S LAW. DON'T WRITE BORING STUFF ABOUT PARKINSON'S LAW. ABANDON THIS ESSAY.
+
+
+*****************
+
 Using the force.
 
 - I liked Star Wars just fine, but I'm not a huge fan. I've never seen the Mandolorian, which I guess would be the pass/fail point for anyone posing as a modern fan of the franchise.
