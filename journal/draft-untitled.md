@@ -15,7 +15,6 @@ _For everyone else, I have a small favor to ask. Leave a comment after this essa
 _Now on to this week's essay._
 
 
-Let's have some fun.
 
 I punched my best friend in the face as hard as I could. In the nose, to be exact. He let out an ungodly yelp and rushed to the bathroom so he didn't get blood all over his bedroom. This was a highly unfortunate turn of events when you consider I was actually aiming for his older brother's ribcage.
 
@@ -25,6 +24,8 @@ There's a moment during childhood rough-housing when it goes from innocent fun t
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
 Global Notes:
+
+Let's have some fun. "Caution rarely leads to awesome." (- John August, Inneresting 05/18/23)
 
 - Start with the end in mind: What do you want the outcome of your story to be?
 - Lead with action

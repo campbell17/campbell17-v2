@@ -12,6 +12,8 @@ DO NOT "ACT". THIS IS NOT LINKEDIN.
 
 Global Notes:
 
+Let's have some fun. "Caution rarely leads to awesome." (- John August, Inneresting 05/18/23)
+
 - Start with the end in mind: What do you want the outcome of your story to be?
 - Lead with action
 - “But, therefore”
