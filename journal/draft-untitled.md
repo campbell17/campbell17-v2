@@ -2,10 +2,11 @@
 layout: post
 category: writing
 title: "The Nap Had Nothing To Do With It"
-subtitle: '"I think it was the nap that did it. I'm going to start napping between classes from now on." Let me stop you right there...'
 date: '2023-05-22'
 draft: true
 ---
+
+Subtitle: "I think it was the nap that did it. I'm going to start napping between classes from now on." Let me stop you right there...
 
 "I think it was the nap that did it. I'm going to start napping between classes from now on."
 
