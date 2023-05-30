@@ -23,8 +23,10 @@ Screenshot of the sandlot, early in when Lea whatsherface is talking to Smalls
 - The part that interests me now that the insanity is behind me is the sheer luck of getting to the other side relatively unscathed. How much of this was always going to happen, i.e., if I _did_ end up in juvvy, would I still have turned over a new leaf when given the opportunity?
 - Something else to consider - my parents hand in taking the necessary actions to turn the ship around. I changed schools almost as much as a military kid, in K, 2nd, 5th, 7th, and 8th grade. Two of those were relocation-induced, but one of those relocations was a direct result of the dissatisfaction my parents had with how things were going, not just for me.
 - When I consider where I am and compare it to where I could have ended up, it seems nothing short of miraculous. 
+- New leaf vs. let it ride. Something else to consider is the effect of getting out of something that could have been life-changing (in a bad way). When does a fortunate bounce lead to "never again", and when does it lead to "let's ride this train till it derails"?
+- 
 
-Notes for next time: Will this work while violating the "one moment" Global note? Give that a think. Also, maybe think a little about whether or not near-misses lead to a reformation or a let-it-ride attitude. Do I want to compare my kids' lives lack of trouble with mine and those of my gen? Is this a commentary on the types of trouble kids got into then vs. now? Do I even know enough about now to compare? 
+Notes for next time: The lack of future thinking inherent to childhood. The positive aspects of getting in jams. Seeing where the limits are before the stakes are too high. Do I want to compare my kids' lives lack of trouble with mine and those of my gen? Is this a commentary on the types of trouble kids got into then vs. now? Do I even know enough about now to compare? 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
