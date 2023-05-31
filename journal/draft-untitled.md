@@ -26,7 +26,9 @@ Screenshot of the sandlot, early in when Lea whatsherface is talking to Smalls
 - New leaf vs. let it ride. Something else to consider is the effect of getting out of something that could have been life-changing (in a bad way). When does a fortunate bounce lead to "never again", and when does it lead to "let's ride this train till it derails"?
 - 
 
-Notes for next time: The lack of future thinking inherent to childhood. The positive aspects of getting in jams. Seeing where the limits are before the stakes are too high. Do I want to compare my kids' lives lack of trouble with mine and those of my gen? Is this a commentary on the types of trouble kids got into then vs. now? Do I even know enough about now to compare? 
+There but for the grace of God go I. How is it I ended up here - in my own house with a cup of warmish coffee and a computer to write with - instead of on the streets, in prison, or dead? Have you thought about that lately? Think about all the times you got in trouble growing up. We all get in trouble, so what separates the people who "grow out of it" from the people who _stay_ in trouble into adulthood and beyond?
+
+Notes for next time: Ponder more questions and start answering them. 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
