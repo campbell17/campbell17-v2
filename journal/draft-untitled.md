@@ -32,7 +32,9 @@ Growing up, I maintained a steady ebb and flow between sinner and saint. Left to
 
 I still remember where I was standing in my old house when my mom laid the "birds of a feather flock together" adage at my feet. She explained its meaning and I got my first glimpse into the way I could be influenced by others. She stressed I should be more particular about who I hang around with. Up until that point, fun was fun and anyone who wanted to play with me was a-ok. I remember resisting the idea at the time, not wanting someone else to have control over who I chose to be friends with. It sank in, though, and I avoided playing with that boy much after that. That was a "nurture" moment, as opposed to my inherent attraction to trouble, i.e. "nature". I read once that despite the obvious influence our peers have on our behavior, it's our natural attractions to those _types_ of peers that really determines what path we end up taking in life. In other words, if I was born with a predernatural yearning to be perceived as "cool" and I grew up in an era where smoking was considered cool, my peer group wouldn't be the ones influencing me to smoke; rather, when I reached an age where that started to matter, I would naturally gravitate toward a peer group already consisting of smokers.
 
-Notes for next time: Ponder more questions and start answering them. 
+
+
+Notes for next time: Talk about how correlation is so easily misdirected? Or have you beat that dead horse enough? Otherwise, start talking about big changes in 5th grade.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
