@@ -19,8 +19,15 @@ I want to do x, and I know at some point I will, but when _now_ is the moment I 
 - Shamon. Staple some nuts on. That wasn't my professor's quote, rather an old colleague, but that was my professor's implied next sentence. Get out of your own ass and do the work.
 - The point is, there ARE a million reasons not to do something. So what does it take to finally silence those voices and staple on our proverbial nuts? 
 - I love the phrase "forcing function" because it succinctly describes the mechanism through which progress is born. If I'm standing next to a stranger at the bus stop, the possibilities for what needs to happen next are completely up in the air. I may strike up a conversation, pull out my phone to see if I have any notifications to clear, or stick my hands in my armpits and smell them because I got nervous. But what if I'm at the bus stop and a stranger collapses on the ground? That event eliminates every possibility except one: "Hey. _Tend to that._"
-- Some forcing functions, like the collapsing stranger, emerge out of thin air...
-
+- Some forcing functions, like the collapsing stranger, rise up out of the ground suddenly like the undead, leaving us no choice but to address them immediately and directly. But most are arbitrary, time-based restrictions. 
+- A time-based forcing function is an eggheaded way to say "deadline", and most often refers to finishing something. I'm more curious about starting things I don't already have to do.
+- Personal pursuits are voluntary. I'm not getting paid, no one is asking me to do them, and the outcome won't materially change much about my life. 
+- Enter: The Wild Hair. 
+- Wild hairs are responsible for more action and innovation than MIT, NASA, and DARPA combined. Ever since cavemen saw lightning-induced fire and thought, "I bet _we_ could make some of that", wild hairs have been the tip of the spear of progress.
+- Wild hairs come in two varieties: yours and someone else's. And we only give a shit about one of those. 
+- One of the marks of an effective leader is to persuade others to believe your wild hair is actually their wild hair, but I'll leave the examination of that topic for another day.
+- For now let's focus on ours. First, how to recognize one. 
+- Procrastinators playbook
 
 Notes for next time: continue the last sentence, talking about external forces becoming forcing functions. Then move on to lists, top 5 stuff, and maybe other types of motivations. What happens when something just dies on the vine, never to get done?
 
