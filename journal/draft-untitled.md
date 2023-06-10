@@ -15,7 +15,7 @@ When does something I want to do get moved into the "something I'm doing" bucket
 
 I want to do x, and I know at some point I will, but when _now_ is the moment I refuse to wait another day...why? Why is TODAY the day?
 
-- My old photography professor used to say, there are a million reasons _not_ to do something. He said this in reference to the lack of seriousness his students often displayed when it came to motivation, procrastination, and deadlines.
+- My old photography professor used to say, there are a million excuses _not_ to do something. He said this in reference to the lack of seriousness his students often displayed when it came to motivation, procrastination, and deadlines. 
 - Shamon. Staple some nuts on. That wasn't my professor's quote, rather an old colleague, but that was my professor's implied next sentence. Get out of your own ass and do the work.
 - The point is, there ARE a million reasons not to do something. So what does it take to finally silence those voices and staple on our proverbial nuts? 
 - I love the phrase "forcing function" because it succinctly describes the mechanism through which progress is born. If I'm standing next to a stranger at the bus stop, the possibilities for what needs to happen next are completely up in the air. I may strike up a conversation, pull out my phone to see if I have any notifications to clear, or stick my hands in my armpits and smell them because I got nervous. But what if I'm at the bus stop and a stranger collapses on the ground? That event eliminates every possibility except one: "Hey. _Tend to that._"
@@ -28,7 +28,7 @@ I want to do x, and I know at some point I will, but when _now_ is the moment I 
 - One of the marks of an effective leader is to persuade others to believe your wild hair is actually their wild hair, but I'll leave the examination of that topic for another day.
 - For now let's focus on ours. Sometimes, when I'm on the couch minding my own business, I'll hear my cat warble loudly from the other room before tearing ass all across the house like she's being chased by a demon. My youngest son calls it "the zoomies". That's the feline version of the wild hair. Unfortunately for her, not only is she a dope but she has no opposable thumbs, so sprinting for her life is the most she'll ever accomplish with her wild hairs. By contrast, we have big wrinkly brains and many thumbs, so harnessing ours is only a matter of taking action.
 - An idea is just an idea. A wild hair is an idea with motivation already baked in. It sidesteps the part of our brain responsible for the million reasons of inaction and puts it directly on the conveyorbelt. No debate required. 
-- The magic happens when we're able to combine a something something forcing function with the wild hair, . I can make a todo list as long as a Walgreens receipt, but if I don't add an extra layer of necessity, ain't nothing getting done. 
+- The magic happens when we're able to combine a forcing function with the wild hair, giving me not only the thing to do but the motivation to get after it. I can make a todo list as long as a Walgreens receipt, but if I don't add an extra layer of necessity, ain't nothing getting done. 
 - Procrastinators playbook
 
 Notes for next time: continue the last sentence, talking about external forces becoming forcing functions. Then move on to lists, top 5 stuff, and maybe other types of motivations. What happens when something just dies on the vine, never to get done?
