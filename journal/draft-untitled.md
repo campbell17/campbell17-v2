@@ -6,7 +6,9 @@ date: '2023-06-26'
 draft: true
 ---
 
-Essay goes here
+Dad, you should slow down, the roads are wet.
+
+Scaring our children with our driving is a Campbell tradition. 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
