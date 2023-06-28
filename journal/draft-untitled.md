@@ -15,6 +15,9 @@ draft: true
 - So that's where I went. I closed my eyes and visualized an empty highway. I let myself believe there were no cars nearby and turned the bumps in the road into my personal massage chair.
 - This worked. But not without its tradeoffs.
 - "Open your eyes!", she shouted. She was incredulous. My best friend's mom must have peeked over at me as we came around the final corner. She couldn't understand why I would get on the steepest, fastest roller coaster in the world and spend the entire time with my eyes closed pretending to be somewhere else. I just wanted to say I did it. But if I didn't feel anything, did I?
+- Burying my head in the sand has its utility, but the mentality behind it matters. Using it as a means to avoid heightened panic is worth doing, but using it as a crutch to avoid experiencing life is where things get dicey.
+- Extending that even further, the habit of avoiding problems spills into things like personal responsibility, where mandatory attention is required. Pretty soon I happy-place myself into complete and utter unreliability. I can turn that around on a dime for myself, but regaining the trust and faith of others is another story.
+- Did I want to be the kind of person who couldn't be counted on in times of crisis?
 - 
 
 Scaring our children with our driving is a Campbell tradition. 
