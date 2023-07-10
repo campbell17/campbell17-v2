@@ -38,6 +38,8 @@ How to be an adult.
 - Have a spouse.
 - 
 
+Notes for next time: Sit for another hour and think of more.
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
