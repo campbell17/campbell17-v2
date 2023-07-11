@@ -27,18 +27,22 @@ How to be an adult.
 - When something goes wrong, find at least one thing you could have done differently to prevent it. 
     If someone else is involved, tell them your things. Do not point out theirs. 
       Example: "I definitely coulc/should have done x when y happened. That might have made this situation better. Period." <--- There's a space here to add a "but, you also could have...". Leave that space empty by promptly shutting up. This takes practice.
-- Don't let others catch you on your phone. See also: don't be on your phone. See also: don't have your phone out at all.
+- Don't let others catch you on your phone. See also: don't be on your phone. See also: don't have your phone out in general.
 - Know that rudeness is a choice. No one else can make you rude.
-- Know that getting offended is an emotion. Staying offended is a choice. No one else can make you stay offended.
+- Know that getting offended is an emotion but _staying_ offended is a choice. No one else can make you stay offended.
 - Know that on rare occasions, feeling offended is the appropriate response.
-- Know that activism is not a career any more. Pick something else.
+- Know that activism is not a valid career path. Study civics instead.
 - Wave to your neighbors.
 - Know that there is such a thing as normal. It's much better than it sounds.
 - Know that some days don't belong to you. Your spouse's birthday, for example.
 - Have a spouse.
-- 
+- If you see a piece of trash, pick it up and throw it out.
+- Don't tailgate.
+- Don't commit crime.
+- Make lists.
+- Understand there's no such thing as "every time", "always", and "never".
 
-Notes for next time: Sit for another hour and think of more.
+Notes for next time: Write two or three sentences for each.
 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
