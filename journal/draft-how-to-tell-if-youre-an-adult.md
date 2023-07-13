@@ -80,8 +80,6 @@ Relationships
   
   You're self-aware.
   - When something goes wrong, you find at least one thing you could have done differently to prevent it. 
-      <!-- If someone else is involved, tell them your things. Do not point out theirs. 
-        Example: "I definitely coulc/should have done x when y happened. That might have made this situation better. Period." <--- There's a space here to add a "but, you also could have...". Leave that space empty by promptly shutting up. This takes practice. -->
   
   You're present.
   - You don't let others catch you on your phone. See also: You're not on your phone. See also: Your phone isn't even out.
@@ -110,8 +108,10 @@ Balance
 
 
 Notes for next time: Make sure all the "you"'s are in place. Proofread, refine, tweak.
-<!-- - Know that activism is not a hobby. Truly get involved or stay home. -->
+<!-- - Know that activism is not a hobby. Truly get involved or stay home. 
 
+        - If someone else is involved, tell them your things. Do not point out theirs. 
+        Example: "I definitely coulc/should have done x when y happened. That might have made this situation better. Period." <--- There's a space here to add a "but, you also could have...". Leave that space empty by promptly shutting up. This takes practice. -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
