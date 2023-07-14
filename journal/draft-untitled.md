@@ -6,7 +6,18 @@ date: '2023-07-17'
 draft: true
 ---
 
-Essay goes here
+OPTION 1:
+Preservation vs. Production
+
+- Holding on too tightly - objectifying something as precious - results from lack of production.
+- When I was 6 (or something), I built a huge Lego castle. It took forever. It stood until I threw a tatrum about something and destroyed it in anger. It was never rebuilt.
+- The level of regret for destroying it is proportional to the ability to built another.
+- This leads to fear of failure rather than confidence in the face of it. The kind of confidence you achive only by knowing you can easily build another. Because you always do.
+
+OPTION 2:
+
+- That same thing, but stretch out the story of the build, and stretch out the feelings post-destruction? Only touch briefly on the fact that making more is the antidote to preciousness?
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
