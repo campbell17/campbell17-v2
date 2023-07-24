@@ -16,6 +16,8 @@ The online coaching sphere is an infitie Russian doll.
 - Who cares? People have been scamming since lying was invented. "Hey, did you happen take a bite from this apple?" "Umm, no." SCAMMED. (2 panel meme with adam and eve scene, SCAMMED over the god figure in the second panel. Seems verbose for a throwaway, but whatevs). I care. Because I loathe do-nothings. A do-nothing is the person that talks the most in the meeting, but can't actually do anything to put the plan into action. This is not to be confused with people who unapologetically do nothing and also keep their mouth shut about it. Those people I envy.
 - But scammy online coaching is a cesspool of do-nothings.
 
+Gonna redeploy this from personal Mac to fix build error...
+
 Notes for next time: Explore why do-nothings suck so hard? This could be a direction to go.
 
 I need to distinguish the cosmetic, surface level observations here from something more compelling. Dig deeper into why this is a problem and how it's even all that different from any other scam out there. 
