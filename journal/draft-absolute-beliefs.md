@@ -6,8 +6,25 @@ date: '2023-07-31'
 draft: true
 ---
 
+from https://www.colemanm.org/post/mental-liquidity/:
 
-Stealing hockey cards.
+--
+Mental liquidity
+
+
+Morgan Housel:
+
+Visa founder Dee Hock had a great saying: “A belief is not dangerous until it turns absolute.” That’s when you start ignoring information that might require you to update your beliefs. It might sound crazy, but I think a good rule of thumb is that your strongest convictions have the highest chance of being wrong or incomplete, if only because they are the hardest beliefs to challenge, update, and abandon when necessary.
+--
+
+I used to think the trees _made_ the wind.
+
+Leonard from Memento Sharpie'd notes on his Polaroids.
+
+My 11 year old is certain he not only doesn't want kids, but wants to stay single.
+
+
+
 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
