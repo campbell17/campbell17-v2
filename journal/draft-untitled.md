@@ -6,7 +6,7 @@ date: '2023-08-07'
 draft: true
 ---
 
-Essay goes here
+I don't love it.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
