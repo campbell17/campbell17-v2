@@ -6,7 +6,19 @@ date: '2023-08-14'
 draft: true
 ---
 
-Essay goes here
+It was a byproduct of her personality. Had to be. No one is that level-headed in the face of such annoyance.
+
+- Back in college, I had a young but well-traveled professor. She was a photographer, a printmaker, a digital guru (rare at the time), and a mixed media wiz. 
+- In art school, there are three types of students: 
+- Student one: Already good enough to work and are either about to drop out or have enough outside help to get their degree to check that box.
+- Student two: 
+<!-- I got stuck there - trying to describe how annoying students are one of the staples of art school undergrads -->
+- One student, while annoyingly telling a self-aggrandizing story, innocuously asked if this worldly professor had ever been to New York. 
+- Keep in mind, this conversation took place about a 2 hour drive from New York, door to door.
+- I was behind the student so I could see my professors face as she VERY politely listened to the story, and when that question popped up, she didn't react at all. She meekly said yes, and allowed this goddamned charade to continue. 
+- But I don't mean "allowed" to apply fault to her response. I mean "allowed" to illustrate how deeply she could have buried this student for thinking she was more interesting than she was. She was in the presence of one of the most interesting people in the school, and clapped on obliviously anyway.
+
+Notes: This needs a ton of work. What's the point? Where's the ending? Make people care.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
