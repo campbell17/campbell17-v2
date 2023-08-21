@@ -6,7 +6,9 @@ date: '2023-08-21'
 draft: true
 ---
 
-Essay goes here
+I saw a kid on a quad. We were driving back from the car dealership where I'd just plunked down the modicum of thousands we saved up to buy my newly-licensed daughter a car. But that milestone was immediately overshadowed the moment I saw this kid. No helmet. Going full chat on a dirty grass trail about 40 yards from the edge of the road. That's the most freedom I've ever witnessed first-hand. Just a kid on a quad. 
+
+Notes? Who knows man. Keep going. 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
