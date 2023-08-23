@@ -18,6 +18,8 @@ Notes: This is heading in a direction akin to: "life was grand once, now it's de
 
 More Notes: Connect this last part with living a balanced life - never stop reaching but always remember to let go. Finding the quad moments amongst the quiet desperation Thoreau described. 
 
+“The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation. From the desperate city you go into the desperate country, and have to console yourself with the bravery of minks and muskrats. A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work. But it is a characteristic of wisdom not to do desperate things..”
+― Henry David Thoreau, Civil Disobedience and Other Essays
 
 But I'll always remember the summer I got to be the kid on the quad.
 
