@@ -12,9 +12,22 @@ It reminds me of one summer when I visited a friend from out of town. During my 
 
 This was my first time riding an ATV, so our first time around we rode tandem. I was in the back and my friend drove. It was a small quad, so there wasn't much room. I didn't know what to do when I first got on, so I just kinda sat there until my friend tore away across the beach leaving me suspended in mid air behind him like Wile E. Coyote. I hustled forward to get back on and when once the laughter subsided, we tried again. This time I clasped my arms around my friend so I had someone to drag down with me if I fell again. Once we got comfortable with the controls, we took turns. For what seemed like hours we did counter-clockwise laps, up the hill, across the front yard, down the other side, and across the court, ducking under the net as we raced through.
 
-I'm a man now, with all the {something describing a large variety/number} of manly responsibilities as my caboose, so I don't do laps in quads any more. 
+But I'm a man now, chugging along with all the {something describing a large variety/number} of manly responsibilities as my caboose. So I don't many laps in quads any more. Because with each passing year from adolescence to adulthood, I traded away a morsel of the naive, the selfish, and the indulgent for the aware, the considerate, and the moderate. And unfortunately (talk about the wonder gets traded too) .. But this is what is supposed to happen. We can't have both, and we certainly shouldn't remain naive, capricious children. The scales of life are calibrated to punish the practice of selfish excess with endlessly diminishing returns. So instead of bathing in (a fancier word for "fun"), we reach out for these moments like catching fireflies, clumsily tracking them in the half-dark until they flash one more time and we can cup our hands over one. Then, after brief admiration, we hold our hands out and present them back to the world, watching them light up again as they take off.
 
-Notes: This is heading in a direction akin to: "life was grand once, now it's deperate, but at least for a day it got to be grand." I'm not sure I want that. I want to celebrate that kid and what he represents. He captured my soul as he captured my attention, and I had Steve with me to witness it. We both knew no one in the world was as happy or free as that kid at that moment. But too much of that isn't the aim. The scales of life are calibrated to punish the practice of excess with endlessly diminishing returns. So we reach out for these moments like catching a firefly, clumsily tracking them in the half-dark until they flash one more time and we can cup our hands over them. We peek through our palms with anticipation, waiting for them to illuminate, but this time under our control. Then, with a satisfied heart, we hold our hands out and present them with the world we stole away a moment ago, watching them flash once more as they take off. 
+Seeing that kid reminded me that it doesn't all have to be one or the other. <-- the worst sentence of all time, make it better. Balance is the key to avoiding Thoreau's "life of quiet desperation". 
+
+Notes: I think the above sentence is the start of my ending. 
+
+<!-- This might be too indulgent. Maybe just use the second part? -->
+We peek through our palms with anticipation, waiting for them to illuminate their temporary rest stop. Then we hold our hands out and present them back to the world, watching them flash once more as they take off.
+
+Thoreau wrote about men leading lives of quiet desperation. 
+
+When we saw that kid <- weak, plz fix, 
+
+Notes: This is heading in a direction akin to: "life was grand once, now it's deperate, but at least for a day it got to be grand." I'm not sure I want that. I want to celebrate that kid and what he represents. He captured my soul as he captured my attention, and I had Steve with me to witness it. We both knew no one in the world was as happy or free as that kid at that moment. But too much of that isn't the aim. The scales of life are calibrated to punish the practice of excess with endlessly diminishing returns. So we reach out for these moments like catching a firefly, clumsily tracking them in the half-dark until they flash one more time and we can cup our hands over them. We peek through our palms with anticipation, waiting for them to illuminate their temporary rest stop. Then we hold our hands out and present them back to the world, watching them flash once more as they take off.
+
+
 
 More Notes: Connect this last part with living a balanced life - never stop reaching but always remember to let go. Finding the quad moments amongst the quiet desperation Thoreau described. 
 
@@ -35,6 +48,7 @@ Let's have some fun. "Caution rarely leads to awesome." (- John August, Innerest
 - Start with the end in mind: What do you want the outcome of your story to be?
 - Lead with action
 - “But, therefore”
+- Promise, Progress, Payoff
 - Before your story’s climax, pause to force your audience to lean in. Add more sensory details, and layer on the drama.
 - The entire story should be designed to amplify one moment. (Van Neistat in "Details" is simply swapping the logo on the grill of his Toyota, but the video is gripping because of the structured buildup)
 - What did we learn?
