@@ -6,7 +6,19 @@ date: '2023-08-28'
 draft: true
 ---
 
-Essay goes here
+No thanks I'm driving.
+
+Do you want some?
+
+Answer "yes" to be potentially perceived as cool, act older than you are, do something you know you aren't supposed to, and potentially get in an unknowable amount of trouble. This is high risk if you value keeping the peace.
+
+Answer "no" to be potentially perceived as a prude, act your age, refrain from doing something you know you aren't supposed to, and avoiding trouble, at least for this. This is high risk if you value rebellion.
+
+In other words, answer "yes" for fun, and "no" for no fun, or the opposite depending on your idea of fun. How can 1 thing be 2 things at the same time?
+
+Notes: Explore how the same circumstances played out differently, and how lives were altered in the process. There's more to explore, but you'll find that out next time.
+
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
