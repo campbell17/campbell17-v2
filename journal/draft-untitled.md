@@ -8,7 +8,11 @@ draft: true
 
 No thanks I'm driving.
 
-Do you want some?
+Hey, kid, you wanna sip? 
+
+Growing up in the 70s, 80s, and 90s - when congregating in person was still the only socializing option - I suspect nearly every kid unlocked this achivement: (show graphics for Xbox, PS5, and switch for "Get offered alcohol as a minor by someone older (yet also underage) at a party or get together.)
+
+Strained metaphors aside, I was whisked back to mine during a recent conversation involving the empassioned retelling of childhood nuttiness. 
 
 Answer "yes" to be potentially perceived as cool, act older than you are, do something you know you aren't supposed to, and potentially get in an unknowable amount of trouble. This is high risk if you value keeping the peace.
 
