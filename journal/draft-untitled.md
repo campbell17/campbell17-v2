@@ -2,27 +2,11 @@
 layout: post
 category: writing
 title: "Title Goes Here"
-date: '2023-08-28'
+date: '2023-09-04'
 draft: true
 ---
 
-No thanks I'm driving.
-
-Hey, kid, you wanna sip? 
-
-Growing up in the 70s, 80s, and 90s - when congregating in person was still the only socializing option - I suspect nearly every kid unlocked this achivement: (show graphics for Xbox, PS5, and switch for "Get offered alcohol as a minor by someone older (yet also underage) at a party or get together.)
-
-Strained metaphors aside, I was whisked back to mine during a recent conversation involving the empassioned retelling of childhood nuttiness. 
-
-Answer "yes" to be potentially perceived as cool, act older than you are, do something you know you aren't supposed to, and potentially get in an unknowable amount of trouble. This is high risk if you value keeping the peace.
-
-Answer "no" to be potentially perceived as a prude, act your age, refrain from doing something you know you aren't supposed to, and avoiding trouble, at least for this. This is high risk if you value rebellion.
-
-In other words, answer "yes" for fun, and "no" for no fun, or the opposite depending on your idea of fun. How can 1 thing be 2 things at the same time?
-
-Notes: Explore how the same circumstances played out differently, and how lives were altered in the process. There's more to explore, but you'll find that out next time.
-
-
+Essay goes here
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
