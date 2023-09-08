@@ -12,24 +12,35 @@ I spend much of my life convinced I am a lazy sonofabitch. Whether or not this i
 
 When I initially realized I was in for a long holiday weekend of mandatory sitting-on-my-ass, a pang of excitment struck. No responsibilities, free time to read, watch movies, play video games, or even work on a side project. This was, let's say...short sighted.
 
-I'm not big on going out to do things, per se. Or going to parties. Or traveling. But those are all examples of doing stuff socially. My bread and butter is solitude. If I'm working on something, fixing something, making something, or practicing something, I'm in my happy place. My mind is calm. Now, it has to be at least partially voluntary. If someone asks me to do something in which I truly have no interest, it's hard for me to get up for it. It also helps if it's mechanical or involves the building up, clearing out, or rearranging of something to make it better.
+I'm not big on going out to do things, per se. Or going to parties. Or traveling. But those are all examples of doing stuff socially. My bread and butter is solitude. If I'm working on something, fixing something, making something, or practicing something, I'm in my happy place. My mind is calm. Granted, it has to be at least partially voluntary. If someone asks me to do something in which I truly have no interest, it's hard for me to get up for it. It also helps if it's mechanical or involves the building up, clearing out, or rearranging of something to make it better.
 
-When I was a kid, I would always feung-shuei (holy shit, spelling) my room every few years to stay on top of the fight against those pesky lunar tides and keep my circadian rhythm aligned. JK, I was probably just bored.
+When I was a kid, I would always feug shui my room every few years to stay on top of the fight against those pesky lunar tides and keep my circadian rhythm aligned. JK, I was probably just bored.
 
 Regardless, I have many projects to tend to around here, and the combination of my lack of energy from the illness and the GD quarantine meant I was a sweaty waste of space for days.
 
 The whole experience crystalized something I've been thinking about for a few months: The concept of "At least I can do that."
+
+One of the reasons I think I had such a hard time with quarantine is it took away the foundation of self worth I subconsciously rely on. When I was old enough to recognize self-improvement I was still too young to comprehend the implications. I just knew it was something worth repeating. And it's something I'm starting to see develop in my youngest child as he enters middle school.
 
 
 <!-- NOTES: here's where the first draft diverges - I fixed up the above to set up a slightly different angle, starting with the final quote just above this line.
 Next time: "One of the reasons I think I had such a hard time with quarantine is it took away the foundation I'd subconsciously been relying on for my self worth for (most of my life?). It's a neverending chase I've been on since I first got good at something. It's something I'm seeing in my youngest now as he enters middle school." NOW I can talk about the middle school transition BRIEFLY. Then talk about his distaste with his writing for that assignment (maybe?) and talk about how starting to introduce him to harder and harder (and more and more grown-up) skills is helping him build HIS foundation? -->
 
 
+In the American school system, going from elementary to middle school is a huge change. The atmosphere, the expectations, and the responsibilities are all an order of magnitude more intense. From preschool to elementary school the kids are too young to know what's happening around them. From middle school to high school, if I didn't raise them in a barn, they're prepared and mature enough to take on the next challenge smoothly. But in the opening stanza of the era between those book-ended milestones, they're nothing but freshly moulted lobsters completely aware of their vulnerability, desperately hoping they blend in with the nearest rock formation. 
+
+So what do I do to help my little lobsters along? What can I instill in them to bolster their mental state and give them ammunition to fend off the entropy of creeping anxiety that never stops marching? 
+I can reverse-engineer the antidote to my own anxiety. And, as I found out during my recent quarantine, that means doing stuff. But here's the catch: it can't be just doing whatever. Left to their own devices, my lobsters will blithely eat mollusks and play video games all day. So giving them useful yet interesting tasks to do will not only build up a tolerance for the discomfort of learning new things, but also pique their curiosity enough to meet the all-important criteria of being a voluntary activity. Ideally, the activity is just beyond their current abilities so they have to push themselves outside the boundary of their competence. This is commonly referred to as the (zone of proximal development)[https://en.wikipedia.org/wiki/Zone_of_proximal_development].
+
+An example of this ... (mower stuff here)
 
 
-My youngest just started middle school which, in the American school system, is the biggest change in atmosphere that exists. From preschool to elementary school the kids are too young to know what's happening, and from middle school to high school, they're already pretty close to who they're going to be for the next half decade or more.
+Number one: skills. Teach them _how to learn_ skills. Number two, and this one I can't stress enough: stand aside. Let them actually do it.
 
-But elementary to middle is a lobster shell shedding[show link to the phenomenon] event.
+
+
+
+
 
 Despite this shake-up, or maybe because of it, now is the greatest opportunity as a parent to make a similar change in approach, leaving behind the instincts to coddle and protect, and instead bolstering the message that I trust him to do more grown up things. 
 
