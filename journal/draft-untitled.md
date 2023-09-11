@@ -6,7 +6,11 @@ date: '2023-09-11'
 draft: true
 ---
 
-Essay goes here
+- Cherishing the in-betweens
+    - Recognize and soak in the minutes of true freedom
+        - The first 5 minutes of coming home from Lowes, pretzel in my hand, windows open
+        - Sebastian Vettel doing donuts after his 4th and final world championship (use this as the intro, also check that it was his 4th and not 3rd)
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
