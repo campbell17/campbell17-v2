@@ -6,6 +6,12 @@ date: '2023-09-11'
 draft: true
 ---
 
+November 17, 2013. Austin, Texas. At 2:43pm, Sebastian Vettel takes the chequered flag at the United States Grand Prix, setting a new record for most consecutive Formula One wins in a season and putting an exclamation point on his fourth consecutive World Championship title. As he cools the car and waves to the crowd on the meandering lap back into the pits, he pulls into a run-off area to perform some celebratory donuts in his Red Bull RB9. In the moments preceding this display, he sends out a radio call to his team:
+
+| We have to remember these days, we have to remember these days, because there's no guarantee that they will last forever. Enjoy them as long as they last. I love you guys.
+
+<!-- Notes for next time: Those sentiments came at the end of an unprecedented run of success, but they apply to even the smallest slice of time.  -->
+
 - Cherishing the in-betweens
     - Recognize and soak in the minutes of true freedom
         - The first 5 minutes of coming home from Lowes, pretzel in my hand, windows open
