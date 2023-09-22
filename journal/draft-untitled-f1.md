@@ -19,9 +19,12 @@ I guess it makes sense. If points are rare, achieving any points-paying position
 
 There’s a palpable appreciation for small victories in F1. When you watch a race and listen to the drivers on the radio on the cooldown lap, nearly everyone is happy (expand on this). 
 
-And when you watch the podium ceremony...I’m sorry, let me back up. They actually _have_ a podium ceremony. The top **three** drivers are awarded trophies, the winner gets to hear his national anthem, the team theirs, and we get to witness it all without such as a mousefart from the commentators. I don't 
+And when you watch the podium ceremony...I’m sorry, let me back up. They actually _have_ a podium ceremony. The top **three** drivers are awarded trophies, the winner gets to hear his national anthem, the team theirs, and we get to witness it all without such as a mousefart from the commentators. It's difficult to avoid apples & oranges arguments when comparing Indycar to F1...
 
-
+Notes2: How do I present the content of the subtitle without using Indycar as a strawman? I need to stay focused on the remarkable nature of the culture, but how to show that uniqueness without a direct comparison? That's the challenge. 
+- The podium is 3 drivers and a team member. Special attention is paid to the trophies (and now medal for the winner), and a different person receives the honor of presenting each trophy. The team's also hand-pick who represents them as the constructors trophy recipient, and it changes with every win. 
+- The post race rituals are mandated by the FIA and performed to the letter. Each driver must weigh in, the podium finishers get a few moments to celebrate with their team, then they go to a cooldown room to hydrate and compose themselves. The TV coverage of this, by the way, is a fairly recent addition and deserves its own essay. It's one of my favorite things to witness during the race weekend.
+- Some of these notes are notes for other essays, as it turns out. I'll have to draw focus back into the incremental progress and how everyone talks about it with positivity. 
 
 Notes for next time: More on knowing themselves, the progress, and the overall perspective.
 
