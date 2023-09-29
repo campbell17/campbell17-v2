@@ -7,7 +7,7 @@ date: '2023-09-25'
 draft: true
 ---
 
-F1 Essay goes here
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
