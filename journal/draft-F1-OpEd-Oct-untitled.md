@@ -7,7 +7,9 @@ date: '2023-09-25'
 draft: true
 ---
 
-F1 Essay goes here
+The Mclaren-Coaster.
+
+McLaren growth. At the time of Suzuka, they're standing on the second and third step of the podium. But early on, they were nowhere. Relate this to the rise, fall, and re-rise? *look at the numbers from the championship standings over the years, show how maybe other teams like Mercedes and Red bull and Ferrari never dropped below a certain level? Gotta see if this is even true.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
