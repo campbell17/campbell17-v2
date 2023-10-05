@@ -16,7 +16,7 @@ Global Notes:
 Let's have some fun. "Caution rarely leads to awesome." (- John August, Inneresting 05/18/23)
 
 - Start with the end in mind: What do you want the outcome of your story to be?
-- Lead with action
+- Lead with action (ABDCE: Action, Background, Development, Climax, Ending - Alice Adams, via Anne Lamott)
 - “But, therefore”
 - Promise, Progress, Payoff
 - Before your story’s climax, pause to force your audience to lean in. Add more sensory details, and layer on the drama.
