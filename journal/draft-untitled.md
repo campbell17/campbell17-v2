@@ -20,9 +20,9 @@ As I settle across the table from one of my professors to review the plan for an
 
 "Oh yeah, I'm fine. It's not a big deal."
 
-People often say "I'm fine. It's not a big deal" to change the subject and avoid talking about the pain they feel. But sitting at this tiny table in this tiny conference room, there's no pain to speak of. Across from me, however, is the fifth person to broach this topic unprovoked in the last week. So it's starting to sink in I may have been wronged in some way. Apparently, I had a heated reply-all email conversation with one of the other professors the previous week about some logistical decisions for a class project. One problem: I didn't know it was heated. 
+People often say "I'm fine. It's not a big deal" to change the subject and avoid talking about the pain they feel. But sitting at this tiny table in this tiny conference room, there's no pain to speak of. Across from me, however, is the fifth person to broach this topic unprovoked in the last week. So it's starting to sink in I may have been wronged in some way. Apparently, I had a heated reply-all email conversation with one of the other professors last week before about some logistical decisions for a class project. One problem: I didn't know it was heated. 
 
-I knew it was _somewhat_ contentious because we were at odds over the decision and I didn't back down right away, but I thought it a reasonable exchange of opinions the result of which was going with his idea. Hence my stance of "no big deal". Also, I know how reply-all works. If I noticed either of us stepping over the line, I would have simply taken the conversation out of view of the rest of the class. But I didn't. And neither did he. 
+I knew it was _somewhat_ contentious because we were at odds over the decision and I didn't back down right away, but I thought it a reasonable exchange of opinions. Hence my stance of "no big deal". Also, I know how reply-all works. If I noticed either of us stepping over the line, I would have simply taken the conversation out of view of the rest of the class. But I didn't. And neither did he. 
 
 
 
