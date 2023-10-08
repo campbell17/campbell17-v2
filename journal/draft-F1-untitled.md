@@ -8,8 +8,11 @@ draft: true
 ---
 
 Montoya's Move
+How a promise fulfilled and a forceful overtake something something something
 
-Before I loved F1, I loved Indycar. Back then it was called "CART" which was always confusing when trying to explain it to my friends ("You watch go-karts?"). But one driver in particular captured my attention and turned the casual nature of my racing fandom into obsession. Juan Montoya.
+Before I loved F1, I loved Indycar. Back then it was called _CART_[1], which was always confusing when trying to explain it to my friends ("You watch go-karts?"). But one driver in particular captured my attention and turned the casual nature of my racing fandom into obsession: Juan Montoya.
+
+Born in Bogota
 
 Talk about who he was, how he raced, his dominance, his attitude, his bright smile and chubby cheeks. (maybe not that far).
 
@@ -27,6 +30,8 @@ Then maybe talk about how I knew the Verstappen name long before Max started rac
 
 But that almost didn't matter. Everyone knew what they saw. The arrival. And I my love for 2 single seater series was reduced to 1. 
 
+
+[1] Championship Auto Racing Teams.
 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
