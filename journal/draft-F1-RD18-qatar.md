@@ -7,7 +7,8 @@ date: '2023-10-08'
 draft: true
 ---
 
-F1 Essay goes here RD18 Qatar
+I was tempted to write about poor Logan Sargeant again. That is, until I watched the onboard footage from some of the other drivers as they tried to extract themselves from their cars at the end of the race...
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
