@@ -7,7 +7,11 @@ date: '2023-10-16'
 draft: true
 ---
 
-Essay goes here
+- Something I didn't expect about getting older is my growing intuition regarding tradeoffs. When I was younger, I still maintained the naive belief that the concept of free was real. (cut from "I don't love it")
+    - This initial skepticism opens up more opportunity to be pleasantly surprised when something _is_ actually a "good deal"
+    - Something about my kids thinking they could upgrade their phones for free because the mobile advertising always talks about "upgrade every year". Yes, they allow you to upgrade, but all that means is they'll take your old phone and give you a pittance toward another phone, meaning you're still out of pocket hundreds.
+    - 
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
