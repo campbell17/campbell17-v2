@@ -7,7 +7,11 @@ date: '2023-10-20'
 draft: true
 ---
 
-Remarkable 19 goes here
+You don't boo excellence.
+
+I never understood this. I'll never understand this. Max takes his 50th win, putting him on the Mt. Rushmore of 50+ gp winners. And the chicken shit fans in Austin boo him on the podium. When you go to a sporting event and your team is performing like amateurs, you boo. When you go to a game and see the rival team's players coming out of the tunnel to take the field, you boo. When you go to a game and the referee makes a terrible call, you boo. When don't you boo? When someone achieves something extraordinary. 
+
+I understand people have opinions. But expressing them like that in public is classless. So instead of Remarkable RD 19, I'm dubbing this UnRemarkable RD 19. So dumb.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 

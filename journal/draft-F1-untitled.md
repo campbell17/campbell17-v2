@@ -7,7 +7,9 @@ date: '2023-10-23'
 draft: true
 ---
 
-F1 Essay goes here
+How I avoid burnout.
+
+There is such a thing as too much of a good...ok, thing. 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
