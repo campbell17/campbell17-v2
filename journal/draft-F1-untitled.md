@@ -7,11 +7,24 @@ date: '2023-10-23'
 draft: true
 ---
 
-It was so much harder before the internet. Before streaming
+It was so much harder before the internet.
+
+Being obsessed with a European sport in America before the dawn of streaming services meant I had to be vigilant. 
+
+- I want through all this trouble to make sure I didn't mess up a recording because I knew there was no second chance.
+- Remember VHS? Probably not if you're under 40. I had to have blank tapes on standby at my parent's house so they could tape the races while I was at college. Ramen noodles, cereal for dinner, no money for cable, you know?
+- It got a little easier with DVR, but god forbid anything happened to the listing or the HD ran low.
+- The only race I know I missed for certain was the 2000 German Grand Prix at the old Hockenheim. I was in Ireland with my family and someone mentioned Rubens Barrichello got his first win. Race spoiled. I can't remember if I set that one up to record, but either way I had to wait some time before I got to see him crying on the podium.
+- 
+
+- By the end of this piece I need to be diving out of the way of internet exposure so I don't spoil the rare delayed watch AND don't get so burned out I need to take a break.
 
 How I avoid burnout.
 
 There is such a thing as too much of a good...ok, thing. 
+
+
+The end: It was so much easier before the internet.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
