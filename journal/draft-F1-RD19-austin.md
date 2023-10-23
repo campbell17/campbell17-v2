@@ -13,6 +13,13 @@ I never understood this. I'll never understand this. Max takes his 50th win, put
 
 I understand people have opinions. But expressing them like that in public is classless. So instead of Remarkable RD 19, I'm dubbing this UnRemarkable RD 19. So dumb.
 
+When I was younger I took a trip to Ireland. It was the first time I left the country. I remember feeling conspicuously foreign and, young as I was, consumed with the preoccupation of avoiding embarrassement. I was on high alert to act more polite, patient, and courteous than usual because I wanted to represent my country as well as possible. I wasn't being fake. I was simply on my best behavior. 
+
+Booing Max is evidence of an imperfact understanding of the sport. The arguments on social media attempted to defend the booing as being directed not at Max, but at the governer of Texas handing him the trophy. Two things stand out to me: 1) The governor was not present when people were chanting over the Dutch national anthem, and 2) Choosing to taint the podium ceremony with irrelevant vitriol aimed at the trophy presenter proves a lack of respect for the entire event.
+
+Another thing. Boos don't hurt. Silence hurts. Elite athletes use everything they can to fuel their competitive fire, _especially_ fans negativity. Pocket your hands if you don't like the winner.
+
+
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
 Global Notes:

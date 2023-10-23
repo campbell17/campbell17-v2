@@ -7,6 +7,8 @@ date: '2023-10-23'
 draft: true
 ---
 
+It was so much harder before the internet. Before streaming
+
 How I avoid burnout.
 
 There is such a thing as too much of a good...ok, thing. 
