@@ -37,7 +37,7 @@ The two boys fell silent for a moment as they continued through the trail behind
 
 "All the time. I can't take my bike, but it's so much shorter it doesn't matter. Besides, once we get there everything is so bunched up you don't need a bike."
 
-
+Notes for next time: Just keep going, I guess. See what develops. I have a memory for this but it's so vague I can essentially make it up as I go. The only other thing I remember is whoever this kid was trying to jump-scare me (playfully, not annoyingly).
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
