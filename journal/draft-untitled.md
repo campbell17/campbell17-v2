@@ -77,7 +77,7 @@ Something something setting summer something or other.
 
 "What?"
 
-"Yes...you're next," she sang. "You're so nnnext."
+"Yes...you're next," she sang. "You'rrre so next."
 
 "Is that...Bugs Bunny?" he asked, unable to mask his joy.
 
