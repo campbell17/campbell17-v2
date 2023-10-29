@@ -1,47 +1,27 @@
 ---
 layout: post
 category: writing
-title: "Op-ed 1: Are you not entertained?"
+title: "Op-ed 2: Untitled"
 subtitle: "Subtitle goes here."
-date: '2023-09-25'
+date: '2023-10-29'
 draft: true
 ---
 
 _The Op-ed is a monthly essay for paid subscribers where I take a step back and look more broadly at the state of Formula One. I appreciate you so much for your support. -Tim_
 
-Are you not entertained? 
+Mistakes Were Made.
+Pay no attention to the stewards behind the curtain.
 
-Man, do I love a good dynasty. Watching a display of consistently dominant performances sustained over multiple seasons, I can't help but feel privileged to behold the greatness first-hand. This, however, is not a sentiment shared by everyone. Every time the regime changes, the peanut gallery rejoices as they praise the new king for usurping the boring old king and bringing some variety back to their beloved F1. 
+They seem like good ideas at the time. Misjudgements. Miscalculations. Blunders. What begins as innocent and well-meaning attempts to make things more interesting - to make them _better_ - ends with us having to commission a tattoo to cover up the huge scar.
 
-Then the new king starts winning a bit _too_ often and the cycle repeats.
+We're two seasons removed from one of the most exciting and controversial championship finales in the history of F1. With fans across the globe collectively screaming at their televisions, Max Vertappen's overtake of Lewis Hamilton on the final lap of the final race of the season provided more drama than a movie script. _Script_, in this case, being the operative word. Because the cicrumstances required for this specific ending to come to pass involved the manipulation of well-established procedures and the orchestration of a "shootout" between the championship rivals. The outcome itself, i.e. who took the win and with it the championship, took a back seat to the controversy and ultimately, the mistake. But the mistake wasn't the shootout or the orchestration or the manipulation of round 22 in Abu Dhabi. Instead, the mistake came back in round 4 at the Spanish Grand Prix.
 
-I never understood this. We follow sport to see athletes do all the incredible things of which humans are capable. We, the uncoordinated, the unwashed, and the unfit, are _incapable_. So we sit behind the fence and watch. Who are we to call into question _how good_ a driver or team should be?
+At first it was amazing. Long time fans of the sport already knew the teams were in constant contact with the FIA[1] during the race weekend, but Spain introduced the ability for fans to hear the actual radio messages during the broadcast. Now instead of _imagining_ what it sounded like for a team principal to complain to the stewards about their driver getting forced off the track by another car, we would hear it verbatim. It was an interesting glimpse into the "game within the game". But the two fatal flaws of this feature didn't reveal themselves until the pressure was at its highest. The knowledge of the messages being broadcast to the public coupled with the teams ability to communicate with the race director without an intermediary formulated the perfect conditions for a collapse under the weight of the moment. In the end, the focus of the broadcast became more about the back-channel lobbying from the teams to the FIA than the racing.
 
-For many, the predictability of outcome in the midst of a dynasty is simply too difficult to overlook. There's a deep irony that the more special a driver or team is, the less special they make their achievements look. In some races, the dominance feels almost banal. But failure to recognize the greatness of boring dominance is not the fault of the drivers and teams. It's our fault.
+A major strength of Formula One is its ability to adapt and iterate. They removed these new windows into the behind-the-scenes world of a race weekend almost as swiftly as they were introduced. In the aftermath of the Abu Dhabi controversy, changes were implemented to give the race director more "peaceful" conditions to make decisions, including cutting the direct line of the team principles. 
 
-What sort of person buys a plane ticket to Florence, tells the taxi driver "Portami alla Galleria dell'Accademia di Firenze, per favore", sidles up to Michelangelo's David and thinks, "Meh, it's too perfect. Borrringgg." So why do we do that with dynasties?
+Notes for next time: I need an ending - the main idea was "F1 is best when no one knows the names of the governing body members" but my take so far is just a recap of what happened in 2021. Where's the juice? 
 
-Think of the amount of human effort needed for a team like Mercedes to win their _eight consecutive_ constructors titles. Let's do some quick conservative fuzzy math: 1,000+ individuals working 50+ hour weeks. Eight years of this, minus summer breaks, and for simplicity let's pretend everyone just chilled the entire off-season (spoiler: they didn't). This adds up to ~288 weeks. **That's 14.4 million hours**.
-
-By the way, _every other team followed a similar blueprint_. And do they have eight consecutive constructors championships? Fuck no.
-
-We're currently on the brink of another dynasty. If Max and Red Bull hold this trajectory, there's no ceiling on what they could achieve. But maybe instead of complaining to our annoyed coworkers how boring it is to watch Michael, or Sebastian, or Lewis, or Max win all the time, we should show a little appreciation for the pure excellence laid bare before us. We never know if we'll get a chance to see it again.
-
-
-- What's not to like? Why do we watch sport?
-- Sometimes the measure of an athlete is how well they make the special look unspecial.
-- But failure to recognize the greatness of boring dominance is not the fault of the drivers and teams. It's your fault.
-- What sort of person buys a plane ticket to Florence, tells the taxi driver "Portami alla Galleria dell'Accademia di Firenze, per favore", sidles up to Michelangelo's David and thinks, "Meh, it's too perfect. Borrringgg."
-
-- So why do we do that with dynasties?
-
-- Failure to appreciate greatness like this always puzzles me. Think of the amount of human effort needed for a team like Mercedes to win their _eight consecutive_ constructors titles. Let's do some quick conservative fuzzy math: 1,000+ individuals working 50+ hour weeks. 8 years of this, minus summer breaks, and for simplicity let's pretend everyone just chilled the entire off-season (spoiler: they didn't). This adds up to ~288 weeks. That's 14.4 million hours. 
-- But here's the punch in the gut: _every other team followed a similar blueprint_. And do they have 8 consecutive constructors championships? Fuck no. 
-
-- We're currently on the brink of another dynasty. If Max and Red Bull hold this trajectory, there's no ceiling on what they could achieve. But maybe instead of complaining to our annoyed coworkers how boring it is to watch Michael, or Sebastian, or Lewis, or Max win all the time, we should show a little appreciation for the pure excellence laid bare before us. We never know if we'll get a chance to see it again.
-
-<!-- This doesn't work -->
-There's a comfort - a tranquility, even - in knowing the outcome before anything even starts.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
