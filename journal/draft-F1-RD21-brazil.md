@@ -1,27 +1,13 @@
 ---
 layout: post
 category: writing
-title: "Title Goes Here"
-subtitle: "Subtitle goes here."
-date: '2023-01-01'
+title: ""
+subtitle: ""
+date: '2023-11-05'
 draft: true
 ---
 
-So what happened in Mexico City? What can we deem remarkable?
-
-- Qualifying was weird. Where did the Ferrari pace come from?
-- Checo was in the lead for about 10 meters - when it isn't your year, it isn't your year
-- Did the crowd leave after Checo was out?
-- Magnussen's car threw him off the track in an old-school way, leading to a red flag
-- Max set another record
-- Logan had to retire in the last corner, disappointing but he still ran the whole race
-- Lando was racing a different category - P17 to P5
-- Lewis is excited
-- Aston double DNF, data doesn't tell the story (graph comparing Aston to Mclaren points haul ytd, qualifying pre-show?)
-- Ricciardo rock solid
-- Is Alfa Romeo is the most invisible team of all time?
-
-
+RD 21 Brazil goes here
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 

@@ -18,7 +18,14 @@ We're two seasons removed from one of the most exciting and controversial champi
 
 At first it was amazing. Long time fans of the sport already knew the teams were in constant contact with the FIA[1] during the race weekend, but Spain introduced the ability for fans to hear the actual radio messages during the broadcast. Now instead of _imagining_ what it sounded like for a team principal to complain to the stewards about their driver getting forced off the track by another car, we would hear it verbatim. It was an interesting glimpse into the "game within the game". But the two fatal flaws of this feature didn't reveal themselves until the pressure was at its highest. The knowledge of the messages being broadcast to the public coupled with the teams ability to communicate with the race director without an intermediary formulated the perfect conditions for a collapse under the weight of the moment. In the end, the focus of the broadcast became more about the back-channel lobbying from the teams to the FIA than the racing.
 
-A major strength of Formula One is its ability to adapt and iterate. They removed these new windows into the behind-the-scenes world of a race weekend almost as swiftly as they were introduced. In the aftermath of the Abu Dhabi controversy, changes were implemented to give the race director more "peaceful" conditions to make decisions, including cutting the direct line of the team principles. 
+A major strength of Formula One is its ability to adapt and iterate. They removed these new windows into the behind-the-scenes world of a race weekend almost as swiftly as they were introduced. In the aftermath of the Abu Dhabi controversy, changes were implemented to give the race director more "peaceful" conditions to make decisions, including cutting the direct line of the team principles. To me, this is a critical move toward restoring some of the integrity lost through the unintentional choreography of the 2021 championship. 
+
+Now, two years on, we're no longer fed the names and faces of the stewards, race directors, officials, or governing body members during the broadcast. This is a stark contrast to the days when Bernie Ecclestone and Max Mosley were as visible as Michael Schumacher and Mika Hakkinen. This is the only way to be. There's a story about an NHL linesman who took too long to drop the puck for a faceoff. After kicking both centermen out of the circle for jumping too early, one of the players who replaced them chirped, "Drop the puck, bud. These fans ain't here to see _you_."
+
+We watch F1 for the racing. I can appreciate the amount of effort it takes behind the scenes to execute a grand prix weekend, but "behind the scenes" is the operative phrase. Because while it's nice to acknowledge the governing force's contributions, _I ain't here to see them_. Here's hoping the focus remains on those gripping the wheel.
+
+
+
 
 Notes for next time: I need an ending - the main idea was "F1 is best when no one knows the names of the governing body members" but my take so far is just a recap of what happened in 2021. Where's the juice? 
 
