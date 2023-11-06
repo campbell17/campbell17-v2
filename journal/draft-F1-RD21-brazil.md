@@ -7,7 +7,12 @@ date: '2023-11-05'
 draft: true
 ---
 
-RD 21 Brazil goes here
+- Alonso holding off Perez for lap after lap after the final round of pitstops with strategic recharging and clever lines in the infield and onto the front straight. Same performance as the defense against Schumacher at Imola in 2005.
+
+- My favorite driver of all time is Juan Pablo Montoya. He didn't exactly fit the mold when he broke into F1. He didn't play the game. He didn't know his place. He didn't roll over for the Royalty at the time, Michael Schumacher. He broke into the sport in 2001 and he had my full attention. I watched him light up the win column in America for two seasons prior to joining F1 so naturally he was the one I followed. But the year before he left, another driver who joined in 2001, albeit more quietly, caught my attention and planted the seed that would blossom into taking the mantle of favorite driver upon Montoya's departure. Just like Montoya did in 2001, Alonso did not roll over for Schumacher and held off relentless pursuit for the final ___ laps of the San Marino grand prix at imola. This weekend in Brazil, where Montoya got his elbows out against Schumacher, Alonso captured his 107th podium with an electric defense against a Sergio Perez in the superior Red Bull.
+
+- Notes: Talk about his interesting line, talk about his clever strategy - same notes as above.
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
