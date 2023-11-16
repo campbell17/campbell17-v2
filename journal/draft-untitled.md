@@ -43,6 +43,8 @@ My son hates getting yelled at. In the moment, from his perspective, that's _hap
 
 <!-- Note: The following paragraph changes the tone and gets pretty accusatory. Is the above enough for an ending? If not, can we end it on a lighter note? This is not funny, is it? -->
 
+<!-- ***** Note for Friday: Talk about the usefulness of this technique when it comes to relationships. "In the end, this skill becomes a cheat code for building relationships. Because the ability to recognize what's actually happening with our behavior dovetails with the ability to _communicate_ that to others, so both participants in the relationship can grow closer based on a solid foundation of trust..." -->
+
 Victimhood as a consequence of catastrophe, violence, or other tragedy is something no one can predict or prevent. But victimhood as a lifestyle is completely avoidable. Unfortunately, it's never been easier or more acceptable to adopt as an ideology, but it's a trap. It's a trap because it incentivizes mental laziness and lack of effort, two of the most easily cultivable human traits, under the guise of a reprieve from accountability. With this mindset, no matter what you do you're not responsible for collateral damage because everything is simply happening _to you_ since you're not at the controls. This leads to more undesireable things which leads to more liability avoidance and the cycle never ends. 
 
 
