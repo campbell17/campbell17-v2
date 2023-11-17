@@ -41,6 +41,12 @@ It's not easy, especially at first. At first it feels ludicrous. And most notabl
 
 My son hates getting yelled at. In the moment, from his perspective, that's _happening to him_. But if he executed this strategy, he might feel more in control of whether or not it happens. He may choose to keep behaving in a way that illicits the yelling, but at least he'll feel more like he's the one at the controls of his life, so he can flip a switch and turn my yelling off at any time. In the moment, from my perspective, the fact that he isn't doing what I ask is _happening to me_. But likewise, if I executed this strategy, maybe I realize I haven't done enough to incentivize him to choose an alternative to yelling. So we can come up with a plan together to set some boundaries on which we both agree, thus fortifying some common ground.
 
+In the end, despite it being such an introspective technique, the most powerful aspect of its implementation is perhaps its relationship-building applications. It's like a cheat code for personal conflict. Because the ability to recognize what's actually happening with our own behavior affords us the ability to _communicate_ that to others, which helps strip back the superficial layers and drill in to the core of the problem. And solving the actual problem is group activity, with both parties teaming up not against each other, but against the conflict itself. 
+
+
+
+As a result, both participants in the relationship can grow closer and continue to solidify their foundation of trust and understanding. This doesn't always lead to agreement, 
+
 <!-- Note: The following paragraph changes the tone and gets pretty accusatory. Is the above enough for an ending? If not, can we end it on a lighter note? This is not funny, is it? -->
 
 <!-- ***** Note for Friday: Talk about the usefulness of this technique when it comes to relationships. "In the end, this skill becomes a cheat code for building relationships. Because the ability to recognize what's actually happening with our behavior dovetails with the ability to _communicate_ that to others, so both participants in the relationship can grow closer based on a solid foundation of trust..." -->
