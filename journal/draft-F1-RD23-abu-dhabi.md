@@ -1,27 +1,13 @@
 ---
 layout: post
 category: writing
-title: "Remarkable, RD22: "
+title: "Remarkable, RD23: "
 subtitle: "Subtitle goes here"
 date: '2023-11-12'
 draft: true
 ---
 
-
-
-
-
-Monaco of America.
-
-- Amongst all the growing pains that accompany a new circuit, and there were many, one thing above all else stands out to me about the newest iteration of the Las Vegas Grand Prix.
-
-- The race is where they say it is.
-
-- Unlike the Vegas GP of the 80s, and unlike most tracks on the F1 calendar, we can turn on the race at any point and immediately know where it is. The Vegas race is _in Las Vegas_. Not in a parking lot off to the side. Not in an empty field 14 miles away.
-
-
-
-Rd22 goes here
+Rd23 goes here
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
