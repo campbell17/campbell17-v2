@@ -46,6 +46,7 @@ But there's a door. For sure there's a door. But they don't illuminate it.
 The lights work. But the door is dark.
 
 
+<!-- Notes for next time: Maybe don't do the repetition on "they're both lit"? -->
 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
