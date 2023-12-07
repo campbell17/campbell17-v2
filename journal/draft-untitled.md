@@ -9,6 +9,46 @@ draft: true
 
 Timing.
 
+"Red flannel. One o'clock...That dude's a boxer. See him?" He leans to his left toward his friend and covertly points at the seats in front of the stage.
+
+"Oh, totally. Bump elbows with him on the way out, 'We got a problem, bud?!' No, sir, sorry sir."
+
+"Ha! Yeah, immediate fetal position. No thanks. Oh, look at those two. A match made in heaven...wait, they got wrist bands, what are those for?"
+
+"Huh. For the alcohol, maybe? Did Charlotte get one?"
+
+"No, and she got the...what did you order, baby?" He turns to his right and gently pats his wife's arm to get her attention.
+
+"White wine," Charlotte replies. "I was going to get red but they only had Merlot so I got the white."
+
+"White wine," he says, turning back to his friend. "Sweet sippy cup, though."
+
+Unfamiliar hip-hop music continues to play in the background as more people file in.
+
+"Her man's having trouble with his band." 
+
+They both look over to study the large man with large wrists struggling mightily to affix his $0.07 Tyvek wrist band in a way that won't tear out a patch of arm hair when he removes it after the show.
+
+"Help out your boy," the friend says, telepathically encouraging the man's girlfriend to intervene.
+
+"There she goes. She finally noticed," he said. "It's a good thing the show is here and not at the Miller."
+
+"Hmm?" Said the friend.
+
+"We went to a show there a few months ago. That theater has tiny seats. I'm not sure that guy would fit. _We_ barely fit. Were people smaller a hundred years ago?"
+
+"Is that how old it is?" asked the friend.
+
+"I think so. Let's look it up," he pulls out his phone. "Welp, there goes that theory."
+
+"No good?"
+
+"Well, I was right about the Miller, but I assumed this theater was newer because the seats are big and plush. But this one is fifty years older."
+
+With that mystery settled, the people-waiting continues.
+
+
+
 - We went to a comedy show the other night in the city. While we were waiting for the opener to take the stage, I turned to my friend and asked if he ever thought about what it would be like to be one of these other bags of organs filing in.
 - I'm not a "city person" but I lived in one for seven years during college. Most of the people at the show appeared to still be city people.
 - On the infrequent times I go out in public, I sometimes look around and wonder what life would be like as the other people milling around.
