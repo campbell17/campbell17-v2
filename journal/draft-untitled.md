@@ -47,7 +47,7 @@ They both look over to study the large man with large wrists struggling mightily
 
 With that mystery settled, the people-waiting continues.
 
-
+notes for next time: roll this into the topic. Good luck.
 
 - We went to a comedy show the other night in the city. While we were waiting for the opener to take the stage, I turned to my friend and asked if he ever thought about what it would be like to be one of these other bags of organs filing in.
 - I'm not a "city person" but I lived in one for seven years during college. Most of the people at the show appeared to still be city people.
