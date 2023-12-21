@@ -13,7 +13,7 @@ Show me a person who hates a big 'ol tree. You can't, can you?
 
 - Our reverence for old trees is universal.
 - They watch over us.
-- They turn the wind into music.
+- They turn the wind into music (be less pretentious than this).
 - They were here when we were born and they'll still be here when we die.
 - Staring up into the canopy of a hundred foot tree is akin to star-gazing.
 - Little else has the power to so effectively separate ourselves from our hectic lives and inspire awe, humility, and gratitude.
@@ -25,7 +25,11 @@ Show me a person who hates a big 'ol tree. You can't, can you?
 - Anyway (*picks beverage back up, takes delicious victory sip), every year as the weather turns, the distinct collective honking of dozens of geese rings out across the landscape as they make their journey to and from warmer climates. I'm never too busy to stop and look skyward to catch a fleeting glimpse. In the same way the trees inspire awe for their sheer longevity, the geese inspire awareness for the inevitability of change. The geese don't waste energy hoping they don't have to fly south this year. They accept the sacrifice they have to make to stay alive, and they make it every year.
 - 
 
-Notes for next time: What can we learn from the awe and awareness-inspiring treese 'n geese?
+ - These trees and these geese teach us about time and about change. A maniacal wind hides in plain sight, devouring whatever attention we pay it. But the trees don't hear the scuttle along the ground. And the trees are too steady to let small things break them. They sway to the west when the winds blow in, and sway to the east as they blow back out. Unemotional. Graceful. Humble. No matter what happens in our lives, there they stand, year after year.
+
+<!-- Notes: do I scrap the geese? -->
+
+<!-- Notes for next time: What can we learn from the awe and awareness-inspiring trees 'n geese? -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
