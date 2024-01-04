@@ -17,7 +17,7 @@ The smoke bombs resembled tiny versions of the explosives from a Tom & Jerry car
 
 They sold these all over but I only remember getting mine at the same place I got the MAD Magazines I also wasn't supposed to have. My friend's mother didn't know that, and her level of strictness about these things was, to put it kindly, lax. Just the mere act of putting the bombs and the magazine on the counter felt like I was getting away with murder in broad daylight. "Are they really going to let me get these?", I kept thinking to myself, waiting for my friend's mother or the clerk to see right through my casual demeanor and into my chest where my racing heart was convinced we'd get found out. The store was like a relic, sitting at a desolate crossroads as if we were in the old west. We made the left at this road to get to certain travel baseball games and the parents alternated carpooling. Despite our pleading, my mom rarely stopped at this store. Not that it would matter, since I couldn't get the goods with her around.
 
-
+notes for next time: add the next section, maybe about getting them back to the house and then lighting them off, the feeling of getting away with something...where does that lead? Dunno, figure it out.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
