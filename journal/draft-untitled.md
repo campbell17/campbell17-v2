@@ -27,12 +27,19 @@ Clearly nothing in this rock bed. There was a house under construction up the hi
 
 I'd come to believe the houses in this neighborhood were built by elves. I was an outside cat, so I spent my youth sunburnt and sweaty. And every day I would go outside and see entire new wings of houses erected without ever seeing a soul or hearing a diesel engine idling. Not one. So with no foreman or supervisor in sight, I had to go inspect the elves' work myself. I spend a good year playing around new home construction sites. Climbing the giant piles of dirt and aggregate. Scaling the temporary-and-definitely-not-to-code stairs in the half-framed structures. Setting up the glass soda bottles on a sawhorse and breaking them with pitched rocks. And setting tiny fires with my mom's Bic cigarette lighters.
 
-This house was close to completion, but the lot was uneven, ungraded dirt still strewn with materials. It was also on an open corner and only two houses down from mine. Not the paragon of privacy one might seek out for elicit activity. Nevertheless, 
+This house was close to completion, but the lot was uneven, ungraded dirt still strewn with materials. It was also on an open corner and only two houses down from mine. Not the paragon of privacy one might seek out for acts of questionable judgement. Nevertheless, we found some small off-cuts of wood and set about lighting them ablaze. We positioned ourselves about 30 feet from the corner of the house and found a low spot in the dirt - something we could cover up more easily in the event of the unexpected.
+
+We squatted. I put the lighter to the edge of the wood a pulled the wheel. Nothing. Pulled again. Nothing. A third time yields the famillar butane flame, but after a few seconds of holding it to the corner of scrap wood, the steel top got too hot and I my thumb escaped. This was already less fun than expected. We both shifted our postures in preparation to try again, but my conscience suggested I take one last look around for any authorities.
+
+And authorities there were. As soon as my head lifted I caught eyes with my parents 50 yards away with their arms folded looking dead in my face. Drenched in guilt, we followed them back to my house.
+
+<!-- Notes: write the last bit - end it. -->
 
 - We went up, got started on something small.
 - Looked up just to make sure no one was watching.
 - There, standing with arms folded, my parents. Out for a walk. I liked our smoke bomb spot better.
 - 
+
 
 
 <!-- notes for next time: add the next section, maybe about getting them back to the house and then lighting them off, the feeling of getting away with something...where does that lead? Dunno, figure it out. Maybe also talk about how the store itself holds a stronger place in my memory than the smoke bombs. Why is that? Also, and this might, you know, be important - something has to happen for this story to qualify as a story. It can wander away from smoke bombs somewhat, but action must take place. -->
