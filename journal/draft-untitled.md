@@ -25,6 +25,8 @@ Pain in the ass people leave their mark on us. They complicate things, add stres
 
 Notes: name why they have to be in our lives and what to do about it.
 
+I'm all for curating my life to jettison as many stressors as possible, but sometimes the presence of these people is not optional 
+
 <!-- notes for the flight: "This, of course, only applies if you want to improve. If you think you're perfect..." -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
