@@ -7,22 +7,28 @@ date: '2024-01-15'
 draft: true
 ---
 
-Give Thanks for the PITA
-Turning unavoidable toxicity into fuel.
+Pain In The Ass (PITA)
+A new way to think about that PITA you love.
 
-Pain in the ass (PITA) people leave their mark on us. They complicate things, add stress to our lives, and throw wrenches into our flawless plans. Perhaps worst of all, and so obvious it borders on redundant, they have no idea how much of a pain in the ass they are. Unfortunately, despite curating as many irritants out of our lives as possible, sometimes the presence of PITAs is not optional. Maybe we were born into a family full of 'em. Or maybe our friend or romantic partner suddenly came down with a terminal case of pitarrhea and we're too inveseted in the relationship to just leave.
+Pain in the ass (PITA) people leave their mark on us. They complicate things, add stress to our lives, and throw wrenches into our plans. Perhaps worst of all, and so obvious it borders on redundant, they have no idea how much of a pain in the ass they are. Unfortunately, despite curating as many irritants out of our lives as possible, sometimes the presence of PITAs is not optional. Maybe we were born into a family full of 'em. Or maybe our friend or romantic partner suddenly came down with a terminal case of pitarrhea and we're too inveseted in the relationship to just leave.
 
-But there's hope. A silver lining. An opportunity. If we play our cards right, we can transform the toxicity of our PITAs into fuel for self improvement. It's like the scene from Back to the Future when Doc Brown digs through Marty's trash to nourish the DeLorean for the journey ahead. Except instead of beer cans and banana peels, we're using inexcusable narcisissm, and instead of a DeLorean, we're fueling upgrades to our emotional intelligence and social utility.
+But there's hope. A silver lining. An opportunity. If we play our cards right, we can harness the behavior of our PITAs, turning it into fuel for self improvement. It's like the scene from Back to the Future when Doc Brown digs through Marty's trash to nourish the DeLorean for the journey ahead. Except instead of beer cans and banana peels, we're using inexcusable narcisissm, and instead of a DeLorean, we're fueling upgrades to our emotional intelligence and social utility.
 
 PITAs come in all shapes and sizes, but I want to focus on two specific types: the Stop Sign and the Scolder.
 
-The Stop Sign is someone who spends most of their time stepping in various avoidable bear traps. They're prolific own-goal scorers. Expert foot-snipers. And they often suffer from foot-in-mouth disease, saying the wrong thing at the wrong time, thus further undermining their already unstable social standing. So far this sounds like a "them" problem, and it is. But the PITA enters the picture when the Stop Sign in question is someone we love and care intensely about. Their fatal flaws include a lack of humility, blindness to accountability, and an unwillingness to take criticism to heart. So no matter how many traps we illuminate in the darkness, they refuse to avoid getting snagged.
+The Stop Sign is someone who spends most of their time stepping in various avoidable bear traps. They're prolific own-goal scorers. Expert foot-snipers. And they often suffer from foot-in-mouth disease, saying the wrong thing at the wrong time, thus further undermining their already unstable social standing. So far this sounds like a "them" problem, and it is. Normally we don't know or care about the poor decisions other people make. But when we love them, their self-inflicted treachery makes them a huge pain in the ass. Their fatal flaws include a lack of humility, blindness to accountability, and an unwillingness to take criticism to heart. So no matter how many traps we illuminate in the darkness, they never avoid getting snagged.
+
+But part of being a good human is making the best of a bad situation, or at least doing our damnedest to avoid making it worse. So when we're close enough to a Stop Sign, in addition to helping and supporting them, we use the observe and avoid method. Paying close attention to the self-sabotage, we get a first hand look at cause and effect as we witness the consequences of each misstep. We don't have to _imagine_ the impact our bad choices have on us. Just like we don't have to imagine the impact our bad choices have on our loved ones. Because we see it play out in real time, trailing behind in the Stop Sign's wake. As we spend time observing, patterns begin to emerge. We see how repeating the same mistakes disturbs the flow of our lives. Turbulence forms around us, tarnishing the energy we put out while preventing good things from reaching us. So we use these findings to establish more positive patterns in our own lives, and our beloved Stop Signs, while incapable of helping themselves, can at least help us avoid taking the wrong path.
+
+The Scolder is a different animal. While the Stop Sign exhibits symptoms of a _lack_ of vision, the Scolder zeroes in perfectly. But instead of focusing on the road ahead, looking for obstacles to avoid, their gaze is fixed on something else. You.
+
+We all have flaws. We could all stand to be a little better, nicer, more generous, more productive, less petty, and more grateful. We all know this. 
+
+<!-- Notes for next time: "However..." Talk about how the Scolder takes pointing this out to the extreme. There's merit in having an honest voice around to point out when we're about to be a jackass or say I told you so, but the Scolder lacks balance. No one needs the obvious pointed out, nor do we need to be villified for standard slips of the mind. The Scolder rides on their high horse through the mud, which is the perfect setting for the dragging they'll soon be doing to us when we forget the next irrelevant detail. But...if we can manage to separate the nuggets of truth through the noise, we can sand down some of our roughest edges without losing ourselves to the whims of their constant scrutiny. <--- keep going. -->
+
+
 
 <!-- Notes for next time: Talk about how to use the Stop Sign's behavior to avoid simlar failures. Wrap that up, then move on to the Scolder. (The Scolder might be the opposite of the Stop Sign - instead of a complete lack of vision, they zero in perfectly. But instead of their focus being fixed on the road ahead, it's trained with a firm gaze on something else. You.) -->
-
-
-
-
 
 - There are a number of types, but I'm heavily experienced in two, specifically: the Bad Example and the Critic.
 - The Bad Example is someone close to us who spends most of their time stepping in various avoidable bear traps. They're the king of the own-goal. Foot snipers. And they have foot-in-mouth disease.
