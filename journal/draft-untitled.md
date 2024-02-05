@@ -7,7 +7,13 @@ date: '2024-02-05'
 draft: true
 ---
 
-Essay goes here
+It was a bad idea softened only by the ___________ (timidness) of its execution. The journey would be less than a mile. We're both young. We're both incredibly lazy. I know I don't have my license yet, but I bet I could make it there and back without anyone noticing. It's a back road, so there's no traffic. What do you think?
+
+Let's go.
+
+I wish I could have been in the car when my parents, just returning from a trip to Boston, pulled into our street behind the car pulling out of our driveway.
+
+<!-- Notes: You haven't read your notes in a while. Maybe give that a try to see what develops -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
