@@ -3,11 +3,21 @@ layout: post
 category: writing
 title: "Title Goes Here"
 subtitle: "Subtitle goes here."
-date: '2024-01-01'
+date: '2024-02-19'
 draft: true
 ---
 
-Essay goes here
+Natural Life Enhancement
+
+- We've all heard some form of the expression, "that'll take years off your life." But what about the opposite?
+
+- There are different ways to accelerate your death. The activities you practice, the fuel you choose to intake, and the company you keep all have different grit levels. The worse for your health, the coarser the grit, the more longevity it strips away.
+
+- We have agency over our activities and fuel, but sometimes we don't put enough stock in the company we keep. We're surrounded, but who are these people? Do they strip away at your life or do they add to it?
+
+- Likewise, what kind of person are you? Are you the kind of person who adds stress to others? (strengthen the hell out of this)
+
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
