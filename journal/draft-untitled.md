@@ -7,7 +7,13 @@ date: '2024-03-04'
 draft: true
 ---
 
-Essay goes here
+Real romance is unromantic
+
+The price of a romantic life is an endless list of unromantic responsibilities.
+
+What do I mean? It doesn't take spontaneity, or surprises, or acts of woo. It's doing what you say you'll do when you say you'll do it. It's discussing and deciding who is doing what, down to the last detail. It's choosing which specific days of the week each person wakes up to tend to the children.
+
+<!-- Notes: Talk about early days in the relationship when Kerri took charge of how things would work. This may be where it all falls apart since you don't want to tell everyone everything. Start here and see if you can make it work. You may have to bail. -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
