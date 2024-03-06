@@ -7,13 +7,13 @@ date: '2024-03-04'
 draft: true
 ---
 
-Real romance is unromantic
+Tellem a story.
 
-The price of a romantic life is an endless list of unromantic responsibilities.
+I don't remember how old I was. Maybe five or six. I knew how to swim, or so I thought. I was straining a bit, but holding my own. Until a tiny ripple of water made its way into my lungs as I swam out to retrieve one of my cherished toys. My older sister and I were in Maine, capturing the last bits of playing time by the lake before it got too dark. Mom and Dad had walked back up the street to the cabin and were getting dinner ready by now, unaware their son was preparing his mind to accept he was going to drown.
 
-What do I mean? It doesn't take spontaneity, or surprises, or acts of woo. It's doing what you say you'll do when you say you'll do it. It's discussing and deciding who is doing what, down to the last detail. It's choosing which specific days of the week each person wakes up to tend to the children.
+I'd underestimated how tired my arms were, and like most novice swimmers, my legs were of little use. The sun had already gone down, leaving the lake and sky black and blue. 
 
-<!-- Notes: Talk about early days in the relationship when Kerri took charge of how things would work. This may be where it all falls apart since you don't want to tell everyone everything. Start here and see if you can make it work. You may have to bail. -->
+<!-- Notes for next time: You finally have a topic. The ending is...getting saved? See if you can figure this out before you continue - the ending will dictate how much color you need to add between this point and the point of being pulled up. -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
