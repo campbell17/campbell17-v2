@@ -9,9 +9,11 @@ draft: true
 
 Tellem a story.
 
-I don't remember how old I was. Maybe five or six. I knew how to swim, or so I thought. I was straining a bit, but holding my own. Until a tiny ripple of water made its way into my lungs as I swam out to retrieve one of my cherished toys. My older sister and I were in Maine, capturing the last bits of playing time by the lake before it got too dark. Mom and Dad had walked back up the street to the cabin and were getting dinner ready by now, unaware their son was preparing his mind to accept he was going to drown.
+I don't remember how old I was. Maybe six or seven. I knew how to swim, or so I thought. I was straining a bit, but holding my own. Until a tiny ripple of water made its way into my lungs as I swam out to retrieve one of my cherished toys. My older sister and I were in Maine, capturing the last bits of playing time by the lake before it got too dark. Mom and Dad had walked back up the street to the cabin and were getting dinner ready by now, unaware their son was preparing his mind to accept he was going to drown.
 
-I'd underestimated how tired my arms were, and like most novice swimmers, my legs were of little use. The sun had already gone down, leaving the lake and sky black and blue. 
+The sun had already disappeared, and the remaining twilight made the lake and sky black and blue. I remember glimpsing the band of wheat colored clouds on the horizon just before my head went under. I'd underestimated how tired my arms were, and like most fledgling swimmers, my legs were of little use. I was sure I wouldn't be able to resurface.
+
+In Christopher Nolan's film Memento, after suffering an accident, Leonard must account for his inability to make new memories by writing notes at the bottom of Polaroids he takes. He carries these photos with him as stand-ins for real memories, and references them as evidence of what took place. What he writes becomes the truth, whether it matches reality or not. 
 
 <!-- Notes for next time: You finally have a topic. The ending is...getting saved? See if you can figure this out before you continue - the ending will dictate how much color you need to add between this point and the point of being pulled up. -->
 
