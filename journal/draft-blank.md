@@ -7,7 +7,7 @@ date: '2024-01-01'
 draft: true
 ---
 
-Essay goes here
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
@@ -25,3 +25,6 @@ Let's have some fun. "Caution rarely leads to awesome." (- John August, Innerest
 - What did we learn?
 - Do you, but be consistent.
 - Extremeness or Truth, create that which will be remembered.
+
+<!-- Candidate note -->
+- Steve Douglas-Craig wrote romantic comedies in college, but would never be caught dead seeing one in the theater. Horror/Thriller is his genre. The dean asked him why he would write movies he would never see. Note: Write the story you would not be able to put down.
