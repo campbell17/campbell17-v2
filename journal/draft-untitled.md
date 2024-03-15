@@ -3,7 +3,7 @@ layout: post
 category: writing
 title: "Title Goes Here"
 subtitle: "Subtitle goes here."
-date: '2024-03-11'
+date: '2024-03-18'
 draft: true
 ---
 
@@ -27,4 +27,4 @@ Let's have some fun. "Caution rarely leads to awesome." (- John August, Innerest
 - Extremeness or Truth, create that which will be remembered.
 
 <!-- Candidate note -->
-- Steve Douglas-Craig wrote romantic comedies in college, but would never be caught dead seeing one in the theater. Horror/Thriller was his genre of choice. The dean asked him why he would write movies he would never see. Note: Write the story you would not be able to put down.
+- Steve Douglas-Craig wrote romantic comedies in college, but would never be caught dead seeing one in the theater. Horror/Thriller is his genre. The dean asked him why he would write movies he would never see. Note: Write the story you would not be able to put down.
