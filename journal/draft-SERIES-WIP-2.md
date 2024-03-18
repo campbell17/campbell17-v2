@@ -27,7 +27,7 @@ The two friends fell silent for a moment as they continued single file through t
 
 "Shh! I think I heard something!"
 
-The boy looks back for a moment to catch the girl with a mischievous grin.
+The boy looked back for a moment to catch the girl with a mischievous grin.
 
 "How far is it?" the girl asked.
 
@@ -37,9 +37,9 @@ The boy looks back for a moment to catch the girl with a mischievous grin.
 
 "Yeah, you've never heard that?"
 
-"I have not," she says with one eyebrow raised. "Anyway, how often do you go this way?"
+"I have not," she said with one eyebrow raised. "Anyway, how often do you go this way?"
 
-"All the time," the boy says over his shoulder. "I can't take my bike, but it's so much shorter it doesn't matter. Besides, once we get there everything is so bunched up you don't need a bike."
+"All the time," the boy said over his shoulder. "I can't take my bike, but it's so much shorter it doesn't matter. Besides, once we get there everything is so bunched up you don't need a bike."
 
 The trail ran through a valley bisecting two stretches of woods. A quarter-mile to the west, the woods opened into the edge of the boy's neighborhood. Equidistant to the east and up the big hill is their destination - the spirited paragon of suburban existence: The Wexford strip mall.
 
@@ -135,7 +135,9 @@ The hill was long but not steep. The woods that inhabited this stretch of land w
 
 "Is this it?" the girl asked.
 
-"Almost," he replied. "You can't see it with the buildings in the way, but the road is right there." He motions across with his arm to gesture the flow of traffic.
+"Almost," he replied. "You can't see it with the buildings in the way, but the road is right there." The boy swept his pointer finger in the general direction of route 19, the four-lane artery serving more fast food chains and car dealerships than you could shake a stick at.
+
+
 
 
 
