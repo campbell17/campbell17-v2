@@ -135,7 +135,7 @@ The hill was long but not steep. The woods that inhabited this stretch of land w
 
 "Is this it?" the girl asked.
 
-"Almost," he replied. "You can't see it with the buildings in the way, but the road is right there." The boy swept his pointer finger in the general direction of route 19, the four-lane artery serving more fast food chains and car dealerships than you could shake a stick at.
+"Almost," he replied. "See all those cars? That's the main road." The boy swept his pointer finger in the general direction of route 19, the four-lane artery serving more fast food chains and car dealerships than you could shake a stick at.
 
 
 

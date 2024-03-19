@@ -7,7 +7,19 @@ date: '2024-03-18'
 draft: true
 ---
 
+Let them do it.
 
+The good mother necessarily fails. 
+
+- We have an instinct compelling us to fix all we can with whatever we see with whatever we have at our disposal. 
+- This includes fixing ourselves, and by extension, our problems. But this also includes fixing the people around us, and by extension their problems.
+- Nothing is more emblematic of this than being a parent. Which makes sense, because for the first several years of their lives, our children would _literally die_ without our undivided dedication to the pursuit of preventing it.
+- But this need doesn't last forever. In fact, it doesn't even last all that long, all things considered. As soon as a child becomes sentient, presumably, they could be taught the skills needed to feed themselves if no one were around to do it for them. If I wanted to be more precise, I could Google something like "average age for a child to choose feeding itself over starving to death", but I don't want any uniformed strangers ringing my doorbell.
+- Regardless, the instinct to provide is so strong, ______ eventually becomes enablement, robbing the child of a chance to develop the skills necessary to survive and thrive in the adult world.
+- This is evident in certain adults we meet, who seem somehow dysfunctional when compared to a reasonable expectation of how the average, well-adjusted adult should act. 
+- In many cases this doesn't concern us since we can choose to leave the weird strangers to their own devices.
+- But in the case of friends, loved ones, friends of friends, coworkers, and un-ingnorable acquaintences, the risk of dipping into our fix-the-problem instincts is high. 
+- This is where the "necessary failure" plays its part. - Note for continuing: Of course we want to help. Of course we want to be supportive. Of course we want to show generosity, guidance, and kindness. And we do. But there comes a point where no amount of these things will impart the change needed to keep someone on an upward path. So we set up the boundary. This is where we fail. 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
