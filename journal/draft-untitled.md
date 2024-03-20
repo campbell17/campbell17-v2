@@ -19,7 +19,18 @@ The good mother necessarily fails.
 - This is evident in certain adults we meet, who seem somehow dysfunctional when compared to a reasonable expectation of how the average, well-adjusted adult should act. 
 - In many cases this doesn't concern us since we can choose to leave the weird strangers to their own devices.
 - But in the case of friends, loved ones, friends of friends, coworkers, and un-ingnorable acquaintences, the risk of dipping into our fix-the-problem instincts is high. 
-- This is where the "necessary failure" plays its part. - Note for continuing: Of course we want to help. Of course we want to be supportive. Of course we want to show generosity, guidance, and kindness. And we do. But there comes a point where no amount of these things will impart the change needed to keep someone on an upward path. So we set up the boundary. This is where we fail. 
+- This is where the "necessary failure" plays its part. - Note for continuing: Of course we want to help. Of course we want to be supportive. Of course we want to show generosity, guidance, and kindness. And we do. But a time comes when kindness transforms into enablement. No human voluntarily chooses the resistant path. When we blaze someone else's trail for them, they can't see the skills they missed out on building. They simply walk forward.
+- When kids are young, we have no choice. We must guide them. But as they grow we have to start judging if, when, and how we begin to step aside. Anecdotally, the more kids we have, the easier it is to soften our attention on every detail. If we have 5 kids, for example, we have 5 different paths to juggle, making it far more likely we "fail" to prevent them from tripping themselves up in the their natural course of growth and learning. These stumbles are critically important in their ability to develop the skills necessary to solve their own problems. If, on the other hand, we have 1 or 2 children, or if the age gaps are wide, it's much more difficult to let them stumble because we hawk each one like the eye of Sauron. So our "failures" need a more proactive approach, requiring conscious effort to combat our early-motherly instincts. 
+
+Notes for next time: That's for kids. How is it different for our peers, friends, siblings, etc? Well...
+
+Blockquote: Kill the motor, dude. Let us see what Squirt does flying solo.
+
+
+
+
+
+But there comes a point where no amount of these things will impart the change needed to keep someone on an upward path. So we set up the boundary. 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
