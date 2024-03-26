@@ -7,7 +7,14 @@ date: '2024-03-25'
 draft: true
 ---
 
-Essay Goes Here...
+Call off the search. It's become clear at last
+you've robbed your own future, by clutching your past.
+
+The convenience of lies, the gymnastics of minds
+removes all your doubt. It's the world that's unkind.
+
+
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
