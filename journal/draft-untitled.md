@@ -7,7 +7,7 @@ date: '2024-03-25'
 draft: true
 ---
 
-Call off the search. It's become clear at last
+Call off the search. It's now clear at last
 you've robbed your own future, by clutching your past.
 
 The convenience of lies, the gymnastics of minds

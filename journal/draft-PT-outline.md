@@ -37,7 +37,7 @@ Here's the outline for the podcast idea:
 - **The pivots**
     - We can’t decide what we want to be when we grow up
 - **The consultants**
-    - Finding ever more clever ways to waste our money for zero ROI
+    - Finding ever more clever ways to waste our money for zero ROI. BNR. ParaDOXXEDeees.
 - **The great ITA hope**
     - Putting our eggs in one basket, and that basket is on fire
 - **The goose egg**
@@ -46,6 +46,22 @@ Here's the outline for the podcast idea:
     - Oh yeah, I guess we should spend some time on the thing people pay money for
 - **The 401killer**
     - Gobble gobble, you just took a $10k pay cut
+
+Other chapter ideas:
+- **This Could Work**
+  After years of winging it, we grasp onto a stateroom door floating by. We're saved. We can use this door to get ashore and build up a new boat. Wait, a rescue crew is headed our way. Is that...an anchor they're about to throw us? (put this just before the acquisition - it refers to using, then losing Shape Up)
+- **I got Pee in my Eye. Send Help.**
+  We're going slow. Let's add a week-long product-design-engineering quarterly planning sesh full of entire day-long meetings to discuss the color of shite. That'll fix it.
+- **Cheap Labor**
+  Gaze upon the healthy headcount. What we lack in talent density we will surely recoup with a robust and strictly-adhered-to process. It's a machine, you see, you put people at one end and amazing software comes out the other end. Right?
+- ****
+- **The Sketch Widget**
+  Let's not even look for an out-of-the-box solution for a geometry sketch tool. Let's build our own instead. Oh, there it is. Good thing we only wasted two weeks.
+- **The Mobile SDKillMeNow**
+  Let's do the same thing on mobile, except this time we DO build it and then completely git-stash all that a year later, spend 6 months talking about using out-of-the-box functionality for Mobile, and then spend another 2 months debating it more.
+- **The Great Rebuild of '24**
+  Suddenly, despite all evidence pointing to the opposite, we think we're capable of rebuilding the most widely used and relied-upon areas of the application. The Editor. The App Builder. The Data Viewer. In a vacuum, I welcome the idea. But my ass is sore from sitting in this chair for 4 years watching us bunt ourselves out on foul balls. Now we suddenly want to swing for the fences. Even our questionable leadership team can't approve a multi-quarter bet like this.
+- 
 
 So much has been said on Twitter about this phenomenon already. Such as:
 
