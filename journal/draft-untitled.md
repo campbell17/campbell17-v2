@@ -3,18 +3,11 @@ layout: post
 category: writing
 title: "Title Goes Here"
 subtitle: "Subtitle goes here."
-date: '2024-03-25'
+date: '2024-04-01'
 draft: true
 ---
 
-Call off the search. It's now clear at last
-you've robbed your own future, by clutching your past.
-
-The convenience of lies, the gymnastics of minds
-removes all your doubt. It's the world that's unkind.
-
-
-
+Essay Goes Here...
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
