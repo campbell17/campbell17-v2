@@ -7,7 +7,7 @@ date: '2024-04-01'
 draft: true
 ---
 
-Essay Goes Here...
+A random guy used to come up to us on the street. In a city of 1.5 million people, it may seem unlikely to encounter the same person twice, but there stood my friend and I, trying to figure out how this guy we didn't know kept running into us. It was our first year at college and our first time living in a city. But we knew enough to know it was weird. He didn't start a conversation mid-sentence, ask us for money or help, or apologize for skipping over the whole "I know you don't know me and this is weird" part. He just walked up to us friendly as could be, said "hey guys!" like we were classmates, and asked us what we were up to. He then proceeded to tell us about what he was doing, remarked about how we should hang out, and attempted to barnacle his way onto whatever it was my friend and I were on our way to do. We successfully fended him off with one excuse or another, but this happened four of five times until the winds changed and we never saw him again. He seemed a fraction older than us, maybe early twenties. He was too put together to peg as crazy, but too forward to be considered normal (fix this word later). 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
