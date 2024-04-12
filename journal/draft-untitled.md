@@ -7,7 +7,12 @@ date: '2024-04-15'
 draft: true
 ---
 
-Essay Goes Here...
+<!-- This may be irrelevant for this week's essay, leaving them here anyway: -->
+
+Points I skipped in last essay:
+- How to keep someone like that from infecting your life with their BS and taking you down with them
+- I skipped an opportunity for humor in the last part - "Like I always say, 'there's something I could have done differently that may have changed the outcome' (catchy, isn't it?)"
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
