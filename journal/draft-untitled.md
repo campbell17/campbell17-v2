@@ -7,6 +7,17 @@ date: '2024-04-15'
 draft: true
 ---
 
+Impermanence
+
+Jackie O saving Grand Central
+
+  Put quote in
+
+Something about either trusting someone will take the reigns, or taking them yourself. Outside of those, trust in being good being good enough.
+
+
+
+
 <!-- This may be irrelevant for this week's essay, leaving them here anyway: -->
 
 Points I skipped in last essay:
