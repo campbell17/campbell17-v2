@@ -24,7 +24,7 @@ Let's have some fun. "Caution rarely leads to awesome." (- John August, Innerest
 - The entire story should be designed to amplify one moment. (Van Neistat in "Details" is simply swapping the logo on the grill of his Toyota, but the video is gripping because of the structured buildup)
 - What did we learn?
 - Do you, but be consistent.
-- Extremeness or Truth, create that which will be remembered.
+- Extremeness or Universal Truth, create that which will be remembered.
 
 <!-- Candidate note -->
 - Steve Douglas-Craig wrote romantic comedies in college, but would never be caught dead seeing one in the theater. Horror/Thriller is his genre. The dean asked him why he would write movies he would never see. Note: Write the story you would not be able to put down.

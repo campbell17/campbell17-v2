@@ -131,20 +131,28 @@ In an instant, the boy stood up straight, removed his hands from his face, and t
 
 <!--  -->
 
-The hill was long but not steep. The woods that inhabited this stretch of land were cleared to lay power lines long ago, leaving an open path up the hill, over the crest, and to the edge of an empty parking lot.
+The hill was long but it wasn't steep. The woods that inhabited this stretch of land were cleared to lay power lines long ago, leaving an open path up the hill. Over the crest they walked, until they reached the edge of an empty parking lot.
 
 "Is this it?" the girl asked.
 
-"Almost," he replied. "See all those cars? That's the main road." The boy swept his pointer finger in the general direction of route 19, the four-lane artery serving more fast food chains and car dealerships than you could shake a stick at.
+"Almost," he replied. "See all those cars? That's the main road." The boy swept his pointer finger in the general direction of route 19, the four-lane artery serving more fast food chains and car dealerships than you could shake a stick at. (fix this phrasing)
+
+<!-- Shitty first draft commencing -->
+
+"The stores are on the other side," the boy said, "we'll cross at the light on the corner."
+
+The boy was stoked. He'd been praying for the day when he'd finally get to spend some time with her. He was shy in a group, but funny with friends...is this the kind of story I wouldn't be able to put down?
+
+The boy and girl were in their early teens. The boy recently graduated from briefs to boxers, but still wore his tighty-whitey's underneath out of a gripping fear of unintended exposure. His hair had all the intentionality of a Jackson Pollack painting, and he usually kept it muzzled under a sweaty Pittsburgh Penguins hat. He walked with untied shoes, but somehow managed never to trip over them. In between the hat and shoes, he never paid much attention. His shirts were usually hand-me-downs from his sister of bands he never listened to, though he'd be a lot cooler if he did. And the shorts, grabbed from his bedroom floor that morning, won the prize for "least smelliest" for a third day running. But he loved his shoes, and he was obsessed with his hats. His father would always make him remove his hat at restaurants, which always annoyed him. One year, while on the long journey to Maine for summer vacation, he left his hat at the restaurant. He still hasn't fully mourned the loss.
+
+<!-- Notes for next time: push their journey forward, find a place to rest and describe the girl. -->
 
 
 
 
 
 
-
-
-<!-- STORY BEATS: -->
+<!-- STORY BEATS?: -->
 
 - The boy & girl walk to the strip mall
 - Someone shoplifts
@@ -163,6 +171,7 @@ Global Notes:
 
 Let's have some fun. "Caution rarely leads to awesome." (- John August, Inneresting 05/18/23)
 
+- Story trumps all - a good story can elevate bad writing, but not the other way around.
 - Start with the end in mind: What do you want the outcome of your story to be?
 - Lead with action (ABDCE: Action, Background, Development, Climax, Ending - Alice Adams, via Anne Lamott)
 - “But, therefore”
@@ -171,4 +180,5 @@ Let's have some fun. "Caution rarely leads to awesome." (- John August, Innerest
 - The entire story should be designed to amplify one moment. (Van Neistat in "Details" is simply swapping the logo on the grill of his Toyota, but the video is gripping because of the structured buildup)
 - What did we learn?
 - Do you, but be consistent.
-- Extremeness or Truth, create that which will be remembered.
+- Extremeness or Universal Truth, create that which will be remembered.
+- Write the story you would not be able to put down.
