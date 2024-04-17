@@ -7,6 +7,8 @@ date: '2024-04-15'
 draft: true
 ---
 
+<!-- Something I've been meaning to try: use headings for section transitions -->
+
 Impermanence
 
 Jackie O saving Grand Central
