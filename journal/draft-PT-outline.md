@@ -69,7 +69,7 @@ So much has been said on Twitter about this phenomenon already. Such as:
 <!-- Start with a few chapter outline versions? See what they would look like as Memoir vs. Primer - how would they differ? -->
 
 
-Start:
+False Start:
 
 There was a before and an after. As of today, ten remain from before. We've amassed 120 "afters". Maybe five are worth a damn, and that's being generous. The rest? All goddamn n00bs.
 
@@ -78,6 +78,26 @@ You know when you meet someone new and immediately forget their name? Then you r
 So I guess I shouldn't be surprised at the current state of this circus. But there's something different about the before and after. 4 years ago, the original CEO decided it was time to take the company to the next level, and by extension, take his exit. We took on private capital, installed new leadership, and were supposed to "board the plane to Europe" or whatever hellish corporate euphemism they proclaimed at the time. NOTE BELOW
 
 <!-- Note for next time: I'm not skeptical by nature, but at the allhands where this move was announced, my caution heavily outweighed my optimism. (talk next about what was supposed to happen: injection of HP into the existing machine. Then, how those dreams instantly, yet somehow very slowly evaporated) -->
+
+
+Idea: In the style of The Martian (chapters of diary entries set against chapters of dialogue from other characters)...how might this work...how far back could/should I go?
+
+Constraints: only work, no romance (as such)
+
+Risks: 
+  - Can this even work? The Martian had a handful of fixed characters, but my career has been a revolving door of colleague turnover. Can I take advantage of this somehow? (Number them instead of name them, like henchmen? Maybe I can number the bosses as an homage to Office Space?)
+    - Maybe I keep C, Z, B, T etc as constants?
+  - How much exposition can someone swallow of undramatic office nonsense? If the exposition is compelling, does it need conflict at every turn? Or, there is ALWAYS conflict, just look for it and you'll find it. Then, "expose it".
+  - Where to start / end? Do I localize this to only the current place? That would make sense for the recurring-ness of the recurring characters. I can't introduce people I've never met yet.
+  - How to structure the diary vs. dialogue? The Martian had the advantage of the diary creator not knowing the dialogue people could see him, at least for a while. That was part of what made it compelling, seeing Whatney's solitary day-to-day contrasted against the circus back on Earth.
+    - Maybe this is part of act 1? Me monologuing about my loathesome job at the unscrupulous company while W + C + (T, incidentally) + B + J + J are looking for me?
+    - But what happens when I arrive, how does the format change? In TM, the relationships between MW and the crew were already well established, but those between MW and the brass at NASA were new.
+    - Everything builds up to his rescue, it's literally what the entire novel is about. So does this first book crescendo with the phone call in the break room? If that's the case, the walk to the pizza shop, getting the first phone call to move to FL, and the subsequent Job 1 - fired, job 2 - failed, job 3 - rescued would need to be the arc. That's a long time to spend waiting during the dialogue parts. I'd need a lot of help, which might mean contacting T.
+  - What if this structure uniquely works for TM but falls apart in a more mundane environment?
+
+START:
+
+
 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
