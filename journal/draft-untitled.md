@@ -9,16 +9,12 @@ draft: true
 
 <!-- Something I've been meaning to try: use headings for section transitions -->
 
-Impermanence
+- {{[[TODO]]}} Is it a skill to refrain from co-opting others' pain unnecessarily?
+    - How much is useful vs. how much is selfish/insensitive/uncaring, etc etc
 
-Jackie O saving Grand Central
+When a celebrity dies, do you get sad? If so, _how_ sad?
 
-  Put quote in
-
-Something about either trusting someone will take the reigns, or taking them yourself. Outside of those, trust in being good being good enough.
-
-
-
+Notes for next time: I used to feel something. Now I feel a split-second pang of killed buzz, but then I feel nothin'. Does it depend on the death? Is an OD the same as a tragedy? Does horrified count? Being affected by it isn't the same as feeling sad about it. What about the person's contributions, and those future contributions that will never be realized?
 
 <!-- This may be irrelevant for this week's essay, leaving them here anyway: -->
 
