@@ -7,21 +7,38 @@ date: '2024-04-15'
 draft: true
 ---
 
-<!-- Something I've been meaning to try: use headings for section transitions -->
+My cheat sheet to cultivate balance. YMMV.
 
-- {{[[TODO]]}} Is it a skill to refrain from co-opting others' pain unnecessarily?
+- If you want to change someone else you have to change yourself first...
+- ...but you'll never do either if you're even mildly dishonest.
+- If something is broken, try to fix it before throwing it out.
+- If you live with people but you're energized by solitude, wake up hours before them. It's easier than it sounds.
+- If the only thing stopping you from an opportunity is fear, you have no choice but to do it.
+- If you're caught up in conflict, you're at least half the reason it exists.
+- If other people got away with it, you certainly will not. Murphy's law is real.
+- Relationships are everything. People are everything. You can sustain a shitty job with great people, but not the other way around.
+- If a friend dissapoints/angers/stresses you out all the time, they're not a friend. Get rid of them. They'll find other friends. They'll be fine.
+- Don't post on social media unless: 
+  - It's directly relevant and necessary for your career.
+  - You make things with your hands and want to share the process/results.
+  - No one wants, needs, or cares about your opinions and hot-takes.
+  - No one needs to see you dancing.
+  - No one needs to see you reacting to things other people did.
+- Don't seek out negativity. You see what you look for. If you think the world is burning, there's no shortage of commentary incentivized to reenforce that view.
+- If you don't like where you live, plan a move.
+- When it comes to work, there's no such thing as overprepared.
+- 
+
+Can't seem to get off the ground. Here's the latest false start:
+
+<!-- - {{[[TODO]]}} Is it a skill to refrain from co-opting others' pain unnecessarily?
     - How much is useful vs. how much is selfish/insensitive/uncaring, etc etc
 
-When a celebrity dies, do you get sad? If so, _how_ sad?
+When you find out someone you never met died, do you get sad? No, right? Why would you? You didn't know Janice. But what 
 
-Notes for next time: I used to feel something. Now I feel a split-second pang of killed buzz, but then I feel nothin'. Does it depend on the death? Is an OD the same as a tragedy? Does horrified count? Being affected by it isn't the same as feeling sad about it. What about the person's contributions, and those future contributions that will never be realized?
+Notes for next time: I used to feel something. Now I feel a split-second pang of killed buzz, but then I feel nothin'. Does it depend on the death? Is an OD the same as a tragedy? Does horrified count? Being affected by it isn't the same as feeling sad about it. What about the person's contributions, and those future contributions that will never be realized? -->
 
-<!-- This may be irrelevant for this week's essay, leaving them here anyway: -->
-
-Points I skipped in last essay:
-- How to keep someone like that from infecting your life with their BS and taking you down with them
-- I skipped an opportunity for humor in the last part - "Like I always say, 'there's something I could have done differently that may have changed the outcome' (catchy, isn't it?)"
-
+<!-- Something I've been meaning to try: use headings for section transitions -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
