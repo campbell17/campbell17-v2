@@ -139,17 +139,27 @@ The hill was long but it wasn't steep. The woods that inhabited this stretch of 
 
 <!-- Shitty first draft commencing -->
 
-"The stores are on the other side," the boy said, "we'll cross at the light on the corner."
+"The shops are on the other side," the boy said, "we'll cross at the light on the corner."
 
 The boy and girl were in their early teens. The boy recently graduated from briefs to boxers, but still wore his tighty-whitey's underneath out of a gripping fear of unintended exposure. His hair had all the intentionality of a Jackson Pollack painting, and he usually kept it muzzled under a sweaty Pittsburgh Penguins hat. He walked with untied shoes, but somehow managed never to trip over them. In between the hat and shoes, he never paid much attention. His shirts were usually hand-me-downs from his sister of bands he never listened to, though he'd be a lot cooler if he did. And the shorts, grabbed from his bedroom floor that morning, won the prize for "least smelliest" for a third day running. But he loved his shoes, and he was obsessed with his hats. His father would always make him remove his hat at restaurants, which always annoyed him. One year, while on the long journey to Maine for summer vacation, he left his hat at the restaurant. He still hasn't fully mourned the loss.
 
 <!-- Notes for next time: push their journey forward, find a place to rest and describe the girl. -->
 
-They made their way to the corner. A lull washed over them as they waited for the traffic light to change. The boy glanced over to see the girl staring off into space as if lost in thought. She bit the corner of her thumbnail out of habit.
+They made their way to the corner. A lull washed over them as they waited for the traffic light to change. The boy peeked over with the side of his eye to see the girl biting the corner of her thumbnail while staring into the pavement like she was daydreaming.
 
-The girl was taller than the boy. She spent most of her free time reading and listening to Depeche Mode. Her short, jet-black hair shined more than the hair in most conditioner commercials. Its perfection was out of place against her ultra-baggy t-shirt and jean shorts ensemble. On her left wrist she wore a red jelly bracelet and a broken calculator watch given to her by her father. She got straight A's in school but never bragged about it. In fact, she never talked about herself at all except in response to a curoius inquisitor.
+The girl was taller than the boy. She spent most of her free time reading <!--(reading what?)--> and listening to Pearl Jam. Her short, jet-black hair shined more than the hair in most conditioner commercials. Its perfection was out of place against her ultra-baggy t-shirt and jean shorts ensemble. She wore a red jelly bracelet on one wrist and a broken calculator watch given to her by her father on the other. She got straight A's in school but you'd never know it. <!-- I need to add more desc here -->
 
-"What's your favorite flavor?" the boy's question snapped her 
+"Ever shoplifted before?"
+
+His words hung in the air for a moment, then the girl came to.
+
+"Of course not!"
+
+"C'mon, I'll teach you."
+
+
+
+
 
 
 

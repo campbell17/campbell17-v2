@@ -48,8 +48,13 @@ Here's the outline for the podcast idea:
     - Gobble gobble, you just took a $10k pay cut
 
 Other chapter ideas:
+- **The Interview**
+  In a room with Brent, Joe, and William. Looking over a website to drill me on how I would build it. But the interview feels like a formality. Like they're just going through the motions because they already decided to hire me and just need to suss out if I'm a fraud. They as if I have any questions. The company I'm leaving has a nutcase for a CEO, so I jokingly say, "You don't happen to have a CEO who makes you work on random stuff he thinks up while on the toilet, do you?" There was a short pause followed by a long collective, "uhhhh" as they all shoot glances between each other waiting for someone to respond. I cut in quickly with the truth. "I'm just kidding, I don't need to know. Anything is better than what I'm dealing with now." I would come to know what fueled their panic.
+- **Another One Bites the Dust**
+  How many people can I outlast? Number at the time of this writing: 206. 206 people have come and gone since I started.
+- ****  
 - **This Could Work**
-  After years of winging it, we grasp onto a stateroom door floating by. We're saved. We can use this door to get ashore and build up a new boat. Wait, a rescue crew is headed our way. Is that...an anchor they're about to throw us? (put this just before the acquisition - it refers to using, then losing Shape Up)
+  After years of winging it, we grasp onto a stateroom door floating by. We're saved. We can use this door to get ashore and build up a new boat. Wait, a rescue crew is headed our way. Is that...an anchor they're about to throw us? (put this just before the acquisition - it refers to using, then losing Shape Up - as I re-read this, that's probably too specific. It had nothing to do with Shape up...it was the fact the team were open to trying it. It was the people.)
 - **I got Pee in my Eye. Send Help.**
   We're going slow. Let's add a week-long product-design-engineering quarterly planning sesh full of entire day-long meetings to discuss the color of shite. That'll fix it.
 - **Cheap Labor**
