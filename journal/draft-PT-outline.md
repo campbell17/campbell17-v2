@@ -16,7 +16,9 @@ Paraphrased from Peter Lynch:
 
 
 
-Is this a memoir? An autobiography? A primer on all the things that make Product Theater its namesake?
+Is this a memoir? An autobiography? A primer on all the things that make Product Theater its namesake? 
+
+**NOTE: Pay VERY close attention to editorializing/moralizing - this will be one of the hardest parts to keep reigned in**
 
 Here's the outline for the podcast idea:
 
@@ -59,13 +61,14 @@ Other chapter ideas:
   We're going slow. Let's add a week-long product-design-engineering quarterly planning sesh full of entire day-long meetings to discuss the color of shite. That'll fix it.
 - **Cheap Labor**
   Gaze upon the healthy headcount. What we lack in talent density we will surely recoup with a robust and strictly-adhered-to process. It's a machine, you see, you put people at one end and amazing software comes out the other end. Right?
-- ****
 - **The Sketch Widget**
   Let's not even look for an out-of-the-box solution for a geometry sketch tool. Let's build our own instead. Oh, there it is. Good thing we only wasted two weeks.
+- **The Clean Ass Code Revolution**
+  As our beloved product gets buggier, the language around the company starts to change. Everyone talks about quality now. Except, they forgot to aim. Our customers want quality, but our developers want to write clean code. These are not the same.
 - **The Mobile SDKillMeNow**
   Let's do the same thing on mobile, except this time we DO build it and then completely git-stash all that a year later, spend 6 months talking about using out-of-the-box functionality for Mobile, and then spend another 2 months debating it more.
 - **The Great Rebuild of '24**
-  Suddenly, despite all evidence pointing to the opposite, we think we're capable of rebuilding the most widely used and relied-upon areas of the application. The Editor. The App Builder. The Data Viewer. In a vacuum, I welcome the idea. But my ass is sore from sitting in this chair for 4 years watching us bunt ourselves out on foul balls. Now we suddenly want to swing for the fences. Even our questionable leadership team can't approve a multi-quarter bet like this.
+  Suddenly, despite all evidence pointing to the opposite, we think we're capable of rebuilding the most widely used and relied-upon areas of the application. The Editor. The App Builder. The Data Viewer. In a vacuum, I welcome the idea. But my ass is sore from sitting in this chair for 4 years watching us bunt ourselves out on foul balls. Now we suddenly want to swing for the fences. Even our questionable leadership team can't approve a multi-quarter bet like this. One(1) slide deck is made to create a quote business case unquote, the senior leadership team (with the uncredited guidance of our CTO) makes the right call and claims it "needs to better align with some customer value". 
 - 
 
 So much has been said on Twitter about this phenomenon already. Such as:

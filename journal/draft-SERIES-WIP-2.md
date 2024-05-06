@@ -153,9 +153,9 @@ The girl was taller than the boy. She spent most of her free time reading <!--(r
 
 His words hung in the air for a moment, then the girl came to.
 
-"Of course not!"
+"No, you?"
 
-"C'mon, I'll teach you."
+"Sure, it's easy."
 
 
 
