@@ -157,6 +157,20 @@ His words hung in the air for a moment, then the girl came to.
 
 "Sure, it's easy."
 
+"What do you mean, it's easy? You're doing a crime."
+
+"I mean it's easy. There's only one person behind the counter and they can't see down all the aisles at once."
+
+"Aren't you worried about getting caught?"
+
+"They have baseball cards. I want baseball cards. But baseball cards cost too much. The trick is to still buy something instead of just walking out, so every time I buy baseball cards, I give myself a little buy-one-get-two-free discount. It's not like I'm taking the whole box. That would be greedy."
+
+"You're an imbecile."
+
+"Come on, don't you want to add some spice to your life?"
+
+"I'll stick with Tabasco."
+
 
 
 
