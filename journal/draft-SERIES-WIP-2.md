@@ -171,7 +171,7 @@ His words hung in the air for a moment, then the girl came to.
 
 "I'll stick with Tabasco."
 
-
+The steady patter of cars passing slowed to a stop as the light changed from green to yellow to red. "We're good," said the boy as he stepped into the crosswalk.
 
 
 
