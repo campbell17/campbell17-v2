@@ -3,11 +3,11 @@ layout: post
 category: writing
 title: "Title Goes Here"
 subtitle: "Subtitle goes here."
-date: '2024-06-03'
+date: '2024-06-10'
 draft: true
 ---
 
-
+Essay Goes Here...
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
