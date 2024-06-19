@@ -17,13 +17,25 @@ But this essay is not about comparing the inventory of a high-brow establishment
 
 The shoe wall was at the back of the store. Though placed deep within, past the towering ediface of backpacks, the maze of high-end yoga pants, the smattering of team sports equipment, and the tennis racquet restringing apparatus, the shoe wall was City Sports' defining feature. But being in the city, space was at a premium. So through a door at the left side of the wall lied a long, diamond-plated steel staircase down to the basement where the racks of shoe boxes resembled the warehouse from Raiders of the Lost Ark where "Top...Men..." were looking into the Ark of the Covenant.
 
-Also down there amongst the racks was the manager's office, break room, coat room, two bathrooms, and the punch clock[1]. Every retail store back-room setup of that era had much the same setup. Except we had something special. A small sign on the wall of each bathroom. It's hardly fair to call them signs, since they were just two sheets of printer paper with three lines of text in 21 point Arial font. But those three lines are what set us apart.
+Also down there amongst the racks was the manager's office, break room, coat room, two bathrooms, and the punch clock[1]. Every retail store back-room of that era had much the same setup. Except we had something special. A small sign on the wall inside each bathroom. It's hardly fair to call them signs, since they were just two sheets of printer paper with three lines of text in 48 point Arial font. But those three lines are what set us apart.
 
 | Big people talk about ideas.
 | Average people talk about things.
 | Small people talk about other people.
 
-<!-- Notes for next time: Talk about how innocent that seems. Then talk about what it really means. Then talk about how that relates to the way the store was run. Then talk about how that relates to how we think about other people. Then talk about how that affects how we talk about other people when they're not around. Then talk about how worrying about how people talk about us is incorrect, because they aren't hurting us if we're not around to hear it. They're only hurting themselves. And by that token, so are we when we do the same. -->
+I was 19 when I started working at City Sports. And when I say I was 19, what I mean is I was oblivious. I probably looked at that sign for months before I actually internalized its meaning. When I did, though, it slapped me awake. It made me realize I hadn't spent even a moment considering my topics of conversation were a reflection of my inner compass. So I flushed the toilet, washed my hands, clocked in, and never stopped thinking about it.
+
+First, I pondered what it meant about the store manager who posted those signs. I realized the culture of excellence the store carried on its back wasn't an accident. It was the result of the high standards set and (perhaps more importantly) enforced by management. As a lazy teenager, I did not care for this. But I didn't want to bear the humiliation of getting shitcanned for my laziness, so I allowed myself, kicking and screaming, to hop on board with the program. Posting those little signs in the bathrooms was a stroke of genius. Remember, this was pre-smart phones. There was nothing else to look at in there. So I kept reading it. And I kept thinking about it.
+
+It forced me to look at how I thought about other people. Because how we think about people is how we talk about them when they're not around. 
+
+
+
+[1] Before smartphones, companies used formatted notecards and a timestamp machine to keep track of when employees clocked in and out.
+
+<!-- Notes for next time: Talk about how innocuous that seemed. Then talk about what it really means. Then talk about how that relates to the way the store was run. Then talk about how that relates to how we think about other people. Then talk about how that affects how we talk about other people when they're not around. Then talk about how worrying about how people talk about us is incorrect, because they aren't hurting us if we're not around to hear it. They're only hurting themselves. And by that token, so are we when we do the same. -->
+
+<!-- Finish first, but - when you're done, update the whole thing to present tense (you might need to add some transition sentences to make it work) to see if it's more interesting that way -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
