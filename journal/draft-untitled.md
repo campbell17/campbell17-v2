@@ -7,7 +7,15 @@ date: '2024-06-24'
 draft: true
 ---
 
-Essay Goes Here...
+Beware of adults who can't give you a straight answer.
+
+I wrote the preceding sentence, sat with it for a moment, then immediately revised it. I replaced the word "those" with the word "adults". It's an important distinction I don't want to gloss over. Because if you or someone you love has kids over the age of 5, you know there's no such thing as a straight answer with kids. I've asked the most bone stock, two-plus-two, "do you know your own name" level of yes/no question and received seizure-inducing stammering in return.
+
+But that's not what I'm talking about. I'm talking about adults. I could push it as far as young adults, depending on their maturity levels, but at that point it could still go either way.
+
+Bewware of (is the OF here wrong? Check it and update the other one) adults who can't give you a straight answer.
+
+<!-- Notes for next time: start by establishing what this actually means. What does a not-straight answer look like. Start with what the opposite of straight is: crooked. Then talk about the patterns of speech of people who do this. Think people who come on financial audit. How much do you make per month? "Well, it depends..." It always depends. I agree in many cases "it depends" is the correct answer, but not to a math question. And adults who give crooked answers stink at math. -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
