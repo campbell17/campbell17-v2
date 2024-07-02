@@ -7,7 +7,11 @@ date: '2024-07-02'
 draft: true
 ---
 
-Essay Goes Here...
+What is your personal WAR?
+
+WAR, not to be confused with war, stands for Wins Above Replacement and is a term used in baseball statistics to evaluate a player's supposed value over a ficticious replacement player of average abilities. While baseball nerds argue over its accuracy like actual nerds argue over the pronunciation of GIF, the concept popped into my head recently while I was daydreaming about my life.
+
+<!-- Notes: How am I impacting the lives of the people I'm close to? What about acquaintences? Coworkers? Strangers? Am I there for the people around me compared to the average schmuck? -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
