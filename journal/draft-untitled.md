@@ -9,9 +9,13 @@ draft: true
 
 What is your personal WAR?
 
-WAR, not to be confused with war, stands for Wins Above Replacement and is a term used in baseball statistics to evaluate a player's supposed value over a ficticious replacement player of average abilities. While baseball nerds argue over its accuracy like actual nerds argue over the pronunciation of GIF, the concept popped into my head recently while I was daydreaming about my life.
+WAR, not to be confused with war, stands for Wins Above Replacement and is a term used in baseball statistics to evaluate a player's supposed value over a ficticious replacement player of average abilities. While some baseball nerds argue over its accuracy like actual nerds argue over the pronunciation of GIF, the concept provoked a train of thought recently while I was daydreaming about my life. Do I behave in a manner that would bring about a void if I disappeared? More to the point, how big is that void?
+
+Let's look at the opposite side. And let's lower the stakes from people to...let's say cats. My cat is an asshole. She didn't used to be this way, but she's getting old so her cuteness levels have dropped and her shitting-on-the-carpet levels have skyrocketed. 
 
 <!-- Notes: How am I impacting the lives of the people I'm close to? What about acquaintences? Coworkers? Strangers? Am I there for the people around me compared to the average schmuck? -->
+
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
