@@ -7,7 +7,11 @@ date: '2024-07-08'
 draft: true
 ---
 
-It's story time...
+How many of us remember anything about 5th grade? 
+
+I can maybe pluck one memory out of the darkness for each grade before and after 5th, but events that year caused a chain reaction of new experiences and seared them into my brain like a time capsule. 
+
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
