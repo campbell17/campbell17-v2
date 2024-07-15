@@ -3,29 +3,11 @@ layout: post
 category: writing
 title: "Title Goes Here"
 subtitle: "Subtitle goes here."
-date: '2024-07-08'
+date: '2024-07-15'
 draft: true
 ---
 
-<!-- How many of us remember anything about 5th grade? 
-
-I can maybe pluck one memory out of the darkness for each grade before and after 5th, but events that year caused a chain reaction of new experiences and seared them into my brain like a time capsule.  -->
-
-
-"Your dad is getting a transfer," mom said.
-
-"What does that mean?" we asked.
-
-"It means we're moving to a new house in a different place."
-
-I still remember looking through the windshield from the middle row of our 1988 Plymouth Voyager and trying to corral all the implications of that statement. We'd moved to this house six years earlier when I was 4, so the concept wasn't completely foreign. But 4 is only barely sentient. Now I was 10. And at 10, I had plans.
-
-After giving my sister and me a sitrep on the timeline, new location, and something something, we slid open the side door of our burgundy minivan and piled into the house, our imaginations scattered with the hopes, fears, and excitements one can only experience in the face of life-changing news.
-
-<!-- Next: The send off a lot of attention and I liked it. Since it was mid-year, my class organized a going away party and everyone pitched in to buy me a basketball as a parting gift. I held it in my lap as we drove west across the state. It wasn't until nightfall toward the end of the route that I allowed myself to cry the way we all cry over the end of a chapter. < -- expand on this (especially the beginning), maybe talk about the excitement of a new house (might have to backfill before the going away party), the anticipation of a new environment. Then, talk about the shock of an inversion of the countenance of the students vs. the teachers. This begins the action of 5th grade and its difficulties. Talk about the house and the neighborhood? Talk about which room I chose, and choosing to switch. Talk about not wanting to wake up. About not doing any school work. About forging signatures on the notes that went home about not doing homework. Talk about getting picked up at school, finding out I'm found out about forging signatures, then seeing the kid in the car in front of my holding up a brand new Sega Genesis and having to feign a smile while my mom glared at me from the driver's seat.  -->
-
-
-
+Essay Goes Here...
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
