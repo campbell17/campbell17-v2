@@ -3,15 +3,11 @@ layout: post
 category: writing
 title: "Title Goes Here"
 subtitle: "Subtitle goes here."
-date: '2024-07-22'
+date: '2024-07-29'
 draft: true
 ---
 
-I keep my cars. I know people who are unattached to theirs, like it's a pair of jeans or something. For them, it's just a car, and I guess their desire for something newer or different is greater than their affinity for what they already have. But I get very attached to mine. Every time I get a different car, I believe I'll have it until it dies of natural causes, old, creaky, and decrepit. But every time, external circumstances force me to give up my precious before I'm ready. Next month my current car turns 11. I don't celebrate the car's birthday like some lunatic, but when I thought about its age I was reminded of the last time my car met an untimely end and, more specifically, the ride we took in the tow truck that night.
-
-A tow truck is one of those services we hope we never need. It's a last resort-based business model. Like going number two in public or [add a second amusing example], it's something most people go to great lengths to avoid. On a stormy Florida night in the summer of 2013, I drove my oldest son to get his hair cut before we all left for vacation the next day. As we rounded the final turn off the main road, my hatchback, which was fitted with a modified intake from its previous owner, sloshed through a flooded section of road that was imperceptably deep. The aftermarket intake, mounted low to the ground to suck in air that was cooler than that of the heat-soaked engine bay, took a choking gulp of rainwater instead. Realizing what was about to happen, I tried to kill the engine before any damage was done, but after we got out and pushed the car into the gas station adjacent to the giant puddle, it wouldn't restart. I suspected (https://www.wiki.com)[hydrolock], but the diagnosis would have to wait. In the meantime, I checked my phone for the nearest tow service.
-
-<!-- Notes for next time: The driver and his story is the story. His many kids, the conversation about the popularity of big families on reality tv, and his fervent stance on keeping his privacy. This is what stuck with me. -->
+Essay Goes Here...
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
