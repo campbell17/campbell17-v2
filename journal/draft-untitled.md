@@ -7,25 +7,23 @@ date: '2024-08-19'
 draft: true
 ---
 
-Pasted from last week:
+Idea Cycles
 
-<!-- Notes for below: He's never done something like this before. He doesn't play with tools. He doesn't build or fix things. He hasn't yet developed those curiosities about the physical world. But if he keeps doing nothing but gaming, in 10 years he will be miserable and he won't know how to operate in society. <-- this is the short version, make it less harsh and explain the upward nature of doing compared to the static nature of not doing. -->
+My youngest son is 12. How will he look at the world in 10 years? I don't mean geopolitically. I mean his world. His immediate surroundings. How will he tackle new problems, the unexpected, and the unknown? He plays a lot of video games. I don't mind him liking video games. I played a lot of video games, too. But...
 
-Right now we're creeping our way toward the end of summer. In the futile hope of counteracting some of the gratuitous amounts of video games I've let my youngest son play, I assigned him a little project this week.
+Video games are not the real world. They don't inspire action. At best, they provide an escape or, if you're as lucky and talented as a professional athlete, a career. But for 99.9% of us, they're nothing more than a time waster. Don't get me wrong, I'm a time waster from way back. (In a previous essay)[...] I catalogued the unending list of sports I waste my time on annually. But I've developed an internal timer that goes off when I'm being too wasteful for too long. The boy does not have that. Yet.
 
-## The Mission
+The problem with not having a timer like this, is there's no sense of what its costing his future. Let's look at two scenarios:
 
-Let's talk about toilets. Specifically, the lid/seat arrangement of toilets. With the seat and lid fully down, the toilet is closed for business. You can sit on it to hide from that lecherous party guest, but that's about it. With the seat and lid fully up, the toilet is a standing room only venue. In between, however - lid up, but seat down, things can get challenging. When in standby mode, our lids are always fully closed. Somehow as a family we all agreed on that, which is a feat in itself. This means every time the boys step up to bat, part of our routine is reaching down to lift the lid and seat up.
+In one, he plays video games at the same rate for the next ten years. The rate is "however much he can get away with". In the other, he limits himself to a set time per day and doesn't cheat. Let's be generous and give him two hours. For context, it's summer right now and in a heavy week with his friends on vacation and no day camps scheduled, he was hitting up to 10 hours per day. We'll come back to that later.
 
-I promise this is going somewhere.
+There's an 8 hour delta between his worst day and an average time-limited day. Let's add another constraint of this thought experiment and leave TV out of the equation. We can simplify everything and just call it all "screen time". 
 
-One of our toilets, however, has a lid that overhangs the seat by just enough to take conscious effort to wedge your fingers under the seat to get them both skyward. 
+If he's on a screen for the extra 8 hours, he isn't bored. If he isn't bored, he isn't thinking of anything to quell his boredom. If he isn't thinking, he isn't generating ideas. If he isn't generating ideas, he isn't getting curious. If he isn't getting curious, he isn't learning about the things he's curious about. If he isn't learning new things on his own, he isn't expanding himself naturally. He isn't learning how to learn. How much energy do you have to learn about something when it's your idea? Now think about how much energy you have to learn something someone else mandated for you?
 
-<!-- This should be longer. 
-Tell the story about the toilet seat but that's not the end. It's one piece. 
-Expand on the differences between doing something right away and talking forever. -->
+If we look at the next ten years on a timeline, we can consider gaming as a straight line. There's no growth. One could argue that gaming teaches us new things, but those people have never hammered a nail in their life. The difference between beating a boss in a video game world (fantasy) and successfully completing a project as simple as hanging a framed picture in our room (real) couldn't be further apart for our mental health. (<- fix this sentence - clunky)
 
-
+<!-- Notes for next time - talk about the gains we make by being bored, the things we learn when we didn't even know they were part of the thing we were actually trying to do/learn. He had to attach a thing to another thing. Now he knows about tape. -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
