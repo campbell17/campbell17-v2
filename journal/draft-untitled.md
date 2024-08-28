@@ -15,7 +15,7 @@ I have this camera. It's a Canon 7D. Released in 2009, the 7D was marketed as a 
 
 When we can't get something working, how many times do we retry before we give up?
 
-
+Something else to think about: if I wasn't using these steps every day, would I remember what to do? Think about Skaffold. Gotta AWS, gotta SSO, gotta create world, gotta skaffold dev. Sometimes gotta chaos. Sometimes gotta update shell.
 
 
 
