@@ -9,8 +9,13 @@ draft: true
 
 The Magic Touch
 
-I have this camera. It's a Canon 7D. Released in 2009, the 7D was marketed as a semi-professional DSLR camera with an 18 megapixel sensor and Full HD (1080p) video capabilities. I bought mine in 2011 and mostly used it to shoot home movies. Today, 12 years and 9 months later, it obediently sits on a tripod all day broadcasting my face across the internet for Zoom calls. There's a hint of overkill that surrounds the idea of asking a $1699 camera to do a job a $25 webcam from Amazon can do. But it's not like I bought it specifically for this purpose. I turned something I wasn't using into something I was. But there's a catch.
+I have this camera. It's a Canon 7D. Released in 2009, the 7D was marketed as a semi-professional DSLR camera with an 18 megapixel sensor and Full HD (1080p) video capabilities. I bought mine in 2011 and mostly used it to shoot home movies. Today, 12 years and 9 months later, it obediently sits on a tripod all day broadcasting my face across the internet for Zoom calls. There's a hint of overkill that surrounds the idea of asking a $1699 camera to do a job a $25 webcam from Amazon can do. But I didn't buy for this. For years it's been sitting in my camera case in suspended animation. I'd stopped shooting home movies and my iPhone is good enough for the vacation pictures I'll never look at again, so by utilizing my fancypants DLSR as a webcam, I turned something I wasn't using into something I was. But there's a catch.
 
+It's old, by technology standards. So getting it to play nice as a webcam, a purpose for which is was not designed, takes some modifications and a deft touch.
+
+The modifications seem straightforward: buy an AC adapter so it doesn't have to run on a battery and set the Auto Power Off function to "Off" in the camera settings. Well...
+
+After _some_ number of minutes, the camera turns off anyway. The maximum setting in the menu is 30 minutes, which is too short for most meetings. A customary browse of the internet reveals others with this same problem, but no useful solution materializes. Dead in the water already. Here's where my brain goes next: "It's supposed to work. So it must work. Let's see how exact this Auto Off thing is." A test is needed. The smallest thing first. Let's set it for 1 minute and see if it actually shuts itself off.
 
 
 When we can't get something working, how many times do we retry before we give up?
