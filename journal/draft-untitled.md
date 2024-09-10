@@ -3,11 +3,21 @@ layout: post
 category: writing
 title: "Title Goes Here"
 subtitle: "Subtitle goes here."
-date: '2024-09-02'
+date: '2024-09-09'
 draft: true
 ---
 
-Essay Goes Here...
+Opacity.
+
+I've lived in this house for three years. This past weekend I turned another of its opaque details transparent. I fixed a leaky shower handle.
+
+I remember the first time I mowed the lawn back in 2021. I have about an acre and a quarter, and at the time I had a push mower suitable for the only for the postage stamp lots you find in most central Florida suburbs. 
+
+Outline: 
+- Getting a feel for the bounds of the yard and the opacity that removed.
+- How the circle of familiarity grows over time.
+- How that circle relates to the feeling of home (the less I know about my domicile, the more it feels like someone else's. Like a hotel.)
+- 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
