@@ -7,7 +7,15 @@ date: '2024-09-16'
 draft: true
 ---
 
-Essay Goes Here...
+You don't have to do everything.
+
+- It was back-to-school night for my 7th grader. We did not go. I think we're supposed to meet the teachers and get a sense of the lesson plan, but that sounds a lot like something I don't want to do. We moved to this area because of the quality of the schools. We trusted them enough to establish new roots - what am I going to do, nitpick the way they teach my kids?
+
+- There's a duality to the squeaky wheel getting the grease. It's clearly selfish of us to not want to spend out time meeting the teachers. Allowing them to put faces to our names adds squeak to any wheel that may get stuck during the school year vis a vis our child. "Pfff, they didn't even come to BTS night, why would I break my neck for their kid??" and so on.
+
+But...
+
+We're grown-ass. And back to school night is optional. Even if they say it's mandatory, it isn't. 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
