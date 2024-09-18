@@ -15,7 +15,9 @@ You don't have to do everything.
 
 But...
 
-We're grown-ass. And back to school night is optional. Even if they say it's mandatory, it isn't. 
+We're grown-ass people. And back to school night is optional. Even if they say it's mandatory, it isn't. 
+
+This sounds a lot like cope. Like I'm justifying not playing along by saying I don't actually have to play along. But I think about all the things people do 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
