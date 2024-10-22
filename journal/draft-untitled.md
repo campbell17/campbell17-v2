@@ -7,7 +7,13 @@ date: '2024-10-21'
 draft: true
 ---
 
-Essay Goes Here...
+I want to talk about domain mastery. 
+
+Domain, in this case, means physical domain. Where you live. Your castle. Your cave. Your dwelling. Your domicile. But not just the insidey parts. Because to truly master your domain, you also need to come to grips with outer bounds of your dominion. Your personal district. Your area of rule.
+
+- notes: "I've written about this before, but that was more to do with how increased familiarity leads to increased affinity." link to the other article
+- This is more about mastery. Asserting dominance over your ft² of sovereignty.
+- While eating lunch over the weekend, I gazed through the window to my back yard and the power & data lines connecting my house to the main run. _My_ lines. Ok, I pay the power company to use them and I'm technically renting them, but fuck all that, they're mine.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
