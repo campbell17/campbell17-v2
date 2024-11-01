@@ -3,37 +3,11 @@ layout: post
 category: writing
 title: "Title Goes Here"
 subtitle: "Subtitle goes here."
-date: '2024-10-28'
+date: '2024-11-04'
 draft: true
 ---
 
-Ignorance isn't always bliss. Sometimes it's mandatory.
-
-This is about a shed. 
-
-We built it anyway. 
-
-We think it will take a couple weeks. It takes a couple months. We build it anyway.
-
-We think it will cost half. It costs double. We build it anyway.
-
-We think it will be painless. We wake up sore every day. We build it anyway.
-
-We make sure it's plumb. We check that it's level.
-
-We fix some mistakes as we go. Others we leave for posterity. 
-
-It's just a shed.
-
-When the rain tries to stop us, we lay the tarps.
-
-When the wind tries to move us, we tie it down.
-
-Some tools we buy. Some tools we borrow.
-
-We save all the scrap wood, because you never know.
-
-<!-- Notes: arrange "We built it anyway" so it's not all in the same place? Find some rhyming endings?  -->
+Essay Goes Here...
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
