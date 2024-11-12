@@ -7,36 +7,15 @@ date: '2024-11-04'
 draft: true
 ---
 
-Let's talk about the unreliability of memory. 
+I thought I could wait her out. 
 
-But first, let's talk about debt. When I consider my finances, it's easy for me to believe I'm in good standing because I made good choices. This is because I do make good choices. But my good choices are a recent development, relatively speaking. If we liken the timeline of my finances to the timeline of planet Earth, my good choices have been around as long as humankind. (this is unclear, fix it - also, it's probably more like half and half, so adjust as necessary) 
+It was late. I was tired. I had 100 arithmetic problems staring up at me from their crisp off-white ditto paper. An hour ago I could have completed a few. Forty-five minutes ago I could have completed a few more. Thirty minutes ago I could have been done. But no. I decided I wasn't going to do this assignment. I was seated in the kitchen at the table in the center of the room. The light overlooking the table faded into darkness as if falling from a cliff. I was left alone for this task. I didn't know how much time had passed, but I had no intention of tending to these math problems. I thought I could wait her out.
 
-Much of the first half of my money time was spent wasting it and building up avoidable self-inflicted credit card debt. Three things turned the tide: help from my parents, a car accident settlement, and my wife. The gist: in 2010, the combination of a car accident settlement (which afforded us the chance to wipe all debt clean if we wanted) and getting married (started a life of combined decision-making and financial responsibility) spelled the end of my debt. But now, 14 years later, I look in the mirror and unironially say "you, sir, are good with money." What a liar. I had nothing to do with it. Without my parents, wife, or a random car accident where a drug dealer was running from the cops and plowed his car through the intersection I was about to enter, I would just as easily still be up to my eyeballs in it. 
+I sloutched in the chair. The smooth pleather seat let me slip down until my butt hung completely off the edge, burying my chin in my chest as the backrest pressed against my skull. I repeated this many times.
 
-Why does my memory do this? What purpose does it serve?
+It's odd. Though I knew I had no intention of doing this math homework, I also had no intention of clueing my mother in. My plan was simple. Do nothing. The point of doing nothing was to defer these problems to not-now. Maybe tomorrow, I wasn't sure, but I was sure not-now was preferable. When you're naive, you cling to a hope that "maybe tomorrow" could become "maybe never". Maybe this was my way of taking a stand. 100 math problems on one sheet of paper? And when I complete these, what then? WHERE DOES IT END?? So I decided to end it there. I decided I wasn't going to do any of these 100 math problems. I decided to wait her out.
 
-<!-- Notes for tomorrow: Good luck turning this into anything -->
-
-One day I woke up and I had no more debt. How long was I out? 
-
-It started like most debt starts, with credit cards. Like many young morons, I bought nonsense things because I wanted them. 
-
-My first card had a $2,500 limit. I was 18. I don't think I'm going to publish this, so let's just put the facts in:
-
-How much debt did my parents help me clear?
-- At LEAST 20K...
-  - 10K was a personal loan I took out to pay down credit card debt. 
-  - 10K for a new car when mine got stolen.
-  - Probably another 5K in gifted money to give me breathing room
-
-Car accident
-- When I was about to get married, I still had $10k+ in owed debt - I don't remember how many was CC vs. personal loan
-  - Settlement from a car accident in 2010 wiped the remaining debt clear
-
-Help with home buying
-- 30K towards the down payment? The IRS allowed 15K per donee in 2021.
-
-
+<!-- Notes: this is fun. Keep going -->
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
