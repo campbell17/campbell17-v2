@@ -11,9 +11,27 @@ I thought I could wait her out.
 
 It was late. I was tired. I had 100 arithmetic problems staring up at me from their crisp off-white ditto paper. An hour ago I could have completed a few. Forty-five minutes ago I could have completed a few more. Thirty minutes ago I could have been done. But no. I decided I wasn't going to do this assignment. I was seated in the kitchen at the table in the center of the room. The light overlooking the table faded into darkness as if falling from a cliff. I was left alone for this task. I didn't know how much time had passed, but I had no intention of tending to these math problems. I thought I could wait her out.
 
-I sloutched in the chair. The smooth pleather seat let me slip down until my butt hung completely off the edge, burying my chin in my chest as the backrest pressed against my skull. I repeated this many times.
+I slouched in the chair. The smooth pleather seat let me slip down until my butt hung completely off the edge, burying my chin in my chest as the backrest pressed against my skull. I repeated this many times.
 
-It's odd. Though I knew I had no intention of doing this math homework, I also had no intention of clueing my mother in. My plan was simple. Do nothing. The point of doing nothing was to defer these problems to not-now. Maybe tomorrow, I wasn't sure, but I was sure not-now was preferable. When you're naive, you cling to a hope that "maybe tomorrow" could become "maybe never". Maybe this was my way of taking a stand. 100 math problems on one sheet of paper? And when I complete these, what then? WHERE DOES IT END?? So I decided to end it there. I decided I wasn't going to do any of these 100 math problems. I decided to wait her out.
+It's odd. Though I knew I had no intention of doing this math homework, I also had no intention of telling my mother this. My plan was simple. Do nothing. The point of doing nothing was to defer these problems to not-now. Maybe tomorrow, I wasn't sure, but I was sure not-now was preferable. When you're young and naive, you don't understand how responsibility works so you cling to a hope that "maybe tomorrow" could become "maybe never". This was my way of taking a stand. 100 math problems on one sheet of paper? And when I complete these, what then? WHERE DOES IT END?? So I decided to end it there. I decided I wasn't going to do any math problems. I decided to wait her out.
+
+My hope was she would come back and tell me it was getting late. Much too late for math. My hope was I could leave my problems for tomorrow's me and whisk away to my cozy sheets on my cozy bed in my cozy room.
+
+Well, she did come back, but she didn't say it was getting too late for math. As I've come to learn, it's never too late for math. Even if you sleep on it, it's still there in the morning, awash with the anticipation that you'll take the time to solve it.
+
+If I organized a deathmatch of things to hate about myself, the mechanism responsible for the scenario above would emerge victorious without a scratch on him. "Don't worry about all that blood - it's not mine."
+
+But it gets worse. That math was busywork. I knew how to do it. The teacher knew I knew how to do it. It was a rote formality and my pure conscience wouldn't permit my limbs to participate. That's the reason I refused. If it was more challenging, more engaging, or something really interesting, I would definitely make the effort and give it my best. Right?
+
+Fast forward to seventh grade. Science class. Standing at the front of the class, the teacher got our attention and settled us down. With a glint in her eye, she announced it was time for the annual egg drop project. A contest between students to construct a housing for an egg that could withstand a drop from the school roof two stories up. For the first time I could remember, I got excited about a school project. As she explained the details, parts of my brain I didn't know existed were lighting up and I knew exactly what I wanted to build.
+
+It was a double-layered structure...
+
+The lull between the initial spark of something new and the wall I hit when the real work starts tends to spread out, allowing the energy needed to scale that wall to drop. 
+
+<!-- Notes: describe the thing you were gonna build. You had it all planned out. The materials, the size, the geometry... except you never started. The entire marking period passed by and you never once made a list of things to get to actually build your thing. The contest came and went. You made something the day of, AT SCHOOL, from bullcrap you found around. Obviously it failed. There's another timeline in the universe where I did build that thing. I'm a happy person, but I still struggle with the same blind spot that allowed me to be so excited while at the same time never once taking action.
+
+Not taking action is the regret. -->
 
 <!-- Notes: this is fun. Keep going -->
 
