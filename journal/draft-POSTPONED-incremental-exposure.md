@@ -3,13 +3,17 @@ layout: post
 category: writing
 title: "Title Goes Here"
 subtitle: "Subtitle goes here."
-date: '2024-12-02'
+date: '2024-11-25'
 draft: true
 ---
 
-Hey.
+Look quickly, then look away. Look again, this time for a beat longer. Look back a third time, this time lingering at will. Now you can look indefinitely.
 
+You're a bit far away. So move closer to get a better look. Closer. Move closer, until you're right next to this thing you couldn't bear to look at moments ago. Now you're close enough to touch it.
 
+Take out your hand. Hold it up. Reach out and place your hand over the thing from which you were so far. Now place your on the thing that moments ago you were too far away to touch and too afraid see.
+
+We don't change from seeds to trees in a blink. 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
