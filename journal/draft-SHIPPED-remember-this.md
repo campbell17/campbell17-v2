@@ -1,13 +1,25 @@
 ---
 layout: post
 category: writing
-title: "Title Goes Here"
-subtitle: "Subtitle goes here."
-date: '2024-12-09'
+title: "Remember This"
+subtitle: "Leave a door unlocked for the universe once in a while."
+date: '2024-12-02'
 draft: true
 ---
 
-Essay Goes Here...
+Every so often, I tell my youngest son something worth repeating. Most of the words flying out of my mouth are forgettable, which is natural for a likes-the-sound-of-his-own-voice guy like me. If I get to rambling around new people I feel self-conscious soon after. Unless, of course, my rambling led to uproarious laughter, but I'm still waiting for that to ever happen. Anyway, between the obscure movie quotes, belabored lectures, and constant nagging, I can muster up at least one or two nuggets of signal amongst the noise.
+
+The other day, as my son walked out the front door to catch his bus for middle school, a simple concept appeared in my mind. It was a distillation of every feeling I've ever had about why non-stop exposure to screen-based entertainment is unhealthy. I've written about the value of boredom, but never in a way concise enough to impart easily in the form of a passing reminder. I've already yearned for a short, sticky way to sum up the importance of leaving my phone in my pocket.
+
+So as he made his way down the long front yard, across the neighbor's driveway, and settled beside the redwood tree two doors down, I sent him a text with this reminder:
+
+"Some of our best ideas materialize in the few minutes of boredom in between other activities."
+
+When we saturate our attention with...anything, really, we steal an opportunity away from the universe to speak something interesting into our lives.
+
+Remember this.
+
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
