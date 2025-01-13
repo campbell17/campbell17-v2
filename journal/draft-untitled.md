@@ -1,13 +1,26 @@
 ---
 layout: post
 category: writing
-title: "Title Goes Here"
-subtitle: "Subtitle goes here."
+title: "Moments on Monday Morning"
+subtitle: "A series of vignettes apropos of nothing."
 date: '2024-01-13'
 draft: true
 ---
 
-Essay Goes Here...
+Hi all,
+
+I'm trying something new this week, adding a "micro-story" to the weekly rotation. These will be random and apropos of nothing, hence the subtitle, and are a chance to experiment with different styles, subjects, and points of view than I typically publish. My Friday essays will continue as scheduled, and I'm hoping the freedom of these short stories will introduce some yet-to-be-determined possibilities.
+
+I hope you enjoy, and whether you do or not, let me know what you think!
+
+
+The guy who bagged our groceries was sweet to extend forgiveness for not wanting to "round up and donate" our change to the corporate charity tax-break scam du jour. He intimated that while his car has been in the shop, he hasn't had the money to tip the Uber drivers bringing him to work because doing so would mean failing to pay his bills on time.
+
+"Oh I have the money, I just choose not to donate."
+
+We all laughed (except for the horrified checkout girl whose offended expression had little effect), we said our thank-yous, and we walked away. For his part, our bagman, Chris or something, played along as if our brazen insensitivity were merely an ironic facade masking our truer, more benevolent dispositions.
+
+As we walk toward the only Porsche in the parking lot and burst out laughing again at the irony of that, I'm confident he will change his mind.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
