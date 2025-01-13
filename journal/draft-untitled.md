@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing
-title: "Moments on Monday Morning"
+title: "Moments on Monday Morning 1"
 subtitle: "A series of vignettes apropos of nothing."
 date: '2024-01-13'
 draft: true
@@ -13,6 +13,7 @@ I'm trying something new this week, adding a "micro-story" to the weekly rotatio
 
 I hope you enjoy, and whether you do or not, let me know what you think!
 
+Episode 1
 
 The guy who bagged our groceries was sweet to extend forgiveness for not wanting to "round up and donate" our change to the corporate charity tax-break scam du jour. He intimated that while his car has been in the shop, he hasn't had the money to tip the Uber drivers bringing him to work because doing so would mean failing to pay his bills on time.
 
@@ -20,7 +21,7 @@ The guy who bagged our groceries was sweet to extend forgiveness for not wanting
 
 We all laughed (except for the horrified checkout girl whose offended expression had little effect), we said our thank-yous, and we walked away. For his part, our bagman, Chris or something, played along as if our brazen insensitivity were merely an ironic facade masking our truer, more benevolent dispositions.
 
-As we walk toward the only Porsche in the parking lot and burst out laughing again at the irony of that, I'm confident he will change his mind.
+As we walk toward the only Porsche in the parking lot and burst out laughing again at the irony of that, I'm confident he will change his mind. Now at least one person believes I'm either evil or terminally selfish. Only 7+ billion more to go.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
