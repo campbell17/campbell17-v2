@@ -1,27 +1,32 @@
 ---
 layout: post
 category: writing
-title: "Just a Moment 1"
-subtitle: "A series of vignettes apropos of nothing."
-date: '2024-01-13'
+title: "Title Goes Here"
+subtitle: "Subtitle goes here."
+date: '2024-01-16'
 draft: true
 ---
 
-Hi all,
+There are times when I'm convinced that life isn't that hard. You get enough sleep, eat decent food, pay the bills on time, show up when and where you're needed...easy, right? And what happens when you cross paths with something unexpected? Sometimes the unexpected is delightful and spontaneous. But I'm not talking about that. What happens when you cross paths with something you didn't want?
 
-I'm trying something new this week, adding a "micro-story" to the weekly rotation. These will be random and apropos of nothing, hence the subtitle, and are a chance to experiment with different styles, subjects, and points of view than I typically publish. My Friday essays will continue as scheduled, and I'm hoping the freedom of these short stories will introduce some yet-to-be-determined possibilities.
+In practical terms, you deal with it as needed, evaluate why it happened, and set systems in place to prevent its reoccurance.
 
-I hope you enjoy, and whether you do or not, let me know what you think!
+Fine.
 
-Episode 1
+But what if that kept happening? What if it happened consistently. It wouldn't even have to be every day. Once a week might be enough. Would life seem like it "isn't that hard" then?
 
-The guy who bagged our groceries was sweet to extend forgiveness for not wanting to "round up and donate" our change to the corporate charity tax-break scam du jour. He intimated that while his car has been in the shop, he hasn't had the money to tip the Uber drivers bringing him to work because doing so would mean failing to pay his bills on time.
+Maybe it's your fault. Bad attitude. Resistant to change. Full of blindspots and gaining more every day.
 
-"Oh I have the money, I just choose not to donate."
+But what if it isn't? Is it merely a problem of perception? And if so, which things are being perceived inaccurately? Maybe you think your attitude is great, but you rub others the wrong way and always have. Or maybe you catastrophize the small hiccups most people perceive as one of the many costs of living life.
 
-We all laughed (except for the horrified checkout girl whose offended expression had no effect). I said thank you and we walked away. For his part, our bagman, Chris or something, played along as if our brazen insensitivity were merely an ironic facade masking our truer, more benevolent dispositions.
+Notes: what am I trying to get at? 
+- There are people who relish the challenge. Life is hard. But they're driven to win anyway.
+- There are people who are barely surviving. Life is hard, but survival is all they know, so they don't know how hard it really is.
+- There are people who get what they need and make good choices. Not because of chance, but because that's where they aim.
+- There are people who get what they need but squander it with bad choices. 
 
-As we walk toward the only Porsche in the parking lot and burst out laughing again at the irony of that, I'm confident he will change his mind. Now at least one person believes I'm either evil or terminally cruel. Only 7+ billion more to go.
+- What is this categorization doing for this piece? Why does this matter/why is this worth bringing up?
+- The word futility is the reason I started writing this. The futility I felt when out of desperation I threatened Sebastian with a 1 year video game ban. I kept talking through it with him and left the door open for an alternative, thank god. But there is nothing I can conjure that can make him not only understand what he can't do and why, but also impart the ability to act on that knowledge, i.e., NOT act on his impulses.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
