@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing
-title: "Moments on Monday Morning 1"
+title: "Just a Moment 1"
 subtitle: "A series of vignettes apropos of nothing."
 date: '2024-01-13'
 draft: true
@@ -19,9 +19,9 @@ The guy who bagged our groceries was sweet to extend forgiveness for not wanting
 
 "Oh I have the money, I just choose not to donate."
 
-We all laughed (except for the horrified checkout girl whose offended expression had little effect), we said our thank-yous, and we walked away. For his part, our bagman, Chris or something, played along as if our brazen insensitivity were merely an ironic facade masking our truer, more benevolent dispositions.
+We all laughed (except for the horrified checkout girl whose offended expression had no effect). I said thank you and we walked away. For his part, our bagman, Chris or something, played along as if our brazen insensitivity were merely an ironic facade masking our truer, more benevolent dispositions.
 
-As we walk toward the only Porsche in the parking lot and burst out laughing again at the irony of that, I'm confident he will change his mind. Now at least one person believes I'm either evil or terminally selfish. Only 7+ billion more to go.
+As we walk toward the only Porsche in the parking lot and burst out laughing again at the irony of that, I'm confident he will change his mind. Now at least one person believes I'm either evil or terminally cruel. Only 7+ billion more to go.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
