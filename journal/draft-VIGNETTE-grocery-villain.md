@@ -13,15 +13,15 @@ I'm trying something new this week, adding a "micro-story" to the weekly rotatio
 
 I hope you enjoy, and whether you do or not, let me know what you think!
 
-Episode 1
+Episode 1: Grocery Villain
 
-The guy who bagged our groceries was sweet to extend forgiveness for not wanting to "round up and donate" our change to the corporate charity tax-break scam du jour. He intimated that while his car has been in the shop, he hasn't had the money to tip the Uber drivers bringing him to work because doing so would mean failing to pay his bills on time.
+The guy who bagged the groceries was sweet to extend forgiveness for not wanting to "round up and donate" our change to the corporate charity tax-break scam du jour. He intimated that while his car has been in the shop, he hasn't had the money to tip the Uber drivers bringing him to work because doing so would mean failing to pay his bills on time.
 
 "Oh I have the money, I just choose not to donate."
 
 We all laughed (except for the horrified checkout girl whose offended expression had no effect). I said thank you and we walked away. For his part, our bagman, Chris or something, played along as if our brazen insensitivity were merely an ironic facade masking our truer, more benevolent dispositions.
 
-As we walk toward the only Porsche in the parking lot and burst out laughing again at the irony of that, I'm confident he will change his mind. Now at least one person believes I'm either evil or terminally cruel. Only 7+ billion more to go.
+As we laugh to ourselves at the irony of approaching the only Porsche in the parking lot, I'm confident he will change his mind. Now at least one person believes I'm either evil or terminally cruel. Only 7+ billion more to go.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
