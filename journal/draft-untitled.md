@@ -7,6 +7,49 @@ date: '2024-01-20'
 draft: true
 ---
 
+- Hey. Mr. Sporting Goods.
+- Hey yourself.
+You a sport?
+Yeah, that's me.
+I got beers in my room.
+Waiting on my wife.
+- That's who you keep lookin' out the window for?
+- Half.
+- What else then?
+- Just lookin' for what's comin'.
+Yeah, but no one ever sees that.
+
+Yesterday I realized my youngest is beyond my control. This isn't to say he's out of control. He's kind-hearted, emotional, intelligent..etc etc (more goes here)
+
+I couldn't tell how I could tell what (I should do/he wanted/if he wanted me to step away and put my hands in the air)...
+
+So I asked him.
+
+It's a simple solution that always takes far too long to spot. Just ask.
+
+Then I said ok, but as I went to walk away, another question popped up, this time to myself - why was I hovering in the first place? Well...
+
+Hygene. Brushed teeth and deodorized pits. Every morning I would ask, and every morning they weren't done yet. Even when I waited until he had one foot out the door, they still weren't done.
+
+I circled back to ask him what the solution to this, the actual root of the behavior could be. He offered the suggestion of writing a sticky note and leaving it in a promenent place, but as prior trials of this had flamed out quickly, I was reluctant to try again.
+
+Another idea was setting an alarm on his phone, which works for some things but not others. Also, if he's occupied at the time the alarm goes off, it loses all effect.
+
+However, one thing he does reliably do, is empty the dishwasher. As long as he wakes up on time, I don't have to remind him. This is all we need.
+
+Now we can ride the coattails of an existing habit.
+
+Emptying the dishwasher has a great 3-act structure: Act one, the door opens an lowers to the floor. Act two, the dishes are removed and put where they belong. Act three, the door is lifted to a close. Curtain down.
+
+Chris whatshisface negotiator says he heard from the blue angels or someone (find source and clean up) that it takes 67 repetitions for something to become muscle memory. My experiment, agreed upon and co-opted by my youngest, is to patch his hygene routine into the act of opening the dishwasher door. He's already doing that part on his own, so I said "let's have you open the door, then immediately go upstairs to brush your teeth and deodorize, then you can come back down and, seeing the door still open, resume the routine already ingrained in muscle memory. (too wordy, clean up)
+
+Notes for tomorrow: This turned away from a post about losing control and into one about just asking. 
+
+For years I've been practicing to loosen my grip, but I feel like I didn't practice hard enough.
+
+
+<!-- Ending? -->
+It's time to let go. What's comin' is already here.
 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
