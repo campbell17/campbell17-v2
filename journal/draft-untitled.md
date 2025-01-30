@@ -30,29 +30,29 @@ I live at the extremes of a bell curve with my youngest. One moment I'm checking
 
 When I was a kid, having both parents working from home was a rarity. And by rarity, I mean the phrase "work from home" didn't exist yet. If we were lucky, the earliest we got to see our dad was 6:00pm when he got back from work. I lament the fact that my kids never got to experience the horror of hearing the garage door opening in the evening, knowing they were about to answer for the unspeakable crimes they put their mother through while I was at work. 
 
-But unlike my dad, and other dads of the pre-internet era, every day since my son's birth I've spent hours (emphasis on the plural) in his presence. The winds shifted months ago when he began making himself scarce on most days, but I didn't catch on until now. Having two older kids, I'm familiar with this change in temperature. From partner in crime to glorified chauffeur. In a way, this is both liberating and satisfying. I feel like he's taking the reigns of his own life and won't need me quite as much. But with that comes a terrifying question from my inner monologue:
+But unlike my dad, and other dads of the pre-internet era, every day since my son's birth I've spent hours (emphasis on the plural) in his presence. The winds shifted months ago when he began making himself scarce on most days, but I didn't catch on until now. Having two older kids, I'm familiar with this change in temperature from partner-in-crime to glorified chauffeur. This is bitter sweet. In one sense, it's liberating not to be on-call as often, but sad to lose some of the things that make cute kids cute. He's taking the reigns of his own life and won't need me quite as much. But with that comes a disarming question from my inner monologue:
 
 "Have I done enough?"
 
-I always rattle on about our nature being the dominant driver of our behavior, forcing nurture to ride in the back with zero leg room. So I've tried over the years to tailor my parenting to suit each child's temperament so we would gel as a unit rather than grinding each other down in opposition. At least that's what I'd like to believe. The truth is probably closer to seat-of-the-pants parenting for the first two kids and overcorrecting to make up for all my mistakes with the third. I wouldn't go so far as to admit to helicopter parenting, but who would? "Present and avaiable". That's me.
+I always rattle on about our nature being the dominant driver of our behavior with nurture taking the back seat with zero leg room. So over the years I've tried to tailor my parenting to suit each child's temperament, allowing us to gel as a unit rather than grinding each other down in opposition. At least that's what I'd like to believe. In truth, I seat-of-the-pants parented the first two kids and now I'm overcorrecting to make up for those mistakes with the third. I'm not hovering, I swear.
 
+------
 
+As I stood in the kitchen unable to go back upstairs, I searched for the root cause of my nagging. It isn't out of necessity, per se. This kid knows how to make himself ramen, so it's not like he'll leave the house with no pants on. I wondered what things were missing when I left him alone to do it his way before. Then I remembered.
 
+Hygene. Brushed teeth and deodorized pits. Every morning I would ask, and every morning they weren't done yet. Even when I waited to ask until the last possible moment - until he had one foot out the door - they still weren't done. 
 
+I circled back to ask him what the solution to this, the actual root of the behavior could be. He offered the suggestion of writing a sticky note and leaving it in a promenent place, but prior versions of this solution always failed, leaving us with a house full of post-its no one ever read.
 
-Hygene. Brushed teeth and deodorized pits. Every morning I would ask, and every morning they weren't done yet. Even when I waited until he had one foot out the door, they still weren't done.
+Another idea was setting an alarm on his phone, which works for some things but not others. Also, if he's occupied at the time the alarm goes off, it loses all effect since the whole purpos is to initiate immediate action.
 
-I circled back to ask him what the solution to this, the actual root of the behavior could be. He offered the suggestion of writing a sticky note and leaving it in a promenent place, but as prior trials of this had flamed out quickly, I was reluctant to try again.
-
-Another idea was setting an alarm on his phone, which works for some things but not others. Also, if he's occupied at the time the alarm goes off, it loses all effect.
-
-However, one thing he does reliably do, is empty the dishwasher. As long as he wakes up on time, I don't have to remind him. This is all we need.
-
-Now we can ride the coattails of an existing habit.
+There is one thing, however, that he does reliably. He empties the dishwasher. Let's use that.
 
 Emptying the dishwasher has a great 3-act structure: Act one, the door opens an lowers to the floor. Act two, the dishes are removed and put where they belong. Act three, the door is lifted to a close. Curtain down.
 
-Chris whatshisface negotiator says he heard from the blue angels or someone (find source and clean up) that it takes 67 repetitions for something to become muscle memory. My experiment, agreed upon and co-opted by my youngest, is to patch his hygene routine into the act of opening the dishwasher door. He's already doing that part on his own, so I said "let's have you open the door, then immediately go upstairs to brush your teeth and deodorize, then you can come back down and, seeing the door still open, resume the routine already ingrained in muscle memory. (too wordy, clean up)
+When speaking about performing dangerous acrobatic maneuvers in flight, former Blue Angel pilot John Foley cited that neurological research showed it takes ~65 repetitions to "wire a groove" into our brain. 
+
+My experiment, agreed upon and co-opted by my youngest, is to patch his hygene routine into the act of opening the dishwasher door. He's already doing that part on his own, so I said "let's have you open the door, then immediately go upstairs to brush your teeth and deodorize, then you can come back down and, seeing the door still open, resume the routine already ingrained in muscle memory. (too wordy, clean up)
 
 Now I can (more) safely step back and let him breathe.
 
