@@ -7,7 +7,12 @@ date: '2025-02-07'
 draft: true
 ---
 
-Essay Goes Here...
+- Kicking over trash cans and opening mail boxes
+    - Compare to modern "wrongdoing"...it's easy to spot a trash can askew, but what if the kids are shitposting online?
+
+When I was bike riding age, my friend and I decided it'd be fun to ride around the neighborhood kicking over people's trash cans and opening their mail boxes. A reasonable assumption for a kid in elementary school, I think...
+
+Notes: This is a story about doing fun things that are wrong, and how the challenge of spotting these events from a parents' perspective has changed for this generation of online-only kids.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
