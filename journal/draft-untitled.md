@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing
-title: "Title Goes Here"
+title: "Bring Back Objective Wrongdoing"
 subtitle: "Subtitle goes here."
 date: '2025-02-07'
 draft: true
@@ -13,6 +13,13 @@ draft: true
 When I was bike riding age, my friend and I decided it'd be fun to ride around the neighborhood kicking over people's trash cans and opening their mail boxes. A reasonable assumption for a kid in elementary school, I think...
 
 Notes: This is a story about doing fun things that are wrong, and how the challenge of spotting these events from a parents' perspective has changed for this generation of online-only kids.
+
+
+Have you ever done something fun but objectively wrong? If you're a human being, we already know the answer. The human condition encourages this. The foundation of fun is the concept of play, an activity in which only humans and (find out how many other species) participate. Play is (something fundamental to us) and those who don't do it are resigned to be not fully formed <- this is horrendous but true, fix the writing. A building block of play is risk. And it's the separation of risk and wrongdoing that determines how sustainable our brand of fun is. Skiing is risky because it's physically dangerous. But it's fun for the same reason. And the fun increases as the risk does, but only up to a point. (get back to this point somehow?) But what if every time I finished my run I raced to the bottom and sprayed the people in the lift line with the snow I kicked up? That could be fun for me, but only if the people asked me to do that. (where I'm going with this is, putting other people out can also be fun, but if it isn't their idea/they're not part of it, it's wrong.) 
+
+Notes: After you explain this better, move on to "This one time at band camp" and tell the story about the cans and boxes. Then compare the obviousness of that being wrong with the obfuscation of the wrongness of certain social media habits? Let's see where that goes.
+
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
