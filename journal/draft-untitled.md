@@ -15,7 +15,19 @@ When I was bike riding age, my friend and I decided it'd be fun to ride around t
 Notes: This is a story about doing fun things that are wrong, and how the challenge of spotting these events from a parents' perspective has changed for this generation of online-only kids.
 
 
-Have you ever done something fun but objectively wrong? If you're a human being, we already know the answer. The human condition encourages this. The foundation of fun is the concept of play, an activity in which only humans and (find out how many other species) participate. Play is (something fundamental to us) and those who don't do it are resigned to be not fully formed <- this is horrendous but true, fix the writing. A building block of play is risk. And it's the separation of risk and wrongdoing that determines how sustainable our brand of fun is. Skiing is risky because it's physically dangerous. But it's fun for the same reason. And the fun increases as the risk does, but only up to a point. (get back to this point somehow?) But what if every time I finished my run I raced to the bottom and sprayed the people in the lift line with the snow I kicked up? That could be fun for me, but only if the people asked me to do that. (where I'm going with this is, putting other people out can also be fun, but if it isn't their idea/they're not part of it, it's wrong.) 
+Have you ever done something fun that was objectively wrong? If you're a human being, we already know the answer. The human condition encourages this. The foundation of fun is the concept of play, an activity in which only humans and (find out how many other species) participate. Play is (something fundamental to us) and those who don't do it are resigned to be not fully formed <- this is horrendous but true, fix the writing. A building block of play is risk. And it's the separation of risk and wrongdoing that determines how sustainable our brand of fun is. Skiing is risky because it's physically dangerous. But it's fun for the same reason. And the fun increases as the risk does, but only up to a point. (get back to this point somehow?) But what if every time I finished my run I raced to the bottom and sprayed the people in the lift line with snow as I stopped? That could be fun for me, but not for them. When we go ice skating, my youngest son always asks me to do a hot lap while he takes a seat on the bench and waits for me to hockey-stop into the open door, showering him with snow. The other parents are always horrified until he giggles and commands me to do it again. So if I filled the lift line with a crowd of willing participants, a healthy snowing wouldn't be wrong.
+
+It's remarkable how sticky some memories are. Once when I was riding bikes with a friend, we decided to have some extra fun. It was trash day, a concept I didn't yet know existed, and the empty cans of everyone in the neighborhood were still loitering at the end of their driveways. We thought it would be fun to strafe these poor defenseless bins, kicking them to the pavement as we coasted by on our bikes. They crashed and bounced to the ground with an echoing boom. It was such a satisfying sound, we did the whole street. Halfway through, we added a twist. Let's open all these mailboxes, too. On we went, open-kick, pedal pedal, kick-open, pedal pedal, kick-kick (this family had two cans) open...
+
+(as mom about how word got back to her - did I tell because I didn't think it was wrong?)
+
+Word got back to mom, and she reintroduced me to the idea of empathy, a.k.a. the golden rule. This was life before the internet. Everything was out in the open. But now...
+
+
+
+(where I'm going with this is, putting other people out can also be fun, but if it isn't their idea/they're not part of it, it's wrong.) 
+
+
 
 Notes: After you explain this better, move on to "This one time at band camp" and tell the story about the cans and boxes. Then compare the obviousness of that being wrong with the obfuscation of the wrongness of certain social media habits? Let's see where that goes.
 
