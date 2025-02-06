@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing
-title: "Bring Back Objective Wrongdoing"
+title: "Bring Back The IRL Mischief"
 subtitle: "Subtitle goes here."
 date: '2025-02-07'
 draft: true
@@ -21,7 +21,15 @@ It's remarkable how sticky some memories are. Once when I was riding bikes with 
 
 (as mom about how word got back to her - did I tell because I didn't think it was wrong?)
 
-Word got back to mom, and she reintroduced me to the idea of empathy, a.k.a. the golden rule. This was life before the internet. Everything was out in the open. But now...
+Word got back to mom, and she reintroduced me to the idea of empathy, a.k.a. the golden rule. 
+
+This was life before the internet. 
+
+Wrongdoing as a recreational activity was primarily confined to that which could be seen by any interested onlooker. Prank phone calls aside, no mischief was possible without paying the "is anybody looking" tax. The specter of a human being seeing us do something wrong, on purpose and in person, was a natural barrier to entry in the _Being a Troll_ game. This makes the modern would-be can-kickers more vulnerable to mischief's allure thrice over. Once because of the inherent anonymity of the internet. Twice because the phones in our pockets mean not only do we not have to leave the house, but we can shitpost our angst upon unsuspecting strangers from the comfort of the spare bathroom toilet seat. And thrice because there's zero external recourse even from the most attentive (and technically talented) parents.
+
+I _am_ technically talented, and locking down my son's phone was still fiddly and frought with trial and error. And lest we forget, _his friends all have phones_. Short of starting a neighborhood parenting club where we all agree to the same level of control over our kids' devices, we're powerless to see let alone stop a pattern of negative behavior before it becomes their default.
+
+
 
 
 
