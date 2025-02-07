@@ -2,7 +2,7 @@
 layout: post
 category: writing
 title: "Product Theater"
-subtitle: "___ and ____ in Software Development."
+subtitle: "___ and ____ in Software Development. OR 'What The Hell Happened To My Company?'"
 date: '2024-01-31'
 draft: true
 ---

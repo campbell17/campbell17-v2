@@ -27,7 +27,7 @@ This was life before the internet.
 
 Wrongdoing as a recreational activity was primarily confined to that which could be seen by any interested onlooker. Prank phone calls aside, no mischief was possible without paying the "is anybody looking" tax. The specter of a human being seeing us do something wrong, on purpose and in person, was a natural barrier to entry in the _Being a Troll_ game. This makes the modern would-be can-kickers more vulnerable to mischief's allure thrice over. Once because of the inherent anonymity of the internet. Twice because the phones in our pockets mean not only do we not have to leave the house, but we can shitpost our angst upon unsuspecting strangers from the comfort of the spare bathroom. And thrice because there's zero external recourse even from the most attentive (and technically talented) parents.
 
-I _am_ technically talented, and locking down my son's phone was still fiddly and frought with trial and error. And lest we forget, _his friends all have phones_. Short of starting a neighborhood parenting club where we all agree to the same level of psychopathic ankle-braceleting of our kids' devices, we're powerless to see let alone stop a pattern of negative behavior before it becomes their default.
+I _am_ technically talented, and locking down my son's phone was still fiddly and frought with trial and error. Also, _his friends all have phones_. Short of starting a neighborhood parenting club where we all agree to the same level of psychopathic ankle-braceleting of our kids' devices, we're powerless to see let alone stop a pattern of negative behavior before it becomes their default.
 
 Maybe it's just me being old and old fashioned, but 
 
