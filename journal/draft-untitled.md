@@ -13,7 +13,20 @@ If I wanted an excuse, I could say I wanted to get a good baseline for what move
 
 So maybe I'm waiting until I have a deep muscle memory built up that skips any thoughts creeping in about these things. That would be too easy. John Mayer on a recent podcast talked about fighting through the fear that never goes away. Even for someone as talented and accomplished as he, the fear never goes away. What separates the people who grow from those who don't is the resilience to ship and ship again even after being rejected. And to never stop, regardless. It has to leave the realm of decision-making and enter a space of pure drive, like the main character in There Will Be Blood. He wasn't motivated by conscious thoughts, save for those he used to scheme...he was simply driven to action by his instincts like a wolf to a hunt. 
 
-This isn't something I'd considered. A fox dashing through the yard. A houselight flickering across the street. Two birds locked in boisterous conflict. Attemps to quiet my mind fail. I move on to something else. Something less real. It isn't until words are in the air that they are labeled for song. A muffled cough. The click and hum of the furnace igniting. The sound of rushing of air dominates the room. A short interruption for a kiss goodbye. It's right on time.
+
+
+This isn't something I'd considered. A fox dashing through the yard. A houselight flickering across the street. Two birds locked in boisterous conflict. Attemps to quiet my mind fail. I move on to something else. Something less real. It's been said that it isn't until words are spoken that they can be made a song. A muffled cough. The click and hum of the furnace igniting. The sound of rushing of air dominating the room. A short interruption for a kiss goodbye. It's right on time.
+
+We soon face a future alone. Before was only the idea of the horrors and triumphs behind the curtain, not the reality. When the reality ends, we can't go back. Nor do we wish to. The old days weren't better, else they would never have left.
+
+Snow fell last night. The tiny flakes are the ones that stick. I tried to salt but the bag was too heavy so it splashed in clumps I had to kick aside. I underestimated how much I missed winter in the years I spent away. I dreamt of returning, but had to wait. Something came up. Then another. Then two more. The time was never right. But I was content to stay, sensing it covetous to dream. I dreamt anyway.
+
+The landscape meditates under fresh snow and all stray sounds seem to hibernate. 
+
+
+<!-- Older version -->
+What will happen to us when the kids move out? Do we go back to our lives of free love and no committments? The era before kids is like a time before consciousness. There was only the idea of the horrors and triumphs behind the curtain, not the reality. When the reality is over, we can't go back. Nor do we wish to. The old days weren't better, else they would remain.
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
