@@ -15,19 +15,23 @@ So maybe I'm waiting until I have a deep muscle memory built up that skips any t
 
 
 
-This isn't something I'd considered. A fox dashing through the yard. A houselight flickering across the street. Two birds locked in boisterous conflict. 
+I hadn't considered this. A fox dashes through the yard. A houselight flickers across the street. Two birds engage in boisterous conflict. 
 
 Attemps to quiet my mind fail. I move on to something else. Something less real. It's been said that it isn't until words are spoken that they can be made a song. 
 
-A muffled cough. The click and hum of the furnace igniting. The sound of rushing of air dominating the room. A short interruption for a kiss goodbye. It's right on time.
+A muffled cough. The click and hum of the furnace igniting. The sound of rushing of air dominates the room. A short interruption for a kiss goodbye. It's right on time.
 
-We soon face a future alone. Before was only the idea of the horrors and triumphs behind the curtain, not the reality. When the reality ends, we can't go back. Nor do we wish to. The old days weren't better, else I never would have left them behind. Until the new journey of aloneness comes, we impart what we can where we can when we can. Many idioms fail to land. Nature is always a step ahead, erecting illegible street signs. But we entered into this agreement willingly and of sound mind, so we forever try.
+We soon face a future alone. Before was only the idea of the horrors and triumphs behind the curtain, and having faced its reality we can't go back, nor would we. Those days weren't better, else I never would have left them behind. Until the new journey of aloneness comes, we impart what we can, where we can, when we can. Most won't find land. Nature is always a step ahead, erecting misleading waypoints. But we entered into this agreement willingly and of sound mind, so we try.
 
 Snow fell last night. The tiny flakes are the ones that stick. I tried to salt but the bag was too heavy so it splashed in clumps I had to kick aside. I underestimated how much I missed winter in the years I spent away. I dreamt of returning, but had to wait. Something came up. Then another. Then two more. The time was never right. But I was content to stay, sensing it covetous to dream. I dreamt anyway.
 
 The landscape meditates under fresh snow and all stray sounds seem to hibernate. Entropy will steal this purity away and I absorb it while I can so it doesn't go to waste. There's a hidden line I don't want to cross that goes from appreciation to indulgence. The cost of gluttony is the steady, unrecoverable diminishment of wonder. I have things to do, anyway, so I move on.
 
-Painful things are in store. They're not the only thing for sale, but they always come as the free gift. It strikes me as odd that we sometimes choose them specifically. We ask for them by name. In many cases we even subscribe without the slightest clue how to cancel. Tomorrow's problem, you see. But these things are not to be avoided. They are not to be chased away. They're the medicine we must take if we have an aim.
+Painful things are in store. They're not the only thing for sale, but they always come as the free gift. It strikes me as odd that we sometimes choose them specifically. We ask for them by name. In many cases we even subscribe without the slightest clue how to cancel. Tomorrow's problem, you see. These things are not to be avoided. They are not to be chased away. They're the medicine we must take if we have an aim. We must have an aim. A good, worthy, defensible aim. If it serves only us, as art does, its byproduct must be at least an artifact somehow new to the world, if only because we are its author. Without aim, the pain cannot act out its true purpose.
+
+When the snow melted, the sky remained grey. Where we expected renewal, there was none. Where we looked for growth, we saw none. The action of spring remained still until we granted hope an early death. Now we seek not to help but to merely satisfy our curiosities. 
+
+But when I woke up today I saw sunlight coming through the trees. I hadn't considered this.
 
 
 <!-- Older version -->
