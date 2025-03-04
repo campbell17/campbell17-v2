@@ -7,7 +7,21 @@ date: '2025-03-03'
 draft: true
 ---
 
-Essay Goes Here...
+What does it mean to seek? We seek by looking with our eyes. We seek by asking someone a question. We seek by typing into a search box. We seek inside our minds when we think. When we want to know, we must seek to satisfy that want. When trying to create something new, we often seek out things others already made. Into the pit we go. We only get a small window to create each day. And as our window passes, we spend it admiring all the artifacts people were only able to create once they learned to avoid the pit.
+
+But their voice isn't ours. We don't have a voice yet. Sometimes we have to borrow theirs to get started. We use our curiosity as leverage to reverse-engineer how they got to a place we admire. We imagine it was easy for them. It wasn't. We imagine it's in their genes. It isn't. We imagine they simply have natural talent. They don't. So what do they have? More to the point, what do they not have?
+
+Whether through practice, temperament, or sheer pig-headed stubbornness, what they do not have is the ability, capacity, or tolerance to stop. 
+
+<!-- I write once a week about ME (see below). Seth writes every day about IDEAS...more of that. -->
+
+I don't know what anyone else thinks about themselves, but I'm certain I'm a selfish person. Am I any more selfish than the next slob? Maybe not. But I sense I'm not doing enough to warrant any ceremonies crowning me as Selfless Kinguuu. They have those, right?
+
+So what is a man like me supposed to do about this? I could try harder. But I don't feel like doing that. There is one activity I practice, however, that might grant me some favor with the High Council of Charitable Humanitarian Self-Sacrifice – they're the ones that host the ceremonies – I look hard for stuff before I ask someone else to look for it.
+
+This tiny act falls into a similar category as my "Did I Google It" https://www.campbell17.com/journal/the-google-it-rule rule, which mandates that before asking someone a coworker about something, Google it until your fingers bleed first. "Look harder" is the real life version of that principle.
+
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
