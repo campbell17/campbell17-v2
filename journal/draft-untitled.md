@@ -7,11 +7,17 @@ date: '2025-03-03'
 draft: true
 ---
 
-What does it mean to seek? We seek by looking with our eyes. We seek by asking someone a question. We seek by typing into a search box. We seek inside our minds when we think. When we want to know, we must seek to satisfy that want. When trying to create something new, we often seek out things others already made. Into the pit we go. We only get a small window to create each day. And as our window passes, we who are still figuring it out spend our limited time admiring all the artifacts people were only able to create once they learned to avoid the pit.
+What does it mean to seek? We seek by looking with our eyes. We seek by asking someone a question. We seek inside our minds when we think. When we want to know, we must seek to satisfy that want. When we attempt to create something new, we often seek out the things others already made. If we're not cautious, however, we get sucked into a vortex of passive admiration.
 
-But their voice isn't ours. We don't have a voice yet. Sometimes we have to borrow theirs to get started. We use our curiosity as leverage to reverse-engineer how they got to a place we admire. We imagine it was easy for them. It wasn't. We imagine it's in their genes. It isn't. We imagine they simply have natural talent. They don't. So what do they have? More to the point, what do they not have?
+Into the pit we go.
 
-Whether through practice, temperament, or sheer pig-headed stubbornness, what they do not have is the ability, capacity, or inclination to stop.
+We only get a small window of time and will to create each day. We who are still figuring it out can often run afoul of spending this limited time admiring all the wonferful artifacts other people created. These things were made possible only when their makers learned to _avoid_ the pit.
+
+But their voice isn't ours. If we don't have a creative voice yet, sometimes we have to borrow theirs to get started. We use our curiosity as leverage to reverse-engineer how they reached the place we so admire. Our inner saboteur says, "it was easy for them." It wasn't. Our inner saboteur says, "it's in their genes." It isn't. Our inner saboteur says, "they have natural talent." They don't. At least not as a requirement. So what do they have? More to the point, what do they not have?
+
+Whether through practice, temperament, pig-headed stubbornness, or a combination of all three, what they do not have is the ability, capacity, or inclination to stop creating. And when the saboteur who lives in all of us comes calling, they can't hear him over the strike of their hammer on the hot iron.
+
+
 
 
 
