@@ -7,11 +7,13 @@ date: '2025-03-03'
 draft: true
 ---
 
-What does it mean to seek? We seek by looking with our eyes. We seek by asking someone a question. We seek by typing into a search box. We seek inside our minds when we think. When we want to know, we must seek to satisfy that want. When trying to create something new, we often seek out things others already made. Into the pit we go. We only get a small window to create each day. And as our window passes, we spend it admiring all the artifacts people were only able to create once they learned to avoid the pit.
+What does it mean to seek? We seek by looking with our eyes. We seek by asking someone a question. We seek by typing into a search box. We seek inside our minds when we think. When we want to know, we must seek to satisfy that want. When trying to create something new, we often seek out things others already made. Into the pit we go. We only get a small window to create each day. And as our window passes, we who are still figuring it out spend our limited time admiring all the artifacts people were only able to create once they learned to avoid the pit.
 
 But their voice isn't ours. We don't have a voice yet. Sometimes we have to borrow theirs to get started. We use our curiosity as leverage to reverse-engineer how they got to a place we admire. We imagine it was easy for them. It wasn't. We imagine it's in their genes. It isn't. We imagine they simply have natural talent. They don't. So what do they have? More to the point, what do they not have?
 
-Whether through practice, temperament, or sheer pig-headed stubbornness, what they do not have is the ability, capacity, or tolerance to stop. 
+Whether through practice, temperament, or sheer pig-headed stubbornness, what they do not have is the ability, capacity, or inclination to stop.
+
+
 
 <!-- I write once a week about ME (see below). Seth writes every day about IDEAS...more of that. -->
 
