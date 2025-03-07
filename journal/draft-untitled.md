@@ -3,33 +3,11 @@ layout: post
 category: writing
 title: "Title Goes Here"
 subtitle: "Subtitle goes here."
-date: '2025-03-03'
+date: '2025-03-10'
 draft: true
 ---
 
-What does it mean to seek? We seek by looking with our eyes. We seek by asking someone a question. We seek inside our minds when we think. When we want to know, we must seek to satisfy that want. When we attempt to create something new, we often seek out the things others already made. If we're not cautious, however, we get sucked into a vortex of passive admiration.
-
-Into the pit we go.
-
-We only get a small window of time and will to create each day. We who are still figuring it out can often run afoul of spending this limited time admiring all the wonferful artifacts other people created. These things were made possible only when their makers learned to _avoid_ the pit.
-
-But their voice isn't ours. If we don't have a creative voice yet, sometimes we have to borrow theirs to get started. We use our curiosity as leverage to reverse-engineer how they reached the place we so admire. Our inner saboteur says, "it was easy for them." It wasn't. Our inner saboteur says, "it's in their genes." It isn't. Our inner saboteur says, "they have natural talent." They don't. At least not as a requirement. So what do they have? More to the point, what do they not have?
-
-Whether through practice, temperament, pig-headed stubbornness, or a combination of all three, what they do not have is the ability, capacity, or inclination to stop creating. And when the saboteur who lives in all of us comes calling, they can't hear him over the strike of their hammer on the hot iron.
-
-
-
-
-
-<!-- I write once a week about ME (see below). Seth writes every day about IDEAS...more of that. -->
-
-I don't know what anyone else thinks about themselves, but I'm certain I'm a selfish person. Am I any more selfish than the next slob? Maybe not. But I sense I'm not doing enough to warrant any ceremonies crowning me as Selfless Kinguuu. They have those, right?
-
-So what is a man like me supposed to do about this? I could try harder. But I don't feel like doing that. There is one activity I practice, however, that might grant me some favor with the High Council of Charitable Humanitarian Self-Sacrifice – they're the ones that host the ceremonies – I look hard for stuff before I ask someone else to look for it.
-
-This tiny act falls into a similar category as my "Did I Google It" https://www.campbell17.com/journal/the-google-it-rule rule, which mandates that before asking someone a coworker about something, Google it until your fingers bleed first. "Look harder" is the real life version of that principle.
-
-
+Essay Goes Here...
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
