@@ -21,7 +21,40 @@ As he hit the braking zone into turn 1, the conversation hushed. I wasn't sure i
 
 I didn't progress beyond "racing student". I didn't want it enough. The instructors wanted it bad enough to push their careers hard in that direction, such that they became teachers of the craft the loved and practiced. Some stopped there. Others went on to race sports cars in various series' not considered part of the upper echelon, and maybe that was just fine with them. 
 
-I always grapple with the worthiness of my level. I didn't make it past the 3 racing school tiers I attended. Because "Money". But I did want it enough to obsess over the idea enough to at least try my hand and attend the school in the first place. I did well. It wasn't a complete mismatch of dream vs. ability. 
+I always grapple with the worthiness of my level. I didn't make it past the 2 racing school tiers I attended. Because "Money". But I did want it enough to obsess over the idea enough to attend the school in the first place. But racing is one thing in a long list of things I got higher than level 0 at but didn't go much further. How should I feel about this? "However I want" is one answer. "However I choose" is the correct answer. 
+
+I see this advice everywhere: Don't compare yourself to others. It sounds good, and I'm sure it does wonders to tamp down unnecesary mismatches in expectations, not to mention quelling our inherent propensity for jealousy. But we're comparison _machines_. It's unrealistic to pretend we're not going to compare ourselves to our peers as well as those most publicly successful at the things we wish we were good at. But comparison is a two step process involving the exercise and the aftermath. To me, the exercise is primal. We can avoid it as much as possible, but there's no eradicating it. THe aftermath - what we do about the results of said comparison - is under our complete control.
+
+The third and final time I raced a single seater was a matter of personal pride. I mentioned two tiers of racing school. The second tier didn't go well. The carpenter never blames his tools, so I'll blame myself for not asking for the pedals to be adjusted, but my foot kept slipping off the brake after the long straight at Road America and I ended up stuck in the gravel trap twice. It felt like a wasted opportunity and had me questioning everything. Remember, up to that point I thought I was on the path to becoming a pro. Being strapped to the Dodge Ram and towed out of the kitty litter again, the self-doubt engulfed me. 
+
+Next time: the writing above is horrible and trite. Please fix this before shipping. The point I'm making is I had to prove it to myself that my poor performance was a fluke, so months later I blah blah now I get to tell the cool story about driving up to Montreal and doing the double session where I topped the time sheets. Yay me. How do I keep doing this without self-aggrandizing my VERY limited achievements?
+
+
+
+- one thing useful is to compare down after comparing up
+
+- There's an objective truth out there, though. Denying it isn't the purpose of these practices. I don't want to go around making tons of mistakes, then shrug my shoulders and say, "That was a disaster, but I sure learned a lot". 
+
+- 
+
+
+
+Perhaps a more useful mantra is "compare but don't care". 
+
+What do we need for a balanced perspective? Two points of view. 
+
+
+
+Lt. Nathaniel Fick:
+Most people in America right now think of Iraq as a dangerous country. Now, if I were to stand up, I might get killed. But to us, behind this wheel it's pretty safe. So to us, Iraq is a safe country. Right here, I feel pretty safe. Do you feel safe?
+
+Evan 'Scribe' Wright:
+Pretty safe, I guess.
+
+Lt. Nathaniel Fick:
+See? It's all relative.
+
+
 
 Next time: What am I saying? This: Racing is one thing in a long list of things I got higher than level 0 at but didn't go much further. How should I feel about this? Should I feel good that I publish a weekly essay even when I hate what I wrote? I'm in the arena, I guess. And I was in the arena when I was racing. It's pointless to compare, but can it give perspective? When I feel awful about what I'm doing, shouldn't the fact that I'm DOING be all I need to know to set my mind at ease?
 
