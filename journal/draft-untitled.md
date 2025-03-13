@@ -9,9 +9,9 @@ draft: true
 
 Stuck in the space between people who went further before they stopped and people who never started.
 
-I thought I wanted to be a racing driver. I did want to be a racing driver. But I didn't want it _enough_.
+I thought I wanted to be a racing driver. I did want to be a racing driver. But I didn't want it _enough_. But how do I know this? How can I tell how much I didn't want it? It's a simple matter of comparison.
 
-How do I know this? I went to racing school. At the school there were instructors. These instructors also wanted to be professional racing drivers. And in a sense, they already were. They got paid some amount of money to teach other people the craft of racing. They made it further than me, but still hadn't "made it". One instructor made it as far one level below the top. Indy Lights.
+When I went to racing school, there were instructors. These instructors also wanted to be professional racing drivers. And in a sense, they already were. They got paid some amount of money to teach other people the craft of racing. They made it further than me, but still hadn't "made it". One instructor made it as far one level below the top. Indy Lights.
 
 At the school, the instructors would often take a group of students in a regular passenger car around the track and talk through the nuances of the line, the strategy, and the logistics of racing. In one such ride, it came up in coversation that the instructor had spent half a season last year in Indy Lights. I asked him, "why not a full season?" Still in my late teens, I was naive and thought maybe some extinuating circumstances torpedoed his campaign. I was shocked by the cold practical reality of his answer:
 
@@ -27,7 +27,9 @@ I see this advice everywhere: Don't compare yourself to others. It sounds good, 
 
 The third and final time I raced a single seater was a matter of personal pride. I mentioned two tiers of racing school. The second tier didn't go well. The carpenter never blames his tools, so I'll blame myself for not asking for the pedals to be adjusted, but my foot kept slipping off the brake after the long straight at Road America and I ended up stuck in the gravel trap twice. It felt like a wasted opportunity and had me questioning everything. Remember, up to that point I thought I was on the path to becoming a racing driver - a truly kindergarten ambition, if we're honest. But after being strapped to that Dodge Ram and towed out of the kitty litter again, self-doubt consumed me.
 
-Months later, the school offered a test day at the newly resurfaced Mont Tremblant circuit in Montreal. Typically their test days were split into halves, so you could either sign up for a morning session or an afternoon session, but they offered this day as a double session for the same price. The school also didn't time their half-day sessions. Drivers would show up and do as many laps as they could, getting some track-side instruction from the staff throughout. But on this day, all cars would get readouts of their lap times. After the disappointment and shame of my performance the last time, I couldn't shake the desire to find out whether or not that was a fluke. Even if I never did another lap after this, I had to know. The track was about two hours northwest of Montreal. It was an 8 hour drive from my parent's house New Jersey.
+Months later, the school offered a test day at the newly resurfaced Mont Tremblant circuit in Montreal. Typically their test days were split into halves, so you could either sign up for a morning session or an afternoon session, but they offered this day as a double session for the same price. The school also didn't provide lap times for their half-day sessions. Drivers would show up and do as many laps as they could, getting some track-side instruction from the staff throughout. But on this day, all cars would get readouts of their lap times. After the disappointment and shame of my performance the last time, I couldn't shake the desire to find out whether or not that was a fluke. Even if I never did another lap after this, I had to know. The track was about two hours northwest of Montreal, which was an 8 hour drive from my parent's house in New Jersey. It was time for a little road trip.
+
+There's something wonderful about being young enough to know zero about the world but old enough to book travel accommodations. 
 
 Next: booking accommodations. Sometimes not knowing anything works out. A B&B? Sure. I had no idea that it wasn't a hotel. 
 
