@@ -7,9 +7,51 @@ date: '2025-04-01'
 draft: true
 ---
 
-What was I talking about? Oh yeah, the BnB.
+New website
 
-I arrived at night to the ski town of Mont Tremblant with the kind of dread people used to feel before Google Maps and turn-by-turn directions were invented. The pedestrians glancing at my car knew I didn't know where I was or where I was going. The glared through the windshield trying to get a glimpse of what the cretin with New Jersey plates looked like. 
+What do you need me to do? 
+
+I've done it.
+
+Create the logo? Done it.
+Design the app? Web or mobile? Doesn't matter. Done it.
+Design and build the marketing website? Done it. And redone it.
+
+Design the poster? The brochure? The slide deck (God forbid)? Done it.
+
+Write the copy for your entire website while also writing the copy for the onboarding, app changelogs, App Store sizzle shots? Done it.
+
+Stage and shoot all the team photos? Done it, though I prefer to shoot tiny things.
+
+
+
+
+
+<!-- Quick Wins (Judgement) -->
+
+- Groups
+    Was this "quick"?
+    - Context ("created by") in Groups
+- Record Editor map upgrade
+
+<!-- Self-starting -->
+
+- Coding in the first place (2011)
+- Fulcrum Signup Vercel project
+- Fulcrum dispatcher UX/Styling
+- Storybook
+- Web components
+- 4 pillars
+
+<!-- Rabbit Holes -->
+
+- Next.js & Vercel skill jump
+
+
+<!-- What sets me apart? Where am I needed? -->
+
+
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
