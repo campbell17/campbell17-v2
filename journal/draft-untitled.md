@@ -9,7 +9,26 @@ draft: true
 
 What was I talking about? Oh yeah, the BnB.
 
-I arrived at night to the ski town of Mont Tremblant with the kind of dread people used to feel before Google Maps and turn-by-turn directions were invented. The pedestrians glancing at my car knew I didn't know where I was or where I was going. The glared through the windshield trying to get a glimpse of what the cretin with New Jersey plates looked like. 
+I arrived at night to the ski town of Mont Tremblant. My passenger seat was empty, save for an empty [specific food wrapper], a [something second], and the wrinkled inkjet pages scrawled with MapQuest's finest navigations. I could tell the pedestrians glancing through my windshield knew I didn't know where I was or where I was going. I could just _tell_. It was after 10pm and I was surprised how busy the town was. I always forgot other people actually like to leave the house once in a while. It was a fools hope to be invisible in a car with a cracked windshield, a dented quarter-panel, and New Jersey plates. I was hard on my little Integra.
+
+Some watched me pass without looking, as one does in conversation between rounds of eye contact. I crawled along between stop signs looking for my turn. 
+
+Let's put some beats down:
+
+- feeling like I would never find the road
+- the miracle of finding the wooded entrance in the dark
+- the bewildered Bnb proprietor letting me in at 10 or 11 - whatever it was, it was later than they were expecing, it seemed
+- Me only realizing at that moment that this wasn't a hotel. I wanted to rethink the whole thing, but in for a penny, in for a pound
+- It was a lovely lodge, wasn't it
+- Waking up and eating breakfast - how did I wake up on time?
+- Meeting a few of the other drivers. One American, one French-canadian. Both super friendly. 
+  - They were at different places in their lives - children, careers, something to lose. At the time I assumed this is what made them more tentative on the track
+- Based on my lack of life experience, I had no business coordinating and executing and event like this. But that trait was ultimately responsible for exactly that. In the words of Dave Chappelle's friend Chip, I didn't know I couldn't do that. (obviously leave the chappelle part out)
+- I was there on business, which was another difference between me and the dads with BMWs. I was there to test myself. Though doing so would be fun, I wasn't there to have fun, per se.
+
+
+- Onto the event - does this need its own post, or can it be tacked on to the Bnb part? 
+  - A group, B group. I was in B group because of my lack of experience. The timesheets had me at the top of B, middle of A. 
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
