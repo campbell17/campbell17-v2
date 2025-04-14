@@ -39,7 +39,7 @@ export default function Groups() {
       </div>
       <div style={{ border: '1px solid #ddd', borderRadius: 8, padding: '24px 48px', flex: 1, }} className="flex flex-col flex-a-center">
         <div style={{ marginRight: 48 }} className='flex'>
-          <p>Provisioning access to Projects, Apps, and Map Layers is fundamental to Fulcrum's end-to-end workflow. Customers with high member count are providing feedback that the current solution is repetitive and time-consuming. How might we streamline this process to address this pain? I lead the design to create an improved solution, allowing customers to provision access more quickly.</p>
+          <p>Provisioning access to Projects, Apps, and Map Layers is fundamental to Fulcrum&apos;s end-to-end workflow. Customers with high member count are providing feedback that the current solution is repetitive and time-consuming. How might we streamline this process to address this pain? I lead the design to create an improved solution, allowing customers to provision access more quickly.</p>
         </div>
         <div style={{ width: '100%', justifyContent: 'space-around'}} className='flex'>
           <div style={{ flex: 1, maxWidth: 260 }} className="flex flex-col flex-">
@@ -61,14 +61,21 @@ export default function Groups() {
       </div>      
       <ContentBlock
         heading="Problem"
-        content="Fulcrum has two primary modes of operation: The web app (dispatch mode) allows Owners/Administrators to set up the Organization by adding team members and creating the forms, projects, and map layers these members will use in the field. The iOS/Android app (collection mode) allows field workers to capture data relevant to the customers' business objectives. Ideally, dispatch mode is intuitive, straightforward, and above all, fast. The faster Owners can get set up, the sooner they can get the data they need."
+        content="Fulcrum has two primary modes of operation: The web app (dispatch mode) allows Owners/Administrators to set up the Organization by adding team members and creating the forms, projects, and map layers these members will use in the field. The iOS/Android app (collection mode) allows field workers to capture data relevant to the customers&apos; business objectives. Ideally, dispatch mode is intuitive, straightforward, and above all, fast. The faster Owners can get set up, the sooner they can get the data they need."
       >
-        <p>Building Forms, creating Projects, and uploading Map Layers takes a reasonable amount of time, but providing visibility of these objects to Organization members is cumbersome, requiring many clicks for each individual. This is defensible for single person Orgs or small teams, but the moment a customer's member count rises into double digits, the amount of time lost to repetitive work is unacceptable.</p>        
+        <p>Building Forms, creating Projects, and uploading Map Layers takes a reasonable amount of time, but providing visibility of these objects to Organization members is cumbersome, requiring many clicks for each individual. This is defensible for single person Orgs or small teams, but the moment a customer&apos;s member count rises into double digits, the amount of time lost to repetitive work is unacceptable.</p>        
       </ContentBlock>
 
       <div>
         <div style={{position: 'relative', paddingBottom: '56.25%', height: 0}}>
-          <iframe src="https://www.loom.com/embed/0266d4d962cd4946a2c9dcb68aea6ffd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}}></iframe>
+          <iframe 
+            src="https://www.loom.com/embed/0266d4d962cd4946a2c9dcb68aea6ffd" 
+            frameBorder="0" 
+            webkitallowfullscreen="true"
+            mozallowfullscreen="true"
+            allowFullScreen
+            style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}}
+          ></iframe>
         </div>
         <p className='caption'>Before Groups: Adding App visibility to Members<span className='line'></span></p>
       </div>
@@ -79,12 +86,12 @@ export default function Groups() {
         heading="Research"
         content="Through conversations with customers it also became clear that many have their field staff segmented by region or project, and consistently have to alter the visibility access to these objects throughout the year. This wasn't just a pain felt on initial setup, but one that  customers felt every time they embarked on a new project or set up a new region."
       >
-        <p>While some power users instituted workarounds utilizing Fulcrum's API, it was clear that a UI-based solution was long overdue.</p>
+        <p>While some power users instituted workarounds utilizing Fulcrum&apos;s API, it was clear that a UI-based solution was long overdue.</p>
       </ContentBlock>
     
       <div style={{ overflow: 'hidden', borderRadius: 8, position: "relative" }}>
         <Image
-          alt="The genesis of Groups: a Canny request for 'Team Member Management'"
+          alt="The genesis of Groups: a Canny request for &apos;Team Member Management&apos;"
           src="/images/canny-opt.png"
           layout='responsive'
           width={192}
@@ -97,7 +104,7 @@ export default function Groups() {
           }
           onLoadingComplete={() => setLoading(false)}          
         />  
-      <p className='caption'>The genesis of Groups: a Canny request for "Team Member Management"<span className='line'></span></p>
+      <p className='caption'>The genesis of Groups: a Canny request for &ldquo;Team Member Management&rdquo;<span className='line'></span></p>
       </div>
 
       <ContentBlock
@@ -148,7 +155,7 @@ export default function Groups() {
         <p className='caption'>Initial audit of the current state of visibility access<span className='line'></span></p>
       </div>
       
-      <p>The words Team, Group, Folder, Category, and Tag all arose for the concept of a brand new object in Fulcrum that could allow customers to bulk-provision everything to a selection of users. Team was too member-specific and Folder, Category, and Tag were too generic, so "Groups" found the goldilocks zone.</p>
+      <p>The words Team, Group, Folder, Category, and Tag all arose for the concept of a brand new object in Fulcrum that could allow customers to bulk-provision everything to a selection of users. Team was too member-specific and Folder, Category, and Tag were too generic, so &ldquo;Groups&rdquo; found the goldilocks zone.</p>
 
       <h3 style={{ marginBottom: 0 }}>Creating a Group</h3>
       <p>For the first time ever in Fulcrum, customers would be allowed to create an object designed explicitly for the organization of <em>other objects</em> (as opposed to the object itself). This meant designing a scratch-built feature with its own page in the navigation, new components in the design system, and UX/UI patterns to achieve the desired outcome.</p>
@@ -194,7 +201,7 @@ export default function Groups() {
 
       <h3 style={{ marginBottom: 0 }}>Critical Elements</h3>
 
-      <p>Despite having shiny new components and a new way of toggling object visibility, it wouldn't be that novel if we didn't also add a way to filter down the data and select more than one object at a time. Thus, a prerequisite to making Groups all it could be was adding search, sort, and multi-select to the list components.</p>
+      <p>Despite having shiny new components and a new way of toggling object visibility, it wouldn&apos;t be that novel if we didn&apos;t also add a way to filter down the data and select more than one object at a time. Thus, a prerequisite to making Groups all it could be was adding search, sort, and multi-select to the list components.</p>
 
       <div style={{ overflow: 'hidden', position: "relative" }}>
         <Image
@@ -216,7 +223,7 @@ export default function Groups() {
 
       <ContentBlock
         heading="Initial Testing and Tweaks"
-        content="Sometimes design elements that make sense initially prove clunky or confusing upon deeper scrutiny. Let's take a look at an earlier version of the Group Details screen:"
+        content="Sometimes design elements that make sense initially prove clunky or confusing upon deeper scrutiny. Let&apos;s take a look at an earlier version of the Group Details screen:"
       >
       </ContentBlock>
 
@@ -241,7 +248,7 @@ export default function Groups() {
 
       <p>Even when I built the prototype in Figma, this all seemed logical. But in testing, every time I wanted to add new Members to a Group, I mis-clicked on the link that took me to the Members page instead of clicking on the CTA to open the Members list modal. Moreover, this discovery led to the realization that the CTA on the Header component was sending a mixed message to the user, since it was part of the Header but not related to it. We used this discovery to add notes in StoryBook, specifying that all Header-level CTAs must relate 1:1 with page-level content, as opposed to the sub-page level content it represented in Groups.</p>
 
-      <p>Now I had another problem, though: to where do I move the Add Members CTA? The best place for it based on where I intuitively clicked during testing is where we have the handy navigation link. But upon further inspection, the novelty and usefulness of that button came into question. It was taking up valuable real estate next to the Tabs group, and it didn't really look right having two adjacent CTAs. Also, users can already get to the Members page in 1 click from the SideNav, so I didn't save them any time by putting the link in-page and even worse, I introduced potential confusion. I jettisoned the quick-link and placed the Add Members button there instead.</p>
+      <p>Now I had another problem, though: to where do I move the Add Members CTA? The best place for it based on where I intuitively clicked during testing is where we have the handy navigation link. But upon further inspection, the novelty and usefulness of that button came into question. It was taking up valuable real estate next to the Tabs group, and it didn&apos;t really look right having two adjacent CTAs. Also, users can already get to the Members page in 1 click from the SideNav, so I didn&apos;t save them any time by putting the link in-page and even worse, I introduced potential confusion. I jettisoned the quick-link and placed the Add Members button there instead.</p>
 
       <div style={{ overflow: 'hidden', position: "relative" }}>
         <Image
@@ -277,7 +284,7 @@ export default function Groups() {
           }
           onLoadingComplete={() => setLoading(false)}          
         />  
-        <p className='caption'>If it confused me, you can bet it will confuse customers<span className='line'></span></p>
+        <p className='caption'>If it confused me, you can bet it&apos;ll confuse customers<span className='line'></span></p>
       </div>
 
       <ContentBlock
@@ -286,10 +293,17 @@ export default function Groups() {
       >
       </ContentBlock>
 
-      <p>As we Beta tested this feature with customers, the feedback was unanimously positive. In fact, despite the backwards compatibility with the original workflow, many customers intimated that this was the only way they would be provisioning access to Members from now on.</p>
+      <p>As we Beta tested this feature with customers, the feedback was unanimously positive. In fact, despite the backwards compatibility with the original workflow, many customers intimated that this was the only way they&apos;d be provisioning access to Members from now on.</p>
       <div>
         <div style={{position: 'relative', paddingBottom: '56.25%', height: 0}}>
-          <iframe src="https://www.loom.com/embed/b8584d62ef164bdd9293292432f8ce7e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}}></iframe>
+          <iframe 
+            src="https://www.loom.com/embed/b8584d62ef164bdd9293292432f8ce7e" 
+            frameBorder="0" 
+            webkitallowfullscreen="true"
+            mozallowfullscreen="true"
+            allowFullScreen
+            style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}}
+          ></iframe>
         </div>
         <p className='caption'>After Groups: Adding App visibility to Members<span className='line'></span></p>
       </div>
