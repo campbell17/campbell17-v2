@@ -29,27 +29,27 @@ export default function Journal({allPostsData}) {
         <iframe src="https://campbellseventeen.substack.com/embed" width="100%" height="220" style={{ border: "1px solid #ddd", backgroundColor: 'white', frameborder: 0, scrolling: "no" }}></iframe>
       </div>      
       <section className="grid-container">
-        {allPostsData
-          .filter(post => !post.draft && post.title)
-          .map(({ id, title, date }) => (
-            <Link 
-              href={`/journal/${id}`} 
-              key={id}
-              className="cardShadow" 
-              style={{ 
-                background: 'rgba(255,255,255,.25)', 
-                borderRadius: 8, 
-                padding: '8px 16px',
-                display: 'block'
-              }}
-            >
-              {title}
-              <br />
-              <small className="soft">
-                <Date dateString={date} />
-              </small>
-            </Link>
-          ))}
+        {allPostsData.map(({ id, title, date, draft }) => (
+          draft != true && title ? 
+          <Link 
+            href={`/journal/${id}`} 
+            key={id}
+            className="cardShadow" 
+            style={{ 
+              background: 'rgba(255,255,255,.25)', 
+              borderRadius: 8, 
+              padding: '8px 16px',
+              display: 'block'
+            }}
+          >
+            {title}
+            <br />
+            <small className="soft">
+              <Date dateString={date} />
+            </small>
+          </Link>
+          : null            
+        ))}
       </section>      
     </Layout>
   );

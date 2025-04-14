@@ -5,7 +5,7 @@ import styles from './layout.module.scss';
 
 export const siteTitle = "Tim Campbell";
 
-export default function Layout({ children }) {
+export default function Layout({ children, title = siteTitle }) {
   return (
     <>
       <div className={styles.container}>
@@ -17,7 +17,7 @@ export default function Layout({ children }) {
             key="desc"
           />
           <meta property="og:image" content="/images/og.jpg" />
-          <meta name="og:title" content={siteTitle} />
+          <meta property="og:title" content={title} />
           <meta name="twitter:card" content="summary_large_image" />
         </Head>
         <Menu />

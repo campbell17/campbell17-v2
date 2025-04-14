@@ -19,7 +19,7 @@ export default function CustomImage({src, alt, width, height, layout, loader, ob
             ? 'gallery-image transitioning'
             : 'gallery-image transitioned'
         }
-        onLoadingComplete={() => setLoading(false)}    
+        onLoad={() => setLoading(false)}    
       />
     </div>
   )

@@ -34,7 +34,7 @@ export default function Groups() {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}
+          onLoad={() => setLoading(false)}
         />  
       </div>
       <div style={{ border: '1px solid #ddd', borderRadius: 8, padding: '24px 48px', flex: 1, }} className="flex flex-col flex-a-center">
@@ -102,7 +102,7 @@ export default function Groups() {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}          
+          onLoad={() => setLoading(false)}          
         />  
       <p className='caption'>The genesis of Groups: a Canny request for &ldquo;Team Member Management&rdquo;<span className='line'></span></p>
       </div>
@@ -126,7 +126,7 @@ export default function Groups() {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}
+          onLoad={() => setLoading(false)}
         />  
       <p className='caption'>Quarterly planning: Groups makes the cut<span className='line'></span></p>
       </div>
@@ -150,7 +150,7 @@ export default function Groups() {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}          
+          onLoad={() => setLoading(false)}          
         />  
         <p className='caption'>Initial audit of the current state of visibility access<span className='line'></span></p>
       </div>
@@ -176,7 +176,7 @@ export default function Groups() {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}          
+          onLoad={() => setLoading(false)}          
         />  
         <p className='caption'>Selection of new components built for Groups<span className='line'></span></p>
       </div>
@@ -194,7 +194,7 @@ export default function Groups() {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}          
+          onLoad={() => setLoading(false)}          
         />  
         <p className='caption'>Detail view of Menu Modal component from initial concept to latest iteration<span className='line'></span></p>
       </div>
@@ -216,7 +216,7 @@ export default function Groups() {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}          
+          onLoad={() => setLoading(false)}          
         />  
         <p className='caption'>Critical elements: search, sort, multi-select<span className='line'></span></p>
       </div>
@@ -240,7 +240,7 @@ export default function Groups() {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}          
+          onLoad={() => setLoading(false)}          
         />  
       </div>
 
@@ -263,7 +263,7 @@ export default function Groups() {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}          
+          onLoad={() => setLoading(false)}          
         />  
       </div>
 
@@ -282,7 +282,7 @@ export default function Groups() {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}          
+          onLoad={() => setLoading(false)}          
         />  
         <p className='caption'>If it confused me, you can bet it&apos;ll confuse customers<span className='line'></span></p>
       </div>

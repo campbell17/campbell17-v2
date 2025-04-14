@@ -3,23 +3,28 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "aws-sdk": "^2.1204.0",
-    "axios": "^0.27.2",
-    "classnames": "^2.3.1",
-    "date-fns": "^2.29.2",
+    "axios": "^1.6.7",
+    "classnames": "^2.5.1",
+    "date-fns": "^3.3.1",
     "gray-matter": "^4.0.3",
-    "next": "latest",
+    "next": "14.1.0",
     "nprogress": "^0.2.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "remark": "^14.0.2",
-    "remark-html": "^15.0.1"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
   },
   "devDependencies": {
-    "eslint": "^8.22.0",
-    "sass": "^1.54.4"
+    "@types/node": "^20.11.16",
+    "@types/react": "^18.2.52",
+    "@types/react-dom": "^18.2.18",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.1.0",
+    "sass": "^1.70.0"
   }
 }

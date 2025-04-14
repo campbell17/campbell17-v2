@@ -93,7 +93,7 @@ function BlurImage(index) {
               ? 'gallery-image transitioning'
               : 'gallery-image transitioned'
           }
-          onLoadingComplete={() => setLoading(false)}
+          onLoad={() => setLoading(false)}
         />
         <h3 
           style={{ 

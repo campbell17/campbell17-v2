@@ -23,10 +23,11 @@ export async function getStaticPaths() {
 }
 
 export default function Journal({ postData }) {
+  const postTitle = `${postData.title} by Tim Campbell`;
   return (
-    <Layout>
+    <Layout title={postTitle}>
       <Head>
-        <title>{postData.title} by Tim Campbell</title>
+        <title>{postTitle}</title>
       </Head>
       <article className="post-content">
         <p className="overline">
