@@ -11,9 +11,11 @@ export default function Footer() {
         </div>
         <div className="content">
           <div className="flex flex-a-start flex-j-start">
-            <Link href="mailto:timcampbell@hey.com?subject=Work%20Inquiry%3A%20Let's%20chat..."><a className="cta">Work Inquiries</a></Link>
-            <Link href="https://www.instagram.com/campbell1117"><a className="cta">Instagram</a></Link>
-            <Link href="https://www.twitter.com/timcampbell17"><a className="cta">Twitter</a></Link>
+            <Link
+              href="mailto:timcampbell@hey.com?subject=Work%20Inquiry%3A%20Let's%20chat..."
+              className="cta">Work Inquiries</Link>
+            <Link href="https://www.instagram.com/campbell1117" className="cta">Instagram</Link>
+            <Link href="https://www.twitter.com/timcampbell17" className="cta">Twitter</Link>
           </div>
         </div>  
         <div className="content" style={{ padding: "2em 0" }}>

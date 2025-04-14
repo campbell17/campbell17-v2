@@ -47,7 +47,7 @@ export default function Personal() {
         <CustomImage src="https://campbell17.s3.amazonaws.com/art/tall-painting-110520.jpg" alt="Acrylic painting, brown haired woman in blue coat looking skyward" width={640} height={867} />
       </div>
       <div className="flex flex-a-start flex-j-start">
-        <Link href="/projects"><a className="cta">&larr; See all Projects</a></Link>      
+        <Link href="/projects" className="cta">&larr; See all Projects</Link>      
       </div>
     </Layout>
   );

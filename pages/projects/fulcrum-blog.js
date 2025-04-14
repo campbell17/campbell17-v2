@@ -75,7 +75,7 @@ export default function FulcrumBlog() {
       </div>
 
       <div className="flex flex-a-start flex-j-start">
-        <Link href="/projects"><a className="cta">&larr; See all Projects</a></Link>      
+        <Link href="/projects" className="cta">&larr; See all Projects</Link>      
       </div>
     </Layout>
   );

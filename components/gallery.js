@@ -75,26 +75,40 @@ function BlurImage(index) {
   const [isLoading, setLoading] = useState(true)
 
   return (
-    <Link href={index.link}>
-      <a className="blurOnHover">
-        <div style={{ aspectRatio: '1', overflow: 'hidden', borderRadius: 8, position: "relative" }}>
-          <Image
-            alt={index.alt}
-            src={index.src}
-            layout='responsive'
-            width={100}
-            height={100}
-            objectFit="cover"
-            className={
-              isLoading
-                ? 'gallery-image transitioning'
-                : 'gallery-image transitioned'
-            }
-            onLoadingComplete={() => setLoading(false)}
-          />
-          <h3 style={{ position: "absolute", width: "100%", height: "100%", top: "calc(50% - 1.6em)", textAlign: "center", zIndex: 0 }} className={ isLoading ? 'h5 tile-title transitioning' : 'h5 tile-title transitioned'}>{index.linkTitle}</h3>
-        </div>
-      </a>
+    <Link href={index.link} className="blurOnHover">
+      <div style={{ 
+        aspectRatio: '1', 
+        overflow: 'hidden', 
+        borderRadius: 8, 
+        position: "relative",
+      }}>
+        <Image
+          alt={index.alt}
+          src={index.src}
+          fill
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          style={{ objectFit: 'cover' }}
+          className={
+            isLoading
+              ? 'gallery-image transitioning'
+              : 'gallery-image transitioned'
+          }
+          onLoadingComplete={() => setLoading(false)}
+        />
+        <h3 
+          style={{ 
+            position: "absolute", 
+            width: "100%", 
+            height: "100%", 
+            top: "calc(50% - 1.6em)", 
+            textAlign: "center", 
+            zIndex: 0 
+          }} 
+          className={ isLoading ? 'h5 tile-title transitioning' : 'h5 tile-title transitioned'}
+        >
+          {index.linkTitle}
+        </h3>
+      </div>
     </Link>
   )
 }
@@ -103,23 +117,25 @@ function ImageUnlinked(index) {
   const [isLoading, setLoading] = useState(true)
 
   return (
-    <a>
-      <div style={{ overflow: 'hidden', borderRadius: 8, position: "relative" }}>
-        <Image
-          alt={index.alt}
-          src={index.src}
-          layout='responsive'
-          width={144}
-          height={90}
-          objectFit="cover"
-          className={
-            isLoading
-              ? 'gallery-image transitioning'
-              : 'gallery-image transitioned'
-          }
-          onLoadingComplete={() => setLoading(false)}
-        />
-      </div>
-    </a>
+    <div style={{ 
+      overflow: 'hidden', 
+      borderRadius: 8, 
+      position: "relative",
+      aspectRatio: '16/9'
+    }}>
+      <Image
+        alt={index.alt}
+        src={index.src}
+        fill
+        sizes="(max-width: 768px) 100vw, 50vw"
+        style={{ objectFit: 'cover' }}
+        className={
+          isLoading
+            ? 'gallery-image transitioning'
+            : 'gallery-image transitioned'
+        }
+        onLoad={() => setLoading(false)}
+      />
+    </div>
   )
 }

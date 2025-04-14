@@ -39,7 +39,7 @@ export default function Home({allPostsData}) {
         <Gallery homeImages />
       </ContentBlock>
       <div className="flex flex-a-start flex-j-start">
-        <Link href="/projects"><a className="cta">All Projects &rarr;</a></Link>      
+        <Link href="/projects" className="cta">All Projects &rarr;</Link>      
       </div>
 
       <ContentBlock
@@ -50,8 +50,8 @@ export default function Home({allPostsData}) {
           <ul className="no-style">
             {allPostsData.map(({ id, date, title, homepage }) => (
               homepage ? <li key={id}>
-                <Link href={`/journal/${id}`}>
-                  <a>{title}</a>
+                <Link href={`/journal/${id}`} className="journal-link">
+                  {title}
                 </Link>
                 <br />
                 <small>
@@ -64,7 +64,7 @@ export default function Home({allPostsData}) {
         </section>      
       </ContentBlock>
       <div className="flex flex-a-start flex-j-start">
-        <Link href="/journal"><a className="cta">All Entries &rarr;</a></Link>      
+        <Link href="/journal" className="cta">All Entries &rarr;</Link>      
       </div>
    </Layout>
   );
