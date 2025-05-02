@@ -1,13 +1,13 @@
 ---
 layout: post
 category: writing
-title: "Title Goes Here"
+title: "The Agnostic Routine"
 subtitle: "Subtitle goes here."
 date: '2025-04-14'
 draft: true
 ---
 
-Essay Goes Here...
+I used to daydream about what I would do if I lost my job. Not the panic-stricken kind, i.e., "Holy shit, _what do I do_??". Rather, my daydreams were about 2 things: what would my days look like, and would I remain in my field at all.
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
