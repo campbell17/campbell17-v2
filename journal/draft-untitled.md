@@ -7,7 +7,23 @@ date: '2025-05-30'
 draft: true
 ---
 
-Essay Goes Here...
+Standby mode
+Being ok with phoning it in for a while.
+
+- Let's get one misconception out of the way. Stress is here. 
+- Like entropy, the tide, taxes (if you're lawful), and death (if you believe in that sort of thing), stress is everpresent.
+- So why do we often voluntarily turn up the wick on stress at the very time we should be jettisoning all the parachutes?
+- I talk a lot about maintaining a healthy and fairly structured daily routine, but I rarely talk about the times we need to shut her down.
+- The main idea of this story: when it's time to shut her down and go into standby mode for a while, we (I) often twist ourselves into knots over betraying our routine to the point where we add undue stress. We're already in a state of unexpected & prolonged stress - hence needing to shut her down - so let's add to our routine an emergency standby mode, during which we are exempt from any perception of wrongdoing stemming from not keeping up our end of the routine.
+- Jessica Hische put it perfectly while referring to a creative hiatus: pilot mode quote goes here (checking to see if I already wrote about this, hopefully not because then this post might be redundant - brb - ok I'm back. I did quite a bit of site:google searching and couldn't find reference to Hische or pilot, so I think I'm safe.)
+- It's a call to give ourselves a break when we need it most. 
+- The fear is that the break will be permanent. And yes, that is a valid fear.
+- But something about the acknowledgement of the grace you give yourself makes the idea of starting back up when you're ready seem less phony. 
+- Part of the fear is "everyone will notice I've been gone and they'll think I'm a fraud and abandon me". For the people who have a livelihood based on meeting the expectations of strangers regarding regularly-scheduled creative output - :v: content creators :v: - this is a valid concern. They have an audience, and the audience expects. In these cases, takinga break, whatever the reason, has potential financial consequences and therefore usually requires some acknowledgement (you already used this word, maybe find another) that standby mode is going into effect.
+- For the rest of us, which is basically everyone, we don't even have to tell your moms.
+- Something else worth considering - the being a phony bit - some things, like going to the gym, have different implications. If I stop writing because I have things I really need to get squared away, and it turns out those things turn into something else that replaces my desire to write completely, so be it. But if I stop exercising, I'm gonna want to start that back up again no matter what. -- I'm not sure where I'm going with this, but it's a nuance about the types of things from which we're taking a break.
+- The things we find important will always bubble back up organically. If they don't, they weren't as important as we thought. When we say "let the market decide", that's your personal :v: market :v:. The people(you) have spoken. Writing is out. Macaroni necklaces are in.
+
 
 DO NOT "ACT". THIS IS NOT LINKEDIN.
 
