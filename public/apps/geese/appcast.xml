@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Geese</title>
+        <item>
+            <title>0.4.0</title>
+            <pubDate>Mon, 19 Oct 2026 11:23:14 -0400</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://www.campbell17.com/apps/geese/Geese-4.zip" length="1291897" type="application/octet-stream" sparkle:edSignature="LTYTpnDkUFfBMk6diH1zed0ODjUE+McZ8pWfz/LZs9eNAKP/Mel+nOQpRsTlPRgPWBBIVoknXeYs+Bc5ZAEvCQ=="/>
+        </item>
+    </channel>
+</rss>
