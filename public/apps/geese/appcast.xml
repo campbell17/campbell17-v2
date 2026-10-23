@@ -3,6 +3,15 @@
     <channel>
         <title>Geese</title>
         <item>
+            <title>0.5.5</title>
+            <pubDate>Fri, 23 Oct 2026 08:43:18 -0400</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://www.campbell17.com/apps/geese/Geese-11.zip" length="1787655" type="application/octet-stream" sparkle:edSignature="3V4MbqOsYFJNnVJxYLsCTi9YgQlYqQx1Z6WUu6Dd9F3OXVYkeYuxnDLJAA5yIp4MN7ow2IA1vWChb40Ix9MSBw=="/>
+        </item>
+        <item>
             <title>0.5.1</title>
             <pubDate>Wed, 21 Oct 2026 13:07:20 -0400</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://www.campbell17.com/apps/geese/Geese-6.zip" length="1547587" type="application/octet-stream" sparkle:edSignature="qNQKKytN0WywEZnqIT4ha17h6LLiDE+a5wA9fdM71WUyq32zsAUnHFLaM0JeVAPaWIHsDQUWVcgaArRjmXvHBA=="/>
-        </item>
-        <item>
-            <title>0.4.0</title>
-            <pubDate>Mon, 19 Oct 2026 11:23:14 -0400</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://www.campbell17.com/apps/geese/Geese-4.zip" length="1291897" type="application/octet-stream" sparkle:edSignature="LTYTpnDkUFfBMk6diH1zed0ODjUE+McZ8pWfz/LZs9eNAKP/Mel+nOQpRsTlPRgPWBBIVoknXeYs+Bc5ZAEvCQ=="/>
         </item>
     </channel>
 </rss>
