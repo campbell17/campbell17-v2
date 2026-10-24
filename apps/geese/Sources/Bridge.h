@@ -9,3 +9,5 @@ uint32_t GWindowID(AXUIElementRef element);
 NSArray *GApplicationWindows(pid_t pid);
 NSArray *GWindowInventory(void);
 BOOL GPostDesktopStep(BOOL right);
+
+BOOL GWindowIsOrderedOut(uint32_t window);

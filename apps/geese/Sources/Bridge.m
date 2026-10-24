@@ -251,3 +251,10 @@ BOOL GPostDesktopStep(BOOL right) {
     CFRelease(source);
     return created;
 }
+
+BOOL GWindowIsOrderedOut(uint32_t window) {
+    load();
+    uint8_t ordered = 1;
+    return connection && isOrderedIn &&
+        isOrderedIn(connection(), window, &ordered) == kCGErrorSuccess && !ordered;
+}

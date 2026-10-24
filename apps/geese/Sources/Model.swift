@@ -56,7 +56,6 @@ struct RunningApp: Identifiable {
 enum MigrationRules {
     static func skipReason(minimized: Bool, fullscreen: Bool, spaces: [UInt64], userSpaces: Set<UInt64>) -> String? {
         if fullscreen { return "Full screen — leave full screen to move" }
-        if minimized { return "Minimized — restore to move" }
         if spaces.count > 1 { return "On multiple desktops — set Assign To to None" }
         if spaces.isEmpty { return "Desktop unavailable" }
         if !spaces.allSatisfy(userSpaces.contains) { return "Not on a regular desktop" }
@@ -154,6 +153,21 @@ final class GeeseModel: ObservableObject {
         refresh()
     }
 
+    func reopen(_ app: RunningApp) async {
+        guard !busy else { return }
+        guard let url = NSWorkspace.shared.urlForApplication(withBundleIdentifier: app.id) else {
+            issues = ["Couldn’t find \(app.name). Reinstall it or remove it from your flock."]
+            return
+        }
+        issues = []
+        do {
+            _ = try await NSWorkspace.shared.openApplication(at: url, configuration: NSWorkspace.OpenConfiguration())
+        } catch {
+            issues = ["Couldn’t open \(app.name): \(error.localizedDescription)"]
+        }
+        refresh()
+    }
+
     func requestAccess() {
         let options = [kAXTrustedCheckOptionPrompt.takeUnretainedValue() as String: true] as CFDictionary
         _ = AXIsProcessTrustedWithOptions(options)
@@ -204,6 +218,12 @@ final class GeeseModel: ObservableObject {
         return result
     }
 
+    func refreshDesktopList() {
+        guard !busy else { return }
+        trusted = AXIsProcessTrusted()
+        desktops = readDesktops()
+    }
+
     func refresh() {
         guard !busy else { return }
         trusted = AXIsProcessTrusted()
@@ -251,6 +271,12 @@ final class GeeseModel: ObservableObject {
                 let memberships = (GWindowSpaces(windowID) ?? []).map(\.uint64Value)
                 let minimized = attribute(window, kAXMinimizedAttribute) as? Bool ?? false
                 let fullscreen = attribute(window, "AXFullScreen") as? Bool ?? false
+                // Apps can expose inactive helper windows through Accessibility. Only
+                // discard them when WindowServer confirms they are ordered out and
+                // have no desktop; retain hidden, minimized, and off-Space windows.
+                if memberships.isEmpty && !app.isHidden && !minimized && !fullscreen && GWindowIsOrderedOut(windowID) {
+                    continue
+                }
                 result.append(TravelWindow(id: windowID, element: window, appID: id,
                                            appName: app.localizedName ?? id,
                                            title: attribute(window, kAXTitleAttribute) as? String ?? "Window",
@@ -275,14 +301,13 @@ final class GeeseModel: ObservableObject {
     private func windowIsMovable(_ window: TravelWindow) -> Bool {
         if let element = window.element {
             return GWindowID(element) == window.id &&
-                (attribute(element, kAXMinimizedAttribute) as? Bool) == false &&
                 (attribute(element, "AXFullScreen") as? Bool ?? false) == false
         }
         guard let pid = window.ownerPID,
               NSRunningApplication(processIdentifier: pid)?.bundleIdentifier == window.appID else { return false }
         return (GWindowInventory() as? [[String: Any]] ?? []).contains {
             ($0["id"] as? NSNumber)?.uint32Value == window.id &&
-            ($0["pid"] as? NSNumber)?.int32Value == pid && ($0["minimized"] as? Bool) == false
+            ($0["pid"] as? NSNumber)?.int32Value == pid
         }
     }
 
@@ -312,7 +337,7 @@ final class GeeseModel: ObservableObject {
                 issues.append("\(window.appName): desktop changed; skipped.")
                 continue
             }
-            // Recheck identity, minimized, and full screen state immediately before each move.
+            // Recheck identity and full screen state immediately before each move.
             guard windowIsMovable(window) else {
                 failed += 1
                 issues.append("\(window.appName): window changed; skipped.")
@@ -377,6 +402,14 @@ final class GeeseModel: ObservableObject {
     }
 
     private func jumpDirectly(to target: Desktop, activating window: TravelWindow) async -> Bool {
+        // Never raise a minimized window merely to follow the flock.
+        if let element = window.element {
+            guard (attribute(element, kAXMinimizedAttribute) as? Bool) == false else { return false }
+        } else {
+            guard (GWindowInventory() as? [[String: Any]] ?? []).contains(where: {
+                ($0["id"] as? NSNumber)?.uint32Value == window.id && ($0["minimized"] as? Bool) == false
+            }) else { return false }
+        }
         // Let Dock perform its normal switch to an app's window, without changing system preferences.
         guard UserDefaults(suiteName: "com.apple.dock")?.object(forKey: "workspaces-auto-swoosh") as? Bool != false,
               windowIsMovable(window),

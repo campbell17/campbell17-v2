@@ -8,6 +8,13 @@ enum GeeseTheme {
         return NSColor(srgbRed: 27 / 255, green: 20 / 255, blue: 100 / 255, alpha: 1)
     })
     static let orange = Color(red: 247 / 255, green: 147 / 255, blue: 30 / 255)
+    static let chromeColor = NSColor(name: nil) { appearance in
+        appearance.bestMatch(from: [.darkAqua, .aqua]) == .darkAqua
+            ? NSColor(srgbRed: 0.16, green: 0.14, blue: 0.23, alpha: 1)
+            : NSColor(srgbRed: 243 / 255, green: 240 / 255, blue: 248 / 255, alpha: 1)
+    }
+    static let chrome = Color(nsColor: chromeColor)
+    static let separator = accent.opacity(0.12)
 }
 
 struct GeeseView: View {
@@ -43,11 +50,23 @@ struct GeeseView: View {
     }
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 20) {
-            if !model.available {
-                Label("Window controls unavailable", systemImage: "exclamationmark.triangle").foregroundStyle(.orange)
-            }
+        VStack(spacing: 0) {
+            GeeseTheme.separator.frame(height: 1)
+            content
+            GeeseStatusView(model: model)
+        }
+        .frame(minWidth: 900, minHeight: 440)
+        .background(Color(nsColor: .windowBackgroundColor))
+        .tint(GeeseTheme.accent)
+        .alert("Rename desktop", isPresented: Binding(get: { renaming != nil }, set: { if !$0 { renaming = nil } })) {
+            TextField("Name", text: $newName)
+            Button("Save") { if let desktop = renaming { model.rename(desktop, newName) }; renaming = nil }
+            Button("Cancel", role: .cancel) { renaming = nil }
+        }
+    }
 
+    private var content: some View {
+        VStack(alignment: .leading, spacing: 20) {
             VStack(alignment: .leading, spacing: 12) {
                 Text("Fly these geese…").font(.caption.weight(.semibold)).foregroundStyle(.secondary)
                     .frame(maxWidth: .infinity, alignment: .leading)
@@ -78,14 +97,18 @@ struct GeeseView: View {
                         }.frame(height: 280)
                     }.padding(14).frame(width: 280)
                 }
-            }
+            }.padding(.horizontal, 24)
             ScrollView {
                 LazyVGrid(columns: Array(repeating: GridItem(.flexible(), spacing: 12), count: 4), spacing: 12) {
                     ForEach(chosenApps) { app in
-                        ChosenAppCard(app: app) { model.select(app, false) }
+                        ChosenAppCard(app: app, reopen: { await model.reopen(app) }, remove: { model.select(app, false) })
                     }
                 }.padding(.horizontal, 2).padding(.bottom, 2)
-            }.frame(minHeight: 80, maxHeight: .infinity).disabled(model.busy)
+                    .background(CompactScrollIndicators().frame(width: 0, height: 0))
+            }
+            .contentMargins(.horizontal, 24, for: .scrollContent)
+            .contentMargins(.trailing, 0, for: .scrollIndicators)
+            .frame(minHeight: 80, maxHeight: .infinity).disabled(model.busy)
             }
 
             HStack(alignment: .top, spacing: 20) {
@@ -151,23 +174,145 @@ struct GeeseView: View {
             .frame(maxWidth: .infinity, alignment: .leading)
             if model.desktops.isEmpty { Text("No desktops found").foregroundStyle(.secondary) }
                 }.frame(maxWidth: .infinity, alignment: .leading)
-            }.fixedSize(horizontal: false, vertical: true)
+            }.fixedSize(horizontal: false, vertical: true).padding(.horizontal, 24)
+        }
+        .padding(.vertical, 24)
+    }
+}
 
+struct GeeseTitleView: View {
+    @ObservedObject var model: GeeseModel
+
+    var body: some View {
+        HStack(spacing: 7) {
+            if let icon = model.iconStyle.image {
+                Image(nsImage: icon).resizable().scaledToFit()
+                    .frame(width: 23, height: 23).accessibilityHidden(true)
+            }
+            Text("Geese").font(.system(size: 16, weight: .semibold))
+        }
+        .foregroundStyle(GeeseTheme.accent)
+        .frame(width: 132, height: 32)
+        .accessibilityElement(children: .combine)
+    }
+}
+
+private struct GeeseStatusView: View {
+    @ObservedObject var model: GeeseModel
+    @State private var showingSkipped = false
+
+    private var desktop: Desktop? {
+        model.desktops.first { $0.id == model.flockDesktopID }
+    }
+    private var skippedWindows: [TravelWindow] { model.windows.filter { $0.skipReason != nil } }
+    private var skippedSummary: String {
+        if skippedWindows.count == 1, let window = skippedWindows.first, let reason = window.skipReason {
+            return "\(window.appName): \(reason.components(separatedBy: " — ").first ?? reason)"
+        }
+        return "\(skippedWindows.count) windows won’t move"
+    }
+    private var warning: String? {
+        if !model.available { return "Window controls unavailable." }
+        if !model.trusted { return "Allow Accessibility access to move apps." }
+        if !model.issues.isEmpty { return model.issues.joined(separator: "\n") }
+        return nil
+    }
+    private var status: String {
+        if model.busy { return model.message }
+        if let warning { return warning }
+        if model.selected.isEmpty { return "Choose apps for your flock." }
+        if model.traveling.isEmpty {
+            return !skippedWindows.isEmpty ? "No movable windows."
+                : "Open a window in your flock to get started."
+        }
+        if let desktop { return "Your flock is on \(model.name(desktop))." }
+        return "Your flock is across \(model.distribution.count) desktops."
+    }
+
+    var body: some View {
+        HStack(spacing: 8) {
             if model.busy {
-                HStack { ProgressView().controlSize(.small); Text(model.message).font(.callout).foregroundStyle(.secondary) }
-            } else if !model.issues.isEmpty {
-                Text(model.issues.joined(separator: "\n")).font(.callout).foregroundStyle(.orange).textSelection(.enabled)
-            } else if model.hasSkippedWindows {
-                Text(model.message).font(.caption).foregroundStyle(.secondary)
+                ProgressView().controlSize(.mini).frame(width: 10, height: 10)
+            } else if warning != nil {
+                Image(systemName: "exclamationmark.circle").foregroundStyle(.orange)
+                    .accessibilityHidden(true)
+            } else {
+                Circle().fill(desktop != nil ? Color(red: 0.40, green: 0.64, blue: 0.47) : GeeseTheme.accent.opacity(0.45))
+                    .frame(width: 6, height: 6).accessibilityHidden(true)
+            }
+            Text(status).font(.caption)
+                .foregroundStyle(!model.busy && warning != nil ? Color.orange : GeeseTheme.accent.opacity(0.65))
+                .fixedSize(horizontal: false, vertical: true).textSelection(.enabled)
+            Spacer(minLength: 16)
+            if !model.busy && warning == nil {
+                if !skippedWindows.isEmpty {
+                    Button { showingSkipped.toggle() } label: {
+                        Label(skippedSummary, systemImage: "info.circle")
+                            .font(.caption).lineLimit(1).truncationMode(.middle)
+                            .foregroundStyle(GeeseTheme.accent.opacity(0.7))
+                    }
+                    .buttonStyle(.plain).pointingCursor()
+                    .help("Show which windows won’t move and why")
+                    .popover(isPresented: $showingSkipped, arrowEdge: .top) {
+                        VStack(alignment: .leading, spacing: 14) {
+                            Text("Windows not moving").font(.headline)
+                            ScrollView {
+                                VStack(alignment: .leading, spacing: 14) {
+                                    ForEach(skippedWindows) { window in
+                                        VStack(alignment: .leading, spacing: 4) {
+                                            Text(window.appName).font(.callout.weight(.semibold))
+                                            Text(window.skipReason ?? "").font(.callout).foregroundStyle(.secondary)
+                                                .fixedSize(horizontal: false, vertical: true)
+                                        }
+                                    }
+                                }.frame(maxWidth: .infinity, alignment: .leading)
+                            }.frame(maxHeight: min(280, CGFloat(skippedWindows.count) * 78))
+                        }.padding(18).frame(width: 320)
+                    }
+                } else if desktop != nil {
+                    Text("All together now.").font(.caption2)
+                        .foregroundStyle(GeeseTheme.accent.opacity(0.45))
+                }
             }
         }
-        .padding(24).frame(minWidth: 900, minHeight: 440)
-        .background(Color(nsColor: .windowBackgroundColor))
-        .tint(GeeseTheme.accent)
-        .alert("Rename desktop", isPresented: Binding(get: { renaming != nil }, set: { if !$0 { renaming = nil } })) {
-            TextField("Name", text: $newName)
-            Button("Save") { if let desktop = renaming { model.rename(desktop, newName) }; renaming = nil }
-            Button("Cancel", role: .cancel) { renaming = nil }
+        .padding(.horizontal, 24).padding(.vertical, 12)
+        .frame(maxWidth: .infinity, minHeight: 42, alignment: .leading)
+        .background(GeeseTheme.chrome)
+        .overlay(alignment: .top) { GeeseTheme.separator.frame(height: 1) }
+        .accessibilityElement(children: .contain)
+    }
+}
+
+private struct CompactScrollIndicators: NSViewRepresentable {
+    func makeNSView(context: Context) -> Configurator { Configurator() }
+    func updateNSView(_ view: Configurator, context: Context) { view.configure() }
+
+    final class Configurator: NSView {
+        private weak var configuredScrollView: NSScrollView?
+        private var styleObservation: NSKeyValueObservation?
+
+        override func viewDidMoveToWindow() {
+            super.viewDidMoveToWindow()
+            configure()
+        }
+        override func viewDidMoveToSuperview() {
+            super.viewDidMoveToSuperview()
+            configure()
+        }
+        func configure() {
+            DispatchQueue.main.async { [weak self] in
+                guard let self, let scrollView = enclosingScrollView else { return }
+                if configuredScrollView !== scrollView {
+                    configuredScrollView = scrollView
+                    // SwiftUI reapplies the system style during layout updates.
+                    styleObservation = scrollView.observe(\.scrollerStyle, options: [.new]) { [weak self] _, change in
+                        if change.newValue != .overlay { self?.configure() }
+                    }
+                }
+                if scrollView.scrollerStyle != .overlay { scrollView.scrollerStyle = .overlay }
+                scrollView.verticalScroller?.controlSize = .small
+                scrollView.drawsBackground = false
+            }
         }
     }
 }
@@ -175,6 +320,8 @@ struct GeeseView: View {
 struct GeeseSettingsView: View {
     @ObservedObject var model: GeeseModel
     @ObservedObject var updates: GeeseUpdates
+    @ObservedObject var shortcuts: ShortcutPreferences
+    var changeShortcut: () -> Void
 
     var body: some View {
         Menu {
@@ -193,15 +340,16 @@ struct GeeseSettingsView: View {
             Button("Check for Updates…") { updates.check() }.disabled(!updates.canCheck)
             Divider()
             Text(GeeseUpdates.versionDescription)
-            Text("⌃⌥⌘G")
+            Button("Keyboard Shortcut… (\(shortcuts.shortcut.label))", action: changeShortcut)
             Button("Quit Geese") { NSApp.terminate(nil) }.keyboardShortcut("q")
         } label: {
-            Image(systemName: "gearshape").font(.system(size: 15)).frame(width: 28, height: 24)
+            Image(systemName: "gearshape").font(.system(size: 16, weight: .regular)).frame(width: 28, height: 28)
         }
         .menuStyle(.borderlessButton)
         .menuIndicator(.hidden)
         .fixedSize()
         .accessibilityLabel("Geese settings")
+        .help("Settings")
         .tint(GeeseTheme.accent)
         .pointingCursor()
     }
@@ -218,13 +366,36 @@ private struct AppIcon: View {
 
 private struct ChosenAppCard: View {
     let app: RunningApp
+    let reopen: () async -> Void
+    @State private var opening = false
     let remove: () -> Void
     @State private var hovered = false
     @FocusState private var removeFocused: Bool
     var body: some View {
         VStack(spacing: 10) {
-            AppIcon(icon: app.icon, size: 36)
+            if app.running == nil {
+                Text("App closed").font(.caption).foregroundStyle(.secondary)
+            } else {
+                AppIcon(icon: app.icon, size: 36)
+            }
             Text(app.name).fontWeight(.medium).lineLimit(2).multilineTextAlignment(.center)
+            if app.running == nil {
+                Button {
+                    opening = true
+                    Task {
+                        await reopen()
+                        opening = false
+                    }
+                } label: {
+                    Text(opening ? "Opening…" : "Reopen")
+                        .font(.caption.weight(.medium))
+                        .padding(.horizontal, 12).padding(.vertical, 4)
+                        .background(GeeseTheme.accent.opacity(0.09), in: Capsule())
+                }
+                .buttonStyle(.plain).foregroundStyle(GeeseTheme.accent)
+                .disabled(opening).pointingCursor(enabled: !opening)
+                .accessibilityLabel("Reopen \(app.name)")
+            }
         }
         .frame(maxWidth: .infinity, minHeight: 96)
         .padding(12)
@@ -241,12 +412,6 @@ private struct ChosenAppCard: View {
             .accessibilityLabel("Remove \(app.name)")
             .pointingCursor()
             .padding(5)
-        }
-        .overlay(alignment: .bottomLeading) {
-            if app.running == nil {
-                Image(systemName: "moon").font(.caption).foregroundStyle(.secondary)
-                    .accessibilityLabel("Not running").padding(10)
-            }
         }
         .accessibilityElement(children: .contain)
         .onHover { hovered = $0 }

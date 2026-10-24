@@ -3,6 +3,16 @@
     <channel>
         <title>Geese</title>
         <item>
+            <title>0.6.0</title>
+            <description>Custom keyboard shortcuts; refreshed header, footer, and scrollbar; reopen closed apps; move minimized windows; desktop destinations in the menu bar; and fewer incorrect window warnings.</description>
+            <pubDate>Sat, 24 Oct 2026 10:21:08 -0400</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://www.campbell17.com/apps/geese/Geese-12.zip" length="1851620" type="application/octet-stream" sparkle:edSignature="8QB1xYWl8DFWVl9s5ytY74nj6QugiqaU31KK9ATZDazJqNZdZT4hFHXKn0xsyHriZKPacfX6Fc08gFnDFggdAw=="/>
+        </item>
+        <item>
             <title>0.5.5</title>
             <pubDate>Fri, 23 Oct 2026 08:43:18 -0400</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -19,15 +29,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://www.campbell17.com/apps/geese/Geese-7.zip" length="1547506" type="application/octet-stream" sparkle:edSignature="iSjl3MKYBTyg6RBw4Shs84upSZy/h1Eyz6b9GmAq0UZT/rb1P1Jbq4L0LxoBskFxp/vmEAQGmnv5RXw8AiowDw=="/>
-        </item>
-        <item>
-            <title>0.5.0</title>
-            <pubDate>Wed, 21 Oct 2026 13:04:21 -0400</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://www.campbell17.com/apps/geese/Geese-6.zip" length="1547587" type="application/octet-stream" sparkle:edSignature="qNQKKytN0WywEZnqIT4ha17h6LLiDE+a5wA9fdM71WUyq32zsAUnHFLaM0JeVAPaWIHsDQUWVcgaArRjmXvHBA=="/>
         </item>
     </channel>
 </rss>

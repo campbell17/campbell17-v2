@@ -34,14 +34,17 @@ final class GeeseWindow: NSWindow {
 }
 
 @MainActor
-final class AppDelegate: NSObject, NSApplicationDelegate {
+final class AppDelegate: NSObject, NSApplicationDelegate, NSToolbarDelegate, NSMenuDelegate {
     private var status: NSStatusItem!
     private var panel: GeeseWindow!
     private var hotKey: EventHotKeyRef?
+    private let shortcuts = ShortcutPreferences()
     private var eventHandler: EventHandlerRef?
     private var model: GeeseModel!
     private var permissionObserver: AnyCancellable?
     private let updates = GeeseUpdates()
+    private let titleItemID = NSToolbarItem.Identifier("GeeseTitle")
+    private let settingsItemID = NSToolbarItem.Identifier("GeeseSettings")
 
     func applicationDidFinishLaunching(_ notification: Notification) {
         let menu = NSMenu()
@@ -65,8 +68,10 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
         panel = GeeseWindow(contentRect: NSRect(x: 0, y: 0, width: 940, height: 720),
                            styleMask: [.titled, .closable, .resizable], backing: .buffered, defer: false)
         panel.title = "Geese"
-        panel.titleVisibility = .visible
+        panel.titleVisibility = .hidden
         panel.titlebarAppearsTransparent = true
+        panel.backgroundColor = GeeseTheme.chromeColor
+        panel.toolbarStyle = .unified
         panel.isMovableByWindowBackground = true
         panel.isReleasedWhenClosed = false
         panel.hidesOnDeactivate = false
@@ -79,13 +84,16 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
             self?.panel.bringToFrontAfterMigration()
         }
         panel.contentView = GeeseHostingView(rootView: GeeseView(model: model))
-        let settings = NSTitlebarAccessoryViewController()
-        settings.layoutAttribute = .right
-        let settingsView = NSHostingView(rootView: GeeseSettingsView(model: model, updates: updates))
-        settingsView.frame = NSRect(x: 0, y: 0, width: 40, height: 28)
-        settings.view = settingsView
-        panel.addTitlebarAccessoryViewController(settings)
-        panel.minSize = NSSize(width: 900, height: 470)
+        let toolbar = NSToolbar(identifier: "GeeseToolbar")
+        toolbar.delegate = self
+        toolbar.displayMode = .iconOnly
+        toolbar.allowsUserCustomization = false
+        toolbar.autosavesConfiguration = false
+        toolbar.showsBaselineSeparator = false
+        toolbar.centeredItemIdentifiers = [titleItemID]
+        if #available(macOS 15.0, *) { toolbar.allowsDisplayModeCustomization = false }
+        panel.toolbar = toolbar
+        panel.contentMinSize = NSSize(width: 900, height: 440)
         let frameName = "GeeseMainWindow"
         panel.setFrameAutosaveName(frameName)
         if !panel.setFrameUsingName(frameName) { panel.center() }
@@ -98,7 +106,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
         status.button?.target = self
         status.button?.action = #selector(statusClicked(_:))
         status.button?.sendAction(on: [.leftMouseUp, .rightMouseUp])
-        status.button?.toolTip = "Geese · ⌃⌥⌘G"
+        status.button?.toolTip = "Geese · \(shortcuts.shortcut.label)"
         installHotKey()
         updates.start()
         show()
@@ -106,6 +114,32 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
             UserDefaults.standard.set(true, forKey: "requestedPersistentSigningAccess")
             model.requestAccess()
         }
+    }
+
+    func toolbarDefaultItemIdentifiers(_ toolbar: NSToolbar) -> [NSToolbarItem.Identifier] {
+        [.flexibleSpace, titleItemID, .flexibleSpace, settingsItemID]
+    }
+
+    func toolbarAllowedItemIdentifiers(_ toolbar: NSToolbar) -> [NSToolbarItem.Identifier] {
+        toolbarDefaultItemIdentifiers(toolbar)
+    }
+
+    func toolbar(_ toolbar: NSToolbar, itemForItemIdentifier identifier: NSToolbarItem.Identifier,
+                 willBeInsertedIntoToolbar flag: Bool) -> NSToolbarItem? {
+        let item = NSToolbarItem(itemIdentifier: identifier)
+        item.isBordered = false
+        if identifier == titleItemID {
+            item.label = "Geese"
+            let titleView = GeeseHostingView(rootView: GeeseTitleView(model: model))
+            titleView.frame = NSRect(x: 0, y: 0, width: 132, height: 32)
+            item.view = titleView
+        } else if identifier == settingsItemID {
+            item.label = "Settings"
+            let settingsView = NSHostingView(rootView: GeeseSettingsView(model: model, updates: updates, shortcuts: shortcuts, changeShortcut: { [weak self] in self?.editShortcut() }))
+            settingsView.frame = NSRect(x: 0, y: 0, width: 36, height: 32)
+            item.view = settingsView
+        } else { return nil }
+        return item
     }
 
     private func installHotKey() {
@@ -117,10 +151,70 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
             return noErr
         }, 1, &spec, Unmanaged.passUnretained(self).toOpaque(), &eventHandler)
         guard result == noErr else { model.message = "Could not register the shortcut. Use the menu bar icon."; return }
+        if !registerShortcut(shortcuts.shortcut) {
+            model.message = "\(shortcuts.shortcut.label) is unavailable. Choose another shortcut in Settings."
+        }
+    }
+
+    private func registerShortcut(_ shortcut: GeeseShortcut) -> Bool {
         let identifier = EventHotKeyID(signature: 0x47454553, id: 1)
-        let registration = RegisterEventHotKey(UInt32(kVK_ANSI_G), UInt32(controlKey | optionKey | cmdKey), identifier,
-                                               GetApplicationEventTarget(), 0, &hotKey)
-        if registration != noErr { model.message = "⌃⌥⌘G is unavailable. Use the menu bar icon." }
+        return RegisterEventHotKey(shortcut.keyCode, shortcut.modifiers, identifier,
+                                  GetApplicationEventTarget(), 0, &hotKey) == noErr
+    }
+
+    @objc private func editShortcut() {
+        if let hotKey { UnregisterEventHotKey(hotKey); self.hotKey = nil }
+        defer {
+            if hotKey == nil && !registerShortcut(shortcuts.shortcut) {
+                model.message = "Shortcut unavailable. Choose another shortcut in Settings."
+            }
+            status.button?.toolTip = "Geese · \(shortcuts.shortcut.label)"
+        }
+        NSApp.activate(ignoringOtherApps: true)
+        let alert = NSAlert()
+        alert.messageText = "Keyboard Shortcut"
+        alert.informativeText = "Click the field, then press your shortcut to show or hide Geese."
+        alert.addButton(withTitle: "Save")
+        alert.addButton(withTitle: "Cancel")
+        alert.addButton(withTitle: "Reset to Default")
+        let field = ShortcutRecordButton(frame: NSRect(x: 0, y: 0, width: 300, height: 36))
+        var candidate = shortcuts.shortcut
+        field.title = candidate.label
+        field.onStart = { alert.buttons[0].isEnabled = false }
+        alert.accessoryView = field
+        let monitor = NSEvent.addLocalMonitorForEvents(matching: .keyDown) { event in
+            guard field.recording else { return event }
+            if event.keyCode == 53 && event.modifierFlags.intersection([.command, .control, .option, .shift]).isEmpty {
+                field.recording = false
+                field.title = candidate.label
+                alert.buttons[0].isEnabled = true
+                return nil
+            }
+            guard let value = GeeseShortcut(event: event) else {
+                alert.informativeText = "Include Command, Control, or Option in your shortcut."
+                return nil
+            }
+            candidate = value
+            field.title = value.label
+            field.recording = false
+            alert.buttons[0].isEnabled = true
+            alert.informativeText = "Click Save to use this shortcut."
+            return nil
+        }
+        defer { if let monitor { NSEvent.removeMonitor(monitor) } }
+        while true {
+            let response = alert.runModal()
+            if response == .alertSecondButtonReturn { return }
+            if response == .alertThirdButtonReturn { candidate = .standard }
+            field.recording = false
+            field.title = candidate.label
+            alert.buttons[0].isEnabled = true
+            if registerShortcut(candidate) {
+                shortcuts.save(candidate)
+                return
+            }
+            alert.informativeText = "That shortcut is unavailable. Click the field and try another combination."
+        }
     }
 
     @objc func toggle() {
@@ -131,7 +225,33 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
     @objc private func statusClicked(_ sender: NSStatusBarButton) {
         let event = NSApp.currentEvent
         if event?.type == .rightMouseUp || event?.modifierFlags.contains(.control) == true {
+            if !model.busy { model.refreshDesktopList() }
             let menu = NSMenu()
+            menu.autoenablesItems = false
+            let heading = menu.addItem(withTitle: "Fly to this pond", action: nil, keyEquivalent: "")
+            heading.isEnabled = false
+            let displayIDs = model.desktops.reduce(into: [String]()) { result, desktop in
+                if !result.contains(desktop.display) { result.append(desktop.display) }
+            }
+            for display in displayIDs {
+                if displayIDs.count > 1 {
+                    let label = menu.addItem(withTitle: model.displayName(display), action: nil, keyEquivalent: "")
+                    label.isEnabled = false
+                }
+                for desktop in model.desktops where desktop.display == display {
+                    let item = menu.addItem(withTitle: model.name(desktop), action: #selector(moveFromMenu(_:)), keyEquivalent: "")
+                    item.target = self
+                    item.representedObject = NSNumber(value: desktop.id)
+                    item.indentationLevel = displayIDs.count > 1 ? 1 : 0
+                    item.state = model.flockDesktopID == desktop.id ? .on : .off
+                    item.isEnabled = !model.busy && model.available && model.trusted && model.flockDesktopID != desktop.id
+                }
+            }
+            if model.desktops.isEmpty {
+                let empty = menu.addItem(withTitle: "No desktops found", action: nil, keyEquivalent: "")
+                empty.isEnabled = false
+            }
+            menu.addItem(.separator())
             let pin = menu.addItem(withTitle: "Pin window", action: #selector(togglePin), keyEquivalent: "")
             pin.target = self
             pin.state = model.pinned ? .on : .off
@@ -158,13 +278,35 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
             menu.addItem(.separator())
             let version = menu.addItem(withTitle: GeeseUpdates.versionDescription, action: nil, keyEquivalent: "")
             version.isEnabled = false
-            let shortcut = menu.addItem(withTitle: "⌃⌥⌘G", action: nil, keyEquivalent: "")
-            shortcut.isEnabled = false
+            let shortcut = menu.addItem(withTitle: "Keyboard Shortcut… (\(shortcuts.shortcut.label))", action: #selector(editShortcut), keyEquivalent: "")
+            shortcut.target = self
             let quit = menu.addItem(withTitle: "Quit Geese", action: #selector(NSApplication.terminate(_:)), keyEquivalent: "q")
             quit.target = NSApp
-            menu.popUp(positioning: nil, at: NSPoint(x: sender.bounds.minX, y: sender.bounds.minY), in: sender)
+            // Let the status bar anchor and size its menu below the menu bar.
+            // A contextual popup anchors to an item and can begin scrolled.
+            menu.delegate = self
+            status.menu = menu
+            sender.performClick(nil)
         } else {
             toggle()
+        }
+    }
+
+    func menuDidClose(_ menu: NSMenu) {
+        if status.menu === menu { status.menu = nil }
+    }
+
+    @objc private func moveFromMenu(_ sender: NSMenuItem) {
+        guard !model.busy, let id = sender.representedObject as? NSNumber else { return }
+        model.refreshDesktopList()
+        guard let desktop = model.desktops.first(where: { $0.id == id.uint64Value }) else {
+            model.issues = ["That desktop is no longer available."]
+            show()
+            return
+        }
+        Task { @MainActor in
+            await model.migrate(to: desktop)
+            if !model.issues.isEmpty { show() }
         }
     }
 
@@ -214,6 +356,16 @@ if CommandLine.arguments.contains("--diagnose") {
         let spaces = display["Spaces"] as? [[String: Any]] ?? []
         let desktops = spaces.filter { ($0["type"] as? NSNumber)?.intValue == 0 }
         print("Display \(index + 1): \(desktops.count) regular desktops, \(spaces.count - desktops.count) full-screen spaces")
+    }
+    if AXIsProcessTrusted() {
+        MainActor.assumeIsolated {
+            let model = GeeseModel()
+            let skipped = model.windows.filter { $0.skipReason != nil }
+            print("Selected windows: \(model.windows.count); skipped: \(skipped.count)")
+            for window in skipped {
+                if let reason = window.skipReason { print("\(window.appName): \(reason)") }
+            }
+        }
     }
     exit(GAvailable() && !displays.isEmpty ? 0 : 1)
 }
@@ -324,6 +476,7 @@ if CommandLine.arguments.contains("--integration-test") {
         let test = NSWindow(contentRect: NSRect(x: 120, y: 140, width: 260, height: 120),
                             styleMask: [.titled], backing: .buffered, defer: false)
         test.title = "Geese movement test"
+        test.styleMask.insert(.miniaturizable)
         let fixed = NSWindow(contentRect: NSRect(x: 160, y: 180, width: 260, height: 120),
                              styleMask: [.titled], backing: .buffered, defer: false)
         fixed.title = "Geese stationary test"
@@ -332,6 +485,8 @@ if CommandLine.arguments.contains("--integration-test") {
         test.orderFront(nil)
         fixed.orderFront(nil)
         wait()
+        let testMinimized = CommandLine.arguments.contains("--minimized")
+        if testMinimized { test.miniaturize(nil); wait(); wait() }
         let id = UInt32(test.windowNumber)
         let fixedID = UInt32(fixed.windowNumber)
         let origin = (GWindowSpaces(id) ?? []).map(\.uint64Value)
@@ -349,8 +504,10 @@ if CommandLine.arguments.contains("--integration-test") {
         let restore = GMove(id, origin[0])
         wait()
         let restored = (GWindowSpaces(id) ?? []).map(\.uint64Value) == origin
+        let minimizedPreserved = !testMinimized || test.isMiniaturized
+        print("Minimized state preserved: \(minimizedPreserved)")
         test.close(); fixed.close()
-        let passed = after == [target.id] && fixedAfter == fixedOrigin && framePreserved && restored
+        let passed = minimizedPreserved && after == [target.id] && fixedAfter == fixedOrigin && framePreserved && restored
         print("Move return code: \(error.rawValue); restore return code: \(restore.rawValue)")
         print("Moved to requested desktop: \(after == [target.id])")
         print("Other window stayed: \(fixedAfter == fixedOrigin)")
@@ -367,7 +524,7 @@ if CommandLine.arguments.contains("--self-test") {
     }
     let userSpaces: Set<UInt64> = [1, 2, 3]
     check(MigrationRules.skipReason(minimized: false, fullscreen: false, spaces: [2], userSpaces: userSpaces) == nil, "regular window can move")
-    check(MigrationRules.skipReason(minimized: true, fullscreen: false, spaces: [2], userSpaces: userSpaces) != nil, "minimized window skipped")
+    check(MigrationRules.skipReason(minimized: true, fullscreen: false, spaces: [2], userSpaces: userSpaces) == nil, "minimized window can move")
     check(MigrationRules.skipReason(minimized: false, fullscreen: true, spaces: [9], userSpaces: userSpaces) != nil, "full-screen window skipped")
     check(MigrationRules.skipReason(minimized: false, fullscreen: false, spaces: [1, 2], userSpaces: userSpaces) != nil, "all-desktops window skipped")
     check(MigrationRules.skipReason(minimized: false, fullscreen: false, spaces: [], userSpaces: userSpaces) != nil, "unknown desktop skipped")

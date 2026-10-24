@@ -59,7 +59,7 @@ def prepare(site):
     vendor = source / 'Vendor.noindex/Sparkle'
     vendor.mkdir(parents=True, exist_ok=True)
     for name in ['Sparkle.framework', 'bin']:
-        shutil.copytree(ROOT / 'Vendor.noindex/Sparkle' / name, vendor / name, dirs_exist_ok=True, symlinks=True)
+        run('ditto', ROOT / 'Vendor.noindex/Sparkle' / name, vendor / name)
     for name in ['LICENSE', 'INSTALL', 'CHANGELOG']:
         shutil.copy2(ROOT / 'Vendor.noindex/Sparkle' / name, vendor / name)
     print(f'Prepared build {number}. Download after publication: {URL}install/Geese.dmg', flush=True)

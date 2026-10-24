@@ -29,8 +29,8 @@ if CommandLine.arguments.contains("--fixture") {
         model.refresh()
         let space = UInt64(CommandLine.arguments.last!)!
         do {
-            try require(model.traveling.count == 2 && model.flockDesktopID == space,
-                        "fresh process discovers both off-desktop windows and their actual desktop")
+            try require(model.traveling.count == 3 && model.flockDesktopID == space,
+                        "fresh process discovers all off-desktop windows and their actual desktop")
             exit(0)
         } catch { print(error); exit(1) }
     }
@@ -77,9 +77,9 @@ if CommandLine.arguments.contains("--fixture") {
                 throw NSError(domain: "Fixture movement", code: 1)
             }
             do {
-                let minimizedOrigin = memberships(selected.1[2])
                 try await move(selected.1[0], to: distant.id)
                 try await move(selected.1[1], to: distant.id)
+                try await move(selected.1[2], to: distant.id)
                 try await move(unselected.1[0], to: distant.id)
                 let cold = Process()
                 cold.executableURL = URL(fileURLWithPath: CommandLine.arguments[0])
@@ -88,20 +88,21 @@ if CommandLine.arguments.contains("--fixture") {
                 try require(cold.terminationStatus == 0, "cold-start discovery succeeds without visiting the source desktop")
                 model.selected = ["local.tim.geese.off-desktop-fixture"]
                 model.refresh()
-                try require(model.flockDesktopID == distant.id && model.traveling.count == 2,
+                try require(model.flockDesktopID == distant.id && model.traveling.count == 3,
                             "opening on another desktop preserves the flock location")
                 let before = model.spaceChangeSerial
                 await model.migrate(to: source)
-                try require(model.issues.isEmpty && selected.1.prefix(2).allSatisfy { memberships($0) == [source.id] },
-                            "bring-here moves both windows from the distant desktop")
+                try require(model.issues.isEmpty && selected.1.allSatisfy { memberships($0) == [source.id] },
+                            "bring-here moves all windows from the distant desktop")
                 try require(model.flockDesktopID == source.id, "destination becomes the selected desktop")
                 try await move(selected.1[0], to: distant.id)
                 try await move(selected.1[1], to: split.id)
+                try await move(selected.1[2], to: distant.id)
                 model.refresh()
                 try require(model.distribution.count == 2 && model.flockDesktopID == nil,
                             "windows split across desktops are all discovered")
                 await model.migrate(to: source)
-                try require(selected.1.prefix(2).allSatisfy { memberships($0) == [source.id] },
+                try require(selected.1.allSatisfy { memberships($0) == [source.id] },
                             "one migration gathers windows from multiple desktops")
                 if let otherDisplay = model.desktops.first(where: { $0.display != source.display }) {
                     try await move(selected.1[1], to: otherDisplay.id)
@@ -119,7 +120,11 @@ if CommandLine.arguments.contains("--fixture") {
                     try require(!model.windows.contains(where: { $0.id == selected.1[0] }), "closed windows are removed from the discovery cache")
                 }
                 try require(memberships(unselected.1[0]) == [distant.id], "unselected app windows stay untouched")
-                try require(memberships(selected.1[2]) == minimizedOrigin, "minimized windows stay untouched")
+                try require(memberships(selected.1[2]) == [source.id], "minimized windows move with the flock")
+                let minimized = model.windows.first { $0.id == selected.1[2] }
+                if let element = minimized?.element {
+                    try require(attribute(element, kAXMinimizedAttribute) as? Bool == true, "moved window remains minimized")
+                }
                 try require(model.spaceChangeSerial == before, "bring-here never switches the user's desktop")
                 success = true
             } catch { print("FAIL: \(error)") }

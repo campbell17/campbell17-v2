@@ -1,4 +1,4 @@
-Geese — version 0.5.5
+Geese — version 0.6.0
 
 USE
 
@@ -18,7 +18,8 @@ That destination is disabled. Other monitors’ visible desktops remain
 available, and a split flock leaves all destinations available. Use the smaller named display tiles beside the desktops for another monitor. Right-click a desktop
 to rename its label inside Geese.
 
-Control-Option-Command-G shows or hides Geese. Left-clicking the menu bar
+Control-Option-Command-G shows or hides Geese by default. Choose Keyboard Shortcut
+in either settings menu to record and save your own combination, or reset the default. Left-clicking the menu bar
 bird also toggles the window; right-click or Control-click opens its settings. Escape hides it.
 Pin window, Follow windows, Refresh, Accessibility Settings, and Quit are in
 the title-bar settings cog menu. Check for Updates is also available there
@@ -31,8 +32,8 @@ open. Closing it, pressing Escape, or toggling it closed removes that entry. The
 Geese remembers the main window’s size and position when you close and reopen it,
 including after quitting and restarting the app.
 
-Minimized, full-screen, and multi-desktop windows are skipped. Restore them
-or leave full screen to include them. Set Dock > Options > Assign To > None
+Minimized windows move with the flock and stay minimized. Full-screen and
+multi-desktop windows are skipped. Leave full screen to include them. Set Dock > Options > Assign To > None
 for apps you want to move freely. Closed apps are remembered but not launched.
 Failed moves are reported; successful moves are not rolled back.
 
@@ -187,12 +188,26 @@ A flock on the other display determines the initial display selection.
 
 Run Tests/off-desktop.sh after ./build.sh to test fresh-process discovery,
 bring-here movement, gathering windows from several desktops and monitors,
-closed-window removal, and skipping minimized/unselected windows. It creates
+closed-window removal, and moving minimized windows while leaving unselected windows untouched. It creates
 and removes only its own fixture windows and keeps the current desktop.
 
 Version 0.5.5 replaces dark, light, and menu artwork with the October 23
 SVG exports. Both menu and desktop flock markers use the new silhouette.
 The existing app icon preference is retained.
+
+VERSION 0.6.0 — HEADER AND FOOTER
+
+The main window uses a tinted native toolbar with the selected app icon and
+Geese title centered, native window controls, and a system settings gear.
+A matching full-width footer shows the flock's actual desktop, split flock,
+movement progress, or errors. A skipped window shows its app and reason;
+click the footer notice for the full list and instructions. "All together
+now." appears only when all movable windows are
+on one desktop and no windows are skipped. The tint adapts to dark mode.
+The app grid uses a compact native overlay scrollbar on the window's right
+edge, with its card padding applied only to the scroll content. The scrollbar
+fades when idle. --diagnose includes app names and reasons for skipped
+windows, without printing window titles or moving anything.
 
 SOURCE IN GIT
 
@@ -201,3 +216,9 @@ It includes the required Sparkle framework, tools, and license. Run ./build.sh
 from that directory. Debug symbols and Sparkle’s sample application are not
 needed to build and are excluded. Build output and local backups are ignored.
 Signing keys and the private signing keychain remain outside the repository.
+
+Version 0.6.0 also adds a Reopen button for closed apps, moves minimized windows
+without restoring them, ignores inactive Claude helper windows, and adds desktop
+destinations to the right-click menu. That menu opens using native status-bar
+positioning and refreshes desktop data without a blocking full window scan.
+Custom keyboard shortcuts persist across launches and updates.
