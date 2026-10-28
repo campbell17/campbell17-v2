@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>0.4.3</title>
+      <pubDate>Wed, 28 Oct 2026 06:18:30 -0400</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://www.campbell17.com/apps/ice-watch/IceWatch-14.zip" length="1536791" type="application/octet-stream" sparkle:edSignature="kF1X7Nsu4vdmNtukDsUPFg1DCboq0JCQAFcpCM5ljGcilq5I+QRr2CtuSBHezzLVzAmUdrhhfBzITRRW2GO7CA==" />
+      <description>Ice Watch 0.4.3
+
+- Local offers now show a nearby store address and distance, with a 10-mile search radius.
+- Purchase minimums appear beneath the main price. Multipack prices are calculated per bottle.
+- View deal sits beside the price; the alert-price control is now in Preferences.
+- Sale dates are visible, header icons are smaller, and the price list has less bottom spacing with no trailing divider.
+</description>
+    </item>
+    <item>
       <title>0.4.2</title>
       <pubDate>Mon, 26 Oct 2026 15:42:05 -0400</pubDate>
       <sparkle:version>13</sparkle:version>
