@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>0.4.8</title>
+      <pubDate>Wed, 28 Oct 2026 12:08:50 -0400</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://www.campbell17.com/apps/ice-watch/IceWatch-19.zip" length="1604322" type="application/octet-stream" sparkle:edSignature="gfOw4ntF+D6aONVNoxGIQEOqes5MlZjhqCwsyRzh0wyHVWcQlfIMAMYSM8ACVF+R+Pm0vHKPYBMX19iZhSOPDg==" />
+      <description>Ice Watch 0.4.8
+
+- Restored local sale ads when the original Sparkling Ice product is entered by URL or selected from history.
+- Repairs saved entries that had lost local-store support.
+- Recognizes the 12-bottle pack and refreshes local offers immediately when switching back.
+</description>
+    </item>
+    <item>
       <title>0.4.7</title>
       <pubDate>Wed, 28 Oct 2026 11:09:50 -0400</pubDate>
       <sparkle:version>18</sparkle:version>
