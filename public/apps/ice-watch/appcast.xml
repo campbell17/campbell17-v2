@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>0.4.5</title>
+      <pubDate>Wed, 28 Oct 2026 10:11:22 -0400</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://www.campbell17.com/apps/ice-watch/IceWatch-16.zip" length="1603241" type="application/octet-stream" sparkle:edSignature="aABLd/uB/r3L+f7gN7jjU0JNwmvzTjoRYYeRiMkeDemK/PkpaW8KdYmGO7YbJEQC/wN8D2yYqfQl5ISmAk2qDA==" />
+      <description>Ice Watch 0.4.5
+
+- Preferences opens inside the existing panel, with a Back button and no sheet animation.
+- Product history appears as a table at the bottom of Preferences, with hover highlights and Watch actions.
+- Keeps the 20 most recent products. Switching back checks the current price and uses it as the alert target.
+</description>
+    </item>
+    <item>
       <title>0.4.4</title>
       <pubDate>Wed, 28 Oct 2026 09:05:57 -0400</pubDate>
       <sparkle:version>15</sparkle:version>
