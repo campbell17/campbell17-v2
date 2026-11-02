@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Allocation updates</title>
+    <item>
+      <title>1.2.0</title>
+      <pubDate>Mon, 02 Nov 2026 11:09:42 -0500</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://www.campbell17.com/apps/allocation/Allocation-9.zip" length="4254162" type="application/octet-stream" sparkle:edSignature="rknHsHk9rZ7A9bgmdIdVx12uDlMEXYirMZDNb1L9dEcgV55uI1bg6SGaWDbIdYaRIWfv6jlrAEOV0ixKcNS9BA==" />
+      <description>Allocation 1.2.0 adds automatic update checks, a Check for Updates button, and a signed, Apple-notarized installer. Your allocation amounts, percentages, window position, pin setting, and appearance are preserved.
+</description>
+    </item>
+  </channel>
+</rss>
