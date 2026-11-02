@@ -3,6 +3,17 @@
   <channel>
     <title>Allocation updates</title>
     <item>
+      <title>1.2.1</title>
+      <pubDate>Mon, 02 Nov 2026 11:19:11 -0500</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://www.campbell17.com/apps/allocation/Allocation-10.zip" length="4254167" type="application/octet-stream" sparkle:edSignature="QMl+chI5TccB2BUxuvy78OsZgfBAYk1q42Gw5D+yyYrvSKWIujGHjlLQShGACW4bz6XeePzFY0u3PWI29TmjCQ==" />
+      <description>Allocation 1.2.1 fixes the calculator opening behind other applications. Clicking the menu-bar icon brings it to the front on your current desktop. The pin setting still controls whether it stays above other windows.
+</description>
+    </item>
+    <item>
       <title>1.2.0</title>
       <pubDate>Mon, 02 Nov 2026 11:09:42 -0500</pubDate>
       <sparkle:version>9</sparkle:version>
