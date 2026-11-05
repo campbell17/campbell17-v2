@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>0.4.11</title>
+      <pubDate>Thu, 05 Nov 2026 07:38:34 -0500</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.4.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://www.campbell17.com/apps/ice-watch/IceWatch-22.zip" length="1627898" type="application/octet-stream" sparkle:edSignature="7aH8sdVRhCqKWN4RB9jYErikiUdNeDRJcsi0QAStwMkDZdn1pq6jOMbGpERORc8blhx5EnP2K5lWXAbWKBfHCw==" />
+      <description>&lt;h2&gt;Ice Watch 0.4.11&lt;/h2&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove the extra space below the content when no local deals are available.&lt;/li&gt;
+&lt;li&gt;Resize the window when offers appear or disappear.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Improvements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show update notes with category headings and bullet lists.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>0.4.10</title>
       <pubDate>Thu, 05 Nov 2026 07:12:40 -0500</pubDate>
       <sparkle:version>21</sparkle:version>
